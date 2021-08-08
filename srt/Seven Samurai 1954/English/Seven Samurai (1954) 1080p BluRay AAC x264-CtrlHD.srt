@@ -1,0 +1,5928 @@
+1
+00:00:25,587 --> 00:00:29,800
+TOHO CO. , LTD.
+
+2
+00:00:32,428 --> 00:00:36,265
+SEVEN SAMURAI
+
+3
+00:00:41,520 --> 00:00:44,940
+Produced by
+SOJIRO MOTOKI
+
+4
+00:00:45,149 --> 00:00:46,734
+Screenplay by
+
+5
+00:00:46,942 --> 00:00:50,487
+AKIRA KUROSAWA
+SHINOBU HASHIMOTO, HIDEO OGUNI
+
+6
+00:00:50,696 --> 00:00:53,657
+<i>Cinematography by
+ASAKAZU NAKAI</i>
+
+7
+00:00:56,994 --> 00:01:00,164
+Music by
+FUMIO HAYASAKA
+
+8
+00:01:12,426 --> 00:01:14,053
+Starring
+
+9
+00:01:14,261 --> 00:01:16,555
+TOSHIRO MIFUNE
+
+10
+00:01:16,764 --> 00:01:18,974
+TAKASHI SHIMURA
+
+11
+00:01:19,183 --> 00:01:21,435
+KEIKO TSUSHIMA
+
+12
+00:01:21,643 --> 00:01:23,854
+YUKIKO SHIMAZAKI
+
+13
+00:01:24,063 --> 00:01:26,565
+KAMATARI FUJIWARA
+DAISUKE KATO
+
+14
+00:01:26,774 --> 00:01:30,110
+ISAO KIMURA, MINORU CHIAKI
+SEIJI MIYAGUCHI
+
+15
+00:01:30,319 --> 00:01:36,158
+BOKUZEN HIDARI
+YOSHIO INABA, YOSHIO TSUCHIYA
+
+16
+00:03:02,786 --> 00:03:07,875
+Directed by
+AKIRA KUROSAWA
+
+17
+00:03:13,589 --> 00:03:15,507
+In the 16th century, during the Civil Wars,
+
+18
+00:03:15,716 --> 00:03:20,346
+an endless cycle of conflict
+left the countryside overrun by bandits.
+
+19
+00:03:20,554 --> 00:03:24,641
+Peaceful peasants lived in terror
+of the thunder of approaching hooves...
+
+20
+00:04:08,602 --> 00:04:11,772
+Take this village too?
+
+21
+00:04:11,980 --> 00:04:14,650
+Take it! Take it!
+
+22
+00:04:15,567 --> 00:04:16,985
+Not so fast!
+
+23
+00:04:17,152 --> 00:04:21,115
+We just took their rice last fall.
+
+24
+00:04:21,782 --> 00:04:23,242
+They'll have nothing now.
+
+25
+00:04:23,742 --> 00:04:25,202
+Very well.
+
+26
+00:04:25,411 --> 00:04:28,205
+We'll return
+when that barley's ripe!
+
+27
+00:05:00,779 --> 00:05:03,490
+Is there no god to protect us?
+
+28
+00:05:05,284 --> 00:05:10,914
+Land tax, forced labor,
+war, drought...
+
+29
+00:05:11,582 --> 00:05:14,293
+and now bandits!
+
+30
+00:05:18,714 --> 00:05:22,384
+The gods want us farmers dead!
+
+31
+00:05:22,593 --> 00:05:25,304
+That's right!
+We're better off dead!
+
+32
+00:05:26,889 --> 00:05:31,226
+What's all this?
+Crying won't change anything.
+
+33
+00:05:31,685 --> 00:05:34,563
+The magistrate can do more
+than collect taxes.
+
+34
+00:05:34,730 --> 00:05:36,565
+We can ask him for help.
+
+35
+00:05:37,566 --> 00:05:39,526
+We know all about him!
+
+36
+00:05:39,735 --> 00:05:43,072
+He shows up after they're gone,
+acting big while he surveys the damage.
+
+37
+00:05:43,238 --> 00:05:45,366
+That's right. He's useless.
+
+38
+00:05:45,616 --> 00:05:50,871
+We might as well hand over
+our rice and barley to the bandits
+
+39
+00:05:51,080 --> 00:05:53,332
+and just hang ourselves!
+
+40
+00:05:53,874 --> 00:05:57,252
+That'll bring the magistrate
+here in a hurry!
+
+41
+00:06:07,888 --> 00:06:09,556
+We'll kill those bandits.
+
+42
+00:06:10,766 --> 00:06:12,559
+We'll kill them all.
+
+43
+00:06:12,768 --> 00:06:14,812
+Never again!
+Let's kill 'em all!
+
+44
+00:06:15,604 --> 00:06:17,064
+Not me!
+
+45
+00:06:18,607 --> 00:06:20,943
+I couldn't possibly --
+
+46
+00:06:23,070 --> 00:06:25,030
+That's crazy talk.
+
+47
+00:06:26,990 --> 00:06:30,244
+So we can kill defeated samurai
+but not bandits?
+
+48
+00:06:30,911 --> 00:06:34,248
+Stop it! This is no time
+to fight amongst ourselves.
+
+49
+00:06:37,334 --> 00:06:41,422
+We don't have a chance against bandits.
+And when we lose?
+
+50
+00:06:41,630 --> 00:06:44,967
+They'll slaughter us all,
+down to the last unborn child.
+
+51
+00:06:45,134 --> 00:06:48,595
+I've had enough!
+Better to risk it all
+
+52
+00:06:48,804 --> 00:06:51,432
+than to live like this.
+Kill or be killed!
+
+53
+00:06:51,682 --> 00:06:53,100
+Rikichi!
+
+54
+00:06:53,517 --> 00:06:56,270
+The farmer's only choice
+is to endure.
+
+55
+00:06:56,562 --> 00:06:58,605
+We can't defy the powerful.
+
+56
+00:07:00,315 --> 00:07:03,152
+When the bandits arrive,
+we'll greet them meekly
+
+57
+00:07:03,986 --> 00:07:06,155
+and quietly hand over
+all our barley.
+
+58
+00:07:06,655 --> 00:07:11,201
+We'll plead with them to leave
+just enough for us to survive.
+
+59
+00:07:11,660 --> 00:07:16,790
+" That's all we ask, "
+we'll beg on our hands and knees.
+
+60
+00:07:18,417 --> 00:07:20,711
+What bandit will agree to that?
+
+61
+00:07:21,128 --> 00:07:26,258
+Have you forgotten how low we had
+to stoop for the rice we're eating now?
+
+62
+00:07:47,696 --> 00:07:49,782
+We should go see the Old Man.
+
+63
+00:07:49,990 --> 00:07:52,368
+Let him decide what to do.
+
+64
+00:08:57,975 --> 00:09:00,144
+<i>Consider who
+we're dealing with here. </i>
+
+65
+00:09:01,812 --> 00:09:05,774
+<i>Give a wolf a taste of your leg
+and he'll ask for your hand. </i>
+
+66
+00:09:05,941 --> 00:09:08,736
+<i>Once they have a taste,
+they'll be back in the fall. </i>
+
+67
+00:09:08,986 --> 00:09:12,239
+<i>- But what if we lose?
+- Then we're no worse off!</i>
+
+68
+00:09:12,823 --> 00:09:15,784
+<i>Without our barley,
+we're doomed anyway!</i>
+
+69
+00:09:20,956 --> 00:09:22,166
+We fight.
+
+70
+00:09:23,959 --> 00:09:26,086
+Old Man, that's madness.
+
+71
+00:09:26,295 --> 00:09:28,756
+We're farmers.
+What do we know of battle?
+
+72
+00:09:28,964 --> 00:09:31,467
+We'll hire samurai.
+
+73
+00:09:31,842 --> 00:09:35,971
+Whoever heard of farmers
+hiring samurai?
+
+74
+00:09:37,598 --> 00:09:40,309
+I saw it with my own eyes,
+
+75
+00:09:41,352 --> 00:09:46,565
+when the village you were born in
+was torched.
+
+76
+00:09:47,566 --> 00:09:51,779
+I saw it when we escaped
+to this village here.
+
+77
+00:09:52,988 --> 00:09:59,870
+The only village that didn't burn
+was the one that hired samurai.
+
+78
+00:10:00,245 --> 00:10:03,874
+But Old Man, there are
+different kinds of villages and villagers.
+
+79
+00:10:04,083 --> 00:10:06,585
+How are we to feed samurai
+when we live on rice gruel?
+
+80
+00:10:06,794 --> 00:10:07,961
+We'll make do on millet!
+
+81
+00:10:08,170 --> 00:10:12,508
+Show me a samurai who'll fight
+for farmers in return for food!
+
+82
+00:10:12,675 --> 00:10:14,677
+They're a proud lot.
+
+83
+00:10:14,885 --> 00:10:15,928
+Look.
+
+84
+00:10:17,137 --> 00:10:20,849
+Find hungry samurai.
+
+85
+00:10:22,184 --> 00:10:27,856
+Even bears come down from
+the mountains when they're hungry.
+
+86
+00:11:11,400 --> 00:11:14,111
+How dare you?
+
+87
+00:11:15,696 --> 00:11:19,033
+You're nothing but a farmer!
+I'm still a samurai!
+
+88
+00:11:19,241 --> 00:11:21,035
+I don't need your charity!
+
+89
+00:11:24,288 --> 00:11:25,748
+Fool!
+
+90
+00:11:32,921 --> 00:11:34,673
+What'd I tell you?
+
+91
+00:12:07,748 --> 00:12:09,708
+Look, the barley's ripe.
+
+92
+00:12:10,793 --> 00:12:12,878
+Ten days already
+since we left the village.
+
+93
+00:12:13,087 --> 00:12:15,464
+What do we do?
+
+94
+00:12:17,633 --> 00:12:21,011
+This barley's early,
+not like our mountain barley.
+
+95
+00:12:23,806 --> 00:12:27,434
+Hey, we're soaked through
+to the bone.
+
+96
+00:12:27,643 --> 00:12:31,271
+Find any cheap, strong
+and foolhardy samurai?
+
+97
+00:13:10,352 --> 00:13:12,312
+Leftovers.
+
+98
+00:13:12,521 --> 00:13:13,939
+You can have 'em cheap.
+
+99
+00:13:14,148 --> 00:13:15,399
+That's a laugh!
+
+100
+00:13:16,358 --> 00:13:18,986
+- What's so funny?
+- He's blind.
+
+101
+00:13:20,529 --> 00:13:22,906
+- What about you, then?
+- Not me.
+
+102
+00:13:23,115 --> 00:13:25,451
+I'd rather eat horseshit.
+
+103
+00:13:29,788 --> 00:13:34,001
+- Won't get a nose bleed outta him.
+- Cleaned him out gambling last night.
+
+104
+00:13:34,209 --> 00:13:38,047
+Pulled his sword when he lost,
+so the three of us beat him up.
+
+105
+00:13:38,213 --> 00:13:40,632
+Not a drop left in his nose now.
+
+106
+00:13:44,887 --> 00:13:47,973
+Don't bother.
+They only eat millet.
+
+107
+00:13:48,515 --> 00:13:51,226
+Is that true?
+You can't live like that.
+
+108
+00:13:51,435 --> 00:13:54,355
+Without nourishment
+you'll go night-blind.
+
+109
+00:13:54,646 --> 00:13:56,440
+I've got just four left.
+
+110
+00:13:56,648 --> 00:13:59,276
+I'll trade 'em all
+for a cup of rice.
+
+111
+00:13:59,610 --> 00:14:01,445
+What do you say?
+
+112
+00:14:04,239 --> 00:14:06,825
+Damn! What a bunch.
+
+113
+00:14:25,469 --> 00:14:28,097
+What a waste.
+
+114
+00:14:28,764 --> 00:14:33,268
+If we still had that rice,
+we coulda bought 40 of those.
+
+115
+00:14:33,477 --> 00:14:34,353
+Shut up!
+
+116
+00:14:35,270 --> 00:14:37,398
+But it's true, right?
+
+117
+00:14:39,525 --> 00:14:41,485
+The blockhead's cracking up!
+
+118
+00:14:42,152 --> 00:14:44,446
+What a show.
+Go at it, boys.
+
+119
+00:14:49,368 --> 00:14:53,998
+Who ever heard
+of anything so unfair?
+
+120
+00:14:55,582 --> 00:15:01,422
+We give him his fill of rice
+and a free bottle of sake,
+
+121
+00:15:02,297 --> 00:15:05,592
+and he thanks us
+with a beating.
+
+122
+00:15:07,094 --> 00:15:09,096
+Good for him!
+
+123
+00:15:09,471 --> 00:15:12,266
+Not like this one
+playing possum here.
+
+124
+00:15:12,641 --> 00:15:17,813
+Say, let's go home.
+Let's just go home.
+
+125
+00:15:19,982 --> 00:15:21,358
+Look at him sobbing.
+
+126
+00:15:21,567 --> 00:15:23,235
+Misses his wifey.
+
+127
+00:15:23,444 --> 00:15:26,488
+I'd pay good money
+to watch the two of 'em going at it.
+
+128
+00:15:26,697 --> 00:15:31,285
+Let's hurry
+and get back to the village.
+
+129
+00:15:31,493 --> 00:15:34,955
+Go on home. You can't afford buns,
+let alone samurai.
+
+130
+00:15:35,664 --> 00:15:40,002
+Farmers like us know
+good from bad when it comes to seed,
+
+131
+00:15:40,210 --> 00:15:43,005
+but not when it comes
+to samurai.
+
+132
+00:15:44,673 --> 00:15:49,011
+Besides, we're no match
+for the tough ones,
+
+133
+00:15:50,012 --> 00:15:55,642
+and the only ones interested
+are weaklings.
+
+134
+00:16:03,650 --> 00:16:08,530
+If I lost last night,
+it was only because I was starving.
+
+135
+00:16:09,698 --> 00:16:13,494
+Liar! You had plenty
+of money to gamble.
+
+136
+00:16:14,453 --> 00:16:15,871
+Jerk!
+
+137
+00:16:16,038 --> 00:16:17,581
+Wanna fight?
+
+138
+00:16:19,041 --> 00:16:20,751
+It's a fight.
+
+139
+00:16:24,171 --> 00:16:26,548
+Over here!
+Wake up!
+
+140
+00:16:36,975 --> 00:16:39,728
+Quit that strumming, monk!
+It's depressing!
+
+141
+00:16:40,604 --> 00:16:43,732
+Keep it up, grandpa.
+We're on your side.
+
+142
+00:17:14,930 --> 00:17:16,390
+Rikichi!
+
+143
+00:17:17,266 --> 00:17:18,809
+Stop it, Manzo!
+
+144
+00:17:19,268 --> 00:17:22,229
+You said we were going home,
+you son of a bitch!
+
+145
+00:17:23,188 --> 00:17:26,150
+I said we'd go home,
+not bargain with bandits!
+
+146
+00:17:26,942 --> 00:17:29,486
+If we can't hire samurai,
+what's left?
+
+147
+00:17:29,695 --> 00:17:32,322
+It's bargain or nothing!
+
+148
+00:17:33,240 --> 00:17:35,909
+Fine, have it your way!
+
+149
+00:17:44,626 --> 00:17:46,086
+But tell me:
+
+150
+00:17:46,920 --> 00:17:49,340
+If we do strike a bargain,
+
+151
+00:17:49,548 --> 00:17:51,759
+what have we got
+to offer this year?
+
+152
+00:17:52,509 --> 00:17:54,762
+Are you willing to give 'em
+your daughter?
+
+153
+00:17:56,722 --> 00:17:58,682
+Shino's a fine-Iookin' girl.
+
+154
+00:19:30,774 --> 00:19:32,401
+What's going on?
+
+155
+00:19:32,609 --> 00:19:37,531
+There's a thief in that barn.
+We raised a ruckus and he ran in to hide.
+
+156
+00:19:59,720 --> 00:20:02,056
+How many thieves are there?
+
+157
+00:20:02,264 --> 00:20:03,307
+Just one.
+
+158
+00:20:03,766 --> 00:20:05,184
+One?
+
+159
+00:20:06,852 --> 00:20:09,438
+All of you can't take
+a single thief?
+
+160
+00:20:09,646 --> 00:20:14,485
+We don't dare make a move.
+He took a kid in there with him.
+
+161
+00:20:14,693 --> 00:20:17,446
+Says he'll kill him
+if we attack.
+
+162
+00:20:18,572 --> 00:20:21,200
+Listen. Hear him?
+
+163
+00:20:26,580 --> 00:20:28,666
+Poor thing.
+
+164
+00:20:28,874 --> 00:20:31,001
+It all happened
+in the middle of the night.
+
+165
+00:20:31,210 --> 00:20:35,464
+Poor kid's been bawling
+the better part of a day.
+
+166
+00:20:35,673 --> 00:20:38,801
+He can barely
+make a sound now.
+
+167
+00:20:42,054 --> 00:20:46,141
+He's only seven.
+Imagine how his parents feel.
+
+168
+00:20:46,350 --> 00:20:50,062
+Who's that samurai
+getting his head shaved?
+
+169
+00:20:50,270 --> 00:20:54,608
+No idea. We asked him for help
+and he agreed right away.
+
+170
+00:20:54,817 --> 00:20:56,777
+Then he asked us
+for two rice balls.
+
+171
+00:20:56,985 --> 00:21:01,198
+He asked a monk to shave his head
+and lend him his robes.
+
+172
+00:21:01,407 --> 00:21:02,950
+No idea what he's up to.
+
+173
+00:22:35,751 --> 00:22:39,713
+<i>Stay back!
+Any closer and I kill the brat!</i>
+
+174
+00:22:39,922 --> 00:22:41,840
+I'm a monk.
+
+175
+00:22:42,049 --> 00:22:44,176
+<i>Stay back!</i>
+
+176
+00:22:46,011 --> 00:22:49,556
+I'm just a monk.
+I mean you no harm.
+
+177
+00:22:54,895 --> 00:22:56,355
+I won't come in.
+
+178
+00:22:56,563 --> 00:23:00,651
+I just thought the child
+must be very hungry.
+
+179
+00:23:06,073 --> 00:23:08,242
+I've brought some rice balls.
+
+180
+00:23:09,159 --> 00:23:11,245
+You should eat one yourself.
+
+181
+00:23:14,039 --> 00:23:17,334
+Won't you have one?
+
+182
+00:23:17,751 --> 00:23:18,669
+What's wrong?
+
+183
+00:23:22,881 --> 00:23:24,591
+<i>Throw 'em here!</i>
+
+184
+00:23:25,300 --> 00:23:26,427
+Here.
+
+185
+00:23:54,163 --> 00:23:56,373
+My baby!
+
+186
+00:25:07,903 --> 00:25:10,572
+Even you can't object
+to a samurai like that.
+
+187
+00:25:10,781 --> 00:25:13,534
+Ask him quickly.
+It'll be harder in town.
+
+188
+00:25:29,800 --> 00:25:31,677
+What do you want?
+
+189
+00:25:40,602 --> 00:25:44,398
+My name is Katsushiro Okamoto.
+Please make me your disciple!
+
+190
+00:25:47,109 --> 00:25:48,402
+Disciple?
+
+191
+00:25:48,610 --> 00:25:52,448
+As you see, I'm a ronin.
+The name is Kambei Shimada.
+
+192
+00:25:53,115 --> 00:25:55,326
+I don't take on disciples.
+
+193
+00:25:55,534 --> 00:25:58,203
+Get up.
+I can't talk to you like this.
+
+194
+00:25:59,455 --> 00:26:01,623
+I'm begging you --
+let me be your disciple.
+
+195
+00:26:01,832 --> 00:26:06,670
+First get off your knees.
+We'll talk as we go.
+
+196
+00:26:19,016 --> 00:26:20,726
+I'm at a loss.
+
+197
+00:26:20,934 --> 00:26:23,937
+You think far too highly of me.
+
+198
+00:26:24,146 --> 00:26:24,897
+No, sir --
+
+199
+00:26:25,105 --> 00:26:26,815
+Just hear me out.
+
+200
+00:26:27,024 --> 00:26:30,152
+There's nothing special
+about me.
+
+201
+00:26:30,361 --> 00:26:33,614
+I may have seen
+my share of battle,
+
+202
+00:26:33,822 --> 00:26:36,784
+but always on the losing side.
+
+203
+00:26:36,992 --> 00:26:39,745
+That about sums me up.
+
+204
+00:26:39,953 --> 00:26:42,956
+Better not to follow
+such an unlucky man.
+
+205
+00:26:43,165 --> 00:26:48,128
+No, I'm determined to follow you
+whether you allow me to or not.
+
+206
+00:26:48,337 --> 00:26:49,963
+I forbid it.
+
+207
+00:26:51,090 --> 00:26:54,009
+I don't have the means
+to travel with an attendant.
+
+208
+00:27:06,355 --> 00:27:07,981
+Can I help you?
+
+209
+00:27:16,198 --> 00:27:17,908
+What do you want?
+
+210
+00:27:26,166 --> 00:27:27,126
+Insolence!
+
+211
+00:27:29,003 --> 00:27:31,088
+Stay out of this, little chick.
+
+212
+00:27:34,258 --> 00:27:36,218
+Are you a samurai?
+
+213
+00:27:40,389 --> 00:27:42,057
+Damn right I am!
+
+214
+00:27:45,102 --> 00:27:46,812
+I wonder.
+
+215
+00:27:54,778 --> 00:27:56,030
+Bastard.
+
+216
+00:28:12,296 --> 00:28:13,922
+Who was that?
+
+217
+00:28:20,262 --> 00:28:21,847
+Leave him be.
+
+218
+00:28:40,199 --> 00:28:42,034
+I beg of you, sir!
+
+219
+00:28:43,952 --> 00:28:47,081
+You idiot.
+Why don't you scram?
+
+220
+00:28:49,333 --> 00:28:53,212
+Stubborn old fool.
+They'll eat it and run like last time.
+
+221
+00:28:58,133 --> 00:29:00,678
+It will never work.
+
+222
+00:29:00,886 --> 00:29:04,348
+Sir, we could arm the villagers
+with bamboo spears.
+
+223
+00:29:04,556 --> 00:29:07,142
+- I thought of that.
+- But, sir --
+
+224
+00:29:10,854 --> 00:29:13,232
+This isn't a game.
+
+225
+00:29:16,652 --> 00:29:19,279
+They may be bandits,
+but they ride 40 strong.
+
+226
+00:29:19,488 --> 00:29:23,158
+Two or three samurai
+won't suffice.
+
+227
+00:29:36,839 --> 00:29:40,009
+Defense is more difficult
+than offense.
+
+228
+00:29:42,011 --> 00:29:44,263
+You say there are mountains
+behind the village?
+
+229
+00:29:44,471 --> 00:29:45,264
+Yes.
+
+230
+00:29:45,472 --> 00:29:47,141
+Passable by horse?
+
+231
+00:29:47,349 --> 00:29:48,350
+Yes.
+
+232
+00:29:57,526 --> 00:29:59,820
+Fields in front.
+
+233
+00:30:00,029 --> 00:30:02,489
+Until those are flooded
+with water,
+
+234
+00:30:02,865 --> 00:30:05,909
+you're open to mounted attack
+on four sides.
+
+235
+00:30:07,369 --> 00:30:10,080
+You need at least four men,
+one to guard each side.
+
+236
+00:30:11,957 --> 00:30:14,209
+Two more to guard the rear.
+
+237
+00:30:15,794 --> 00:30:18,547
+No matter how frugal
+our estimate,
+
+238
+00:30:19,423 --> 00:30:21,759
+we need seven,
+including me.
+
+239
+00:30:24,011 --> 00:30:26,263
+We can manage
+seven somehow.
+
+240
+00:30:26,472 --> 00:30:29,183
+But the Old Man said four.
+
+241
+00:30:29,391 --> 00:30:31,018
+It's only three more.
+
+242
+00:30:31,560 --> 00:30:33,103
+Hold on a second.
+
+243
+00:30:33,312 --> 00:30:37,024
+I haven't accepted your offer.
+I'm only speculating.
+
+244
+00:30:38,067 --> 00:30:42,905
+First of all, it's not easy
+to find trustworthy samurai.
+
+245
+00:30:43,322 --> 00:30:48,285
+What's more,
+all you have to offer is food.
+
+246
+00:30:49,662 --> 00:30:53,082
+Only those out to fight
+for the hell of it will agree.
+
+247
+00:30:53,499 --> 00:30:57,795
+Besides, I'm sick of fighting.
+
+248
+00:30:59,296 --> 00:31:00,923
+Age, I suppose.
+
+249
+00:31:22,277 --> 00:31:25,364
+Good thing
+I wasn't born a peasant.
+
+250
+00:31:27,157 --> 00:31:30,619
+Better to be born a dog.
+Goddamn it.
+
+251
+00:31:30,953 --> 00:31:34,873
+Go ahead -- hang yourself and die!
+You're better off dead!
+
+252
+00:31:35,082 --> 00:31:36,458
+Silence, you lout!
+
+253
+00:31:36,667 --> 00:31:39,253
+What's it to you?
+I'm only telling the truth.
+
+254
+00:31:39,461 --> 00:31:43,716
+What truth? What the hell do you know
+of these farmers' suffering?
+
+255
+00:31:43,924 --> 00:31:45,509
+Don't make me laugh!
+
+256
+00:31:45,718 --> 00:31:47,386
+Like you would know.
+
+257
+00:31:47,594 --> 00:31:48,429
+How dare you?
+
+258
+00:31:48,637 --> 00:31:52,016
+You heard right. If you know,
+why don't you help them?
+
+259
+00:31:57,563 --> 00:31:59,148
+So you wanna fight?
+
+260
+00:32:01,608 --> 00:32:02,943
+That's enough.
+
+261
+00:32:09,283 --> 00:32:11,118
+Enough!
+
+262
+00:32:18,459 --> 00:32:21,712
+Hey, samurai, look at this.
+
+263
+00:32:21,920 --> 00:32:23,756
+This here's your dinner.
+
+264
+00:32:23,964 --> 00:32:26,592
+But what do you think
+these blockheads eat?
+
+265
+00:32:26,800 --> 00:32:28,052
+Millet.
+
+266
+00:32:28,302 --> 00:32:32,306
+They eat millet
+to feed you white rice.
+
+267
+00:32:32,514 --> 00:32:36,018
+This is the best they can offer.
+What do you say to that?
+
+268
+00:32:37,811 --> 00:32:39,730
+- All right, then.
+- What?
+
+269
+00:32:39,938 --> 00:32:41,357
+Quit your jabbering.
+
+270
+00:32:46,320 --> 00:32:49,448
+I won't let this rice go to waste.
+
+271
+00:33:06,548 --> 00:33:08,509
+Manzo and the others are back!
+
+272
+00:33:23,148 --> 00:33:24,692
+Where are Rikichi and Yohei?
+
+273
+00:33:24,900 --> 00:33:27,569
+They stayed behind.
+We still need more samurai.
+
+274
+00:33:27,778 --> 00:33:29,029
+The samurai are coming?
+
+275
+00:33:29,238 --> 00:33:31,281
+They sure are.
+Seven of 'em.
+
+276
+00:33:31,490 --> 00:33:32,700
+Seven?
+
+277
+00:33:36,787 --> 00:33:38,247
+Seven.
+
+278
+00:33:38,872 --> 00:33:43,043
+I was against it
+because you said four, Old Man.
+
+279
+00:33:44,712 --> 00:33:49,883
+I figured we'd need
+at least ten.
+
+280
+00:33:50,092 --> 00:33:55,180
+But if I'd said ten,
+we'd have ended up with 15.
+
+281
+00:33:56,098 --> 00:33:58,726
+That's the way it goes.
+
+282
+00:34:00,102 --> 00:34:03,272
+Old Man, I'm worried.
+
+283
+00:34:07,985 --> 00:34:11,572
+The village girls will go crazy
+over the samurai.
+
+284
+00:34:11,780 --> 00:34:15,951
+If the samurai touch 'em,
+all hell will break loose.
+
+285
+00:34:19,455 --> 00:34:22,458
+Bandits are coming, you fool.
+
+286
+00:34:23,625 --> 00:34:26,086
+Your head is on the block,
+
+287
+00:34:26,462 --> 00:34:29,715
+and all you think of
+are your whiskers?
+
+288
+00:34:39,350 --> 00:34:40,517
+Samurai, sir.
+
+289
+00:34:51,362 --> 00:34:54,990
+- You require my services?
+- Yes, sir.
+
+290
+00:34:55,574 --> 00:34:57,201
+Who's to be my opponent?
+
+291
+00:34:58,410 --> 00:35:00,120
+<i>Katsushiro. </i>
+
+292
+00:35:12,174 --> 00:35:13,967
+Hide just inside the door.
+
+293
+00:35:16,679 --> 00:35:18,889
+Strike that ronin as he enters.
+
+294
+00:35:23,686 --> 00:35:25,396
+Here he comes.
+
+295
+00:35:30,192 --> 00:35:33,237
+Don't hold back.
+Give him a real whack.
+
+296
+00:36:02,266 --> 00:36:03,851
+Excellent!
+
+297
+00:36:04,810 --> 00:36:08,856
+Please don't take offense.
+I am Kambei Shimada.
+
+298
+00:36:09,064 --> 00:36:13,527
+We're seeking expert swordsmen
+and have no time to waste.
+
+299
+00:36:13,736 --> 00:36:15,029
+Forgive me.
+
+300
+00:36:15,738 --> 00:36:16,947
+What's this about?
+
+301
+00:36:17,865 --> 00:36:19,950
+The reason better be good,
+or I'll have to redeem my honor.
+
+302
+00:36:20,159 --> 00:36:24,621
+I humbly beg your pardon.
+We only sought to test your skill.
+
+303
+00:36:24,830 --> 00:36:28,125
+We must soon contend
+with a gang of bandits.
+
+304
+00:36:29,043 --> 00:36:31,962
+I see.
+And whose clan do you serve?
+
+305
+00:36:32,171 --> 00:36:37,551
+It pains me to tell you,
+but we're fighting for farmers.
+
+306
+00:36:37,760 --> 00:36:39,261
+- Farmers?
+- That's right.
+
+307
+00:36:39,470 --> 00:36:42,890
+This job affords
+no stipend and no reward.
+
+308
+00:36:43,599 --> 00:36:47,144
+But we can eat our fill
+as long as we fight.
+
+309
+00:36:47,436 --> 00:36:48,812
+This is absurd!
+
+310
+00:36:49,813 --> 00:36:51,940
+My ambitions
+are greater than that.
+
+311
+00:36:53,609 --> 00:36:57,905
+That's a shame.
+Won't you reconsider?
+
+312
+00:36:58,781 --> 00:37:00,157
+I will not.
+
+313
+00:37:06,497 --> 00:37:11,543
+Sir, we lost a good man there.
+Such a fine swordsman.
+
+314
+00:37:57,673 --> 00:37:59,299
+What's wrong?
+
+315
+00:37:59,508 --> 00:38:03,887
+That one samurai's good,
+but how'll the other six be?
+
+316
+00:38:04,096 --> 00:38:06,181
+Enough of your worrying.
+
+317
+00:38:06,390 --> 00:38:10,978
+How can we know before they get here?
+Don't worry till you've seen 'em.
+
+318
+00:38:26,243 --> 00:38:28,203
+<i>That one there. </i>
+
+319
+00:38:46,513 --> 00:38:48,891
+Excuse me, samurai, sir.
+
+320
+00:38:51,060 --> 00:38:52,936
+Just like last time?
+
+321
+00:38:56,273 --> 00:38:59,360
+Sure.
+It's good practice for you.
+
+322
+00:39:31,433 --> 00:39:33,435
+Surely you jest.
+
+323
+00:39:34,436 --> 00:39:36,063
+No offense intended.
+
+324
+00:39:51,286 --> 00:39:52,830
+I'm with you.
+
+325
+00:39:55,374 --> 00:39:57,501
+But I have to say
+
+326
+00:39:58,043 --> 00:40:00,754
+that although I understand
+the farmers' suffering
+
+327
+00:40:01,130 --> 00:40:05,634
+and understand
+why you would take up their cause,
+
+328
+00:40:05,843 --> 00:40:10,723
+it's your character
+that I find most compelling.
+
+329
+00:40:11,640 --> 00:40:16,270
+In life one finds friends
+in the strangest places.
+
+330
+00:40:22,276 --> 00:40:24,862
+- What is your name?
+- Gorobei Katayama.
+
+331
+00:40:25,070 --> 00:40:27,031
+A name fit for a giant, no?
+
+332
+00:40:38,042 --> 00:40:41,503
+Yohei, what are you doing?
+Hurry and wash the rice.
+
+333
+00:40:45,924 --> 00:40:47,468
+Yohei!
+
+334
+00:40:51,347 --> 00:40:52,556
+What's wrong?
+
+335
+00:40:54,350 --> 00:40:57,311
+Someone stole the rice.
+
+336
+00:41:08,530 --> 00:41:11,659
+You idiot!
+Didn't I warn you?
+
+337
+00:41:11,867 --> 00:41:14,620
+I was so careful.
+
+338
+00:41:19,333 --> 00:41:23,837
+I slept the whole night
+hugging that rice jar.
+
+339
+00:41:28,967 --> 00:41:30,928
+Fine, then!
+I'll get more from home!
+
+340
+00:41:32,262 --> 00:41:33,722
+But what'll we do
+
+341
+00:41:33,931 --> 00:41:36,141
+till you get back?
+
+342
+00:41:36,350 --> 00:41:40,604
+There's only a handful left.
+
+343
+00:42:33,240 --> 00:42:34,950
+Stop that, you idiot!
+
+344
+00:42:35,159 --> 00:42:37,911
+Hide that money.
+The master's returning.
+
+345
+00:42:43,375 --> 00:42:46,128
+I ran into you
+at just the right time.
+
+346
+00:42:49,006 --> 00:42:55,054
+So you're still alive.
+I figured you'd long since left this earth.
+
+347
+00:43:01,643 --> 00:43:04,396
+Now tell me,
+what happened after that?
+
+348
+00:43:04,980 --> 00:43:08,108
+I hid among the grasses
+in the moat until dark.
+
+349
+00:43:10,611 --> 00:43:16,450
+When the outer walls tumbled down
+on me in flames, I knew I was finished.
+
+350
+00:43:17,493 --> 00:43:19,912
+What ran through your mind
+at that moment?
+
+351
+00:43:20,829 --> 00:43:23,791
+Nothing special.
+
+352
+00:43:26,168 --> 00:43:28,921
+Sick of fighting yet?
+
+353
+00:43:37,763 --> 00:43:43,977
+Truth is, there's a tough battle ahead
+leading to neither money nor rank.
+
+354
+00:43:44,186 --> 00:43:46,563
+Will you join us?
+- Yes.
+
+355
+00:43:47,398 --> 00:43:49,608
+This may be the one
+that kills us.
+
+356
+00:44:10,671 --> 00:44:12,506
+Where are they
+when you need 'em?
+
+357
+00:44:12,715 --> 00:44:14,800
+What do you need, sir?
+
+358
+00:44:15,009 --> 00:44:17,177
+Samurai.
+
+359
+00:44:19,221 --> 00:44:23,392
+There's a pretty poor excuse for one
+in my backyard.
+
+360
+00:44:23,600 --> 00:44:27,187
+I couldn't believe his gumption.
+
+361
+00:44:27,396 --> 00:44:30,149
+He says,
+"I'm hungry. Feed me.
+
+362
+00:44:30,357 --> 00:44:34,403
+I'm broke, though,
+so I'll pay you by chopping wood. "
+
+363
+00:44:39,825 --> 00:44:43,162
+I like his frankness.
+
+364
+00:45:22,868 --> 00:45:25,788
+Never seen a man
+split wood before?
+
+365
+00:45:25,996 --> 00:45:28,457
+Sure, but you do it
+with such relish.
+
+366
+00:45:28,666 --> 00:45:32,586
+It's just my nature.
+Sorry if it bothers you.
+
+367
+00:45:37,383 --> 00:45:38,676
+You're very good.
+
+368
+00:45:38,884 --> 00:45:42,221
+It's nothing compared
+to how I cut down men.
+
+369
+00:45:42,429 --> 00:45:45,891
+- Have you cut down many?
+- That I have.
+
+370
+00:45:46,141 --> 00:45:48,811
+There's no cutting me off
+when I start cutting.
+
+371
+00:45:52,147 --> 00:45:55,484
+So I make it a point
+to run away first.
+
+372
+00:45:56,443 --> 00:45:59,071
+A most excellent approach.
+
+373
+00:45:59,279 --> 00:46:01,448
+Why, thank you kindly.
+
+374
+00:46:08,664 --> 00:46:13,502
+Tell me, do you feel like
+cutting down 30 bandits?
+
+375
+00:46:32,521 --> 00:46:34,106
+Let us commence!
+
+376
+00:48:05,114 --> 00:48:06,323
+Too bad.
+
+377
+00:48:06,532 --> 00:48:07,783
+It's a draw.
+
+378
+00:48:07,992 --> 00:48:09,493
+I'm afraid not.
+
+379
+00:48:09,702 --> 00:48:10,953
+I won.
+
+380
+00:48:14,623 --> 00:48:15,708
+That's ridiculous!
+
+381
+00:48:17,584 --> 00:48:20,212
+If these were steel,
+you'd be dead now.
+
+382
+00:48:25,300 --> 00:48:27,469
+- Then we fight with steel!
+- Don't throw your life away.
+
+383
+00:48:27,678 --> 00:48:28,387
+What?
+
+384
+00:48:28,595 --> 00:48:31,890
+Don't you see?
+With steel blades, you'd die.
+
+385
+00:48:32,099 --> 00:48:33,517
+It's a waste of your life.
+
+386
+00:48:33,726 --> 00:48:36,145
+Wait! Don't try to flee.
+
+387
+00:48:39,773 --> 00:48:42,735
+Draw! This isn't
+a contest of words!
+
+388
+00:49:21,190 --> 00:49:22,858
+This is preposterous.
+
+389
+00:49:24,109 --> 00:49:26,153
+There's no contest.
+
+390
+00:49:57,976 --> 00:49:59,687
+How did you fare?
+
+391
+00:50:03,565 --> 00:50:06,694
+We let a good fish get away.
+An excellent swordsman.
+
+392
+00:50:08,070 --> 00:50:10,239
+They say the fish that gets away
+looks bigger than it really is.
+
+393
+00:50:10,447 --> 00:50:11,657
+No.
+
+394
+00:50:12,741 --> 00:50:16,245
+I watched him cut a man down
+with my own eyes.
+
+395
+00:50:23,252 --> 00:50:24,920
+It was amazing.
+
+396
+00:50:25,254 --> 00:50:29,341
+A man obsessed only
+with testing the limits of his skill.
+
+397
+00:50:29,925 --> 00:50:31,969
+I doubt he'll join us.
+
+398
+00:50:32,177 --> 00:50:34,555
+- That's a shame.
+- Indeed.
+
+399
+00:50:35,973 --> 00:50:38,726
+I did tell him
+where we're staying, though.
+
+400
+00:50:39,059 --> 00:50:40,978
+And how did you fare?
+
+401
+00:50:41,562 --> 00:50:43,355
+- Caught one.
+- I see.
+
+402
+00:50:43,564 --> 00:50:46,984
+- As a swordsman, barely mediocre.
+- Barely mediocre?
+
+403
+00:50:48,485 --> 00:50:51,405
+But an honest, amusing man.
+
+404
+00:50:51,613 --> 00:50:54,366
+Something about him
+brightens one's spirits.
+
+405
+00:50:54,700 --> 00:50:57,244
+He'll be a treasure in hard times.
+
+406
+00:50:57,661 --> 00:50:58,996
+Much obliged.
+
+407
+00:51:01,123 --> 00:51:05,961
+Actually, I did land one myself.
+- The one dressed as a peddler?
+
+408
+00:51:06,170 --> 00:51:07,254
+That's right.
+
+409
+00:51:07,463 --> 00:51:10,090
+In fact, he's an old trusted friend.
+
+410
+00:51:16,055 --> 00:51:17,931
+I'll bring some water.
+
+411
+00:51:21,643 --> 00:51:23,729
+I'm Heihachi Hayashida.
+
+412
+00:51:23,937 --> 00:51:26,899
+A modest warrior
+of the Wood-Chop School.
+
+413
+00:51:32,821 --> 00:51:35,741
+Just three more to go.
+
+414
+00:51:35,949 --> 00:51:38,285
+Three? Don't you mean two?
+
+415
+00:51:38,494 --> 00:51:40,913
+No, we can't afford
+to take a child along.
+
+416
+00:51:42,456 --> 00:51:43,374
+Master!
+
+417
+00:51:43,791 --> 00:51:45,542
+I know, I know.
+
+418
+00:51:46,001 --> 00:51:48,337
+I know what you'll say.
+
+419
+00:51:48,545 --> 00:51:52,716
+I was once your age, you know.
+
+420
+00:51:53,884 --> 00:51:55,844
+Hone your skills,
+
+421
+00:51:56,095 --> 00:51:59,306
+then go to war
+and do great things.
+
+422
+00:51:59,723 --> 00:52:03,560
+Then become lord
+of your own castle and domain.
+
+423
+00:52:04,520 --> 00:52:09,817
+But as you dream those dreams,
+before you know it,
+
+424
+00:52:10,025 --> 00:52:12,152
+your hair will turn
+as gray as mine.
+
+425
+00:52:13,862 --> 00:52:17,866
+By that time
+
+426
+00:52:18,075 --> 00:52:21,537
+you've lost your parents
+and you're all alone.
+
+427
+00:53:09,626 --> 00:53:11,712
+Tomorrow you go home.
+
+428
+00:53:12,129 --> 00:53:14,631
+You've learned a lot
+these four or five days.
+
+429
+00:53:14,840 --> 00:53:16,759
+You have
+fine stories to tell.
+
+430
+00:53:32,608 --> 00:53:36,362
+Please, sir.
+I beg you to let him come along.
+
+431
+00:53:36,570 --> 00:53:39,531
+Why not let him come?
+You call him a kid, but --
+
+432
+00:53:39,740 --> 00:53:41,075
+Actually,
+
+433
+00:53:41,283 --> 00:53:43,494
+kids work harder than adults.
+
+434
+00:53:44,453 --> 00:53:48,082
+But only if you treat them
+like adults.
+
+435
+00:53:48,749 --> 00:53:52,127
+Then let's treat him
+like an adult.
+
+436
+00:53:57,841 --> 00:54:00,302
+That means only two more.
+
+437
+00:54:00,511 --> 00:54:03,681
+Actually just one, it seems.
+
+438
+00:54:10,145 --> 00:54:12,272
+You wish to join us?
+
+439
+00:54:13,482 --> 00:54:15,442
+I'm very grateful.
+
+440
+00:54:15,651 --> 00:54:17,653
+- When do we depart?
+- Tomorrow.
+
+441
+00:54:21,490 --> 00:54:22,491
+Tomorrow?
+
+442
+00:54:24,326 --> 00:54:28,205
+This is enough. We don't have time
+to find the last one.
+
+443
+00:54:30,958 --> 00:54:32,626
+All right, then.
+
+444
+00:54:36,046 --> 00:54:37,589
+Master!
+
+445
+00:54:38,507 --> 00:54:40,217
+Master!
+- All right.
+
+446
+00:54:41,301 --> 00:54:44,471
+- Master!
+- All right! That's enough of that!
+
+447
+00:54:49,309 --> 00:54:52,146
+Hey, I just found
+a real tough samurai.
+
+448
+00:54:52,354 --> 00:54:54,690
+There was a huge fight.
+They were no match for him.
+
+449
+00:54:54,898 --> 00:54:57,484
+Never seen anything like it.
+He's like a wild dog.
+
+450
+00:54:57,693 --> 00:55:00,654
+Someone stopped the fight.
+They started drinking.
+
+451
+00:55:00,863 --> 00:55:02,489
+I told him about you.
+
+452
+00:55:02,698 --> 00:55:04,450
+He's on his way.
+
+453
+00:55:06,869 --> 00:55:08,829
+Shall we give him the usual?
+
+454
+00:55:22,843 --> 00:55:24,553
+What are you doing?
+
+455
+00:55:25,012 --> 00:55:26,680
+Testing him.
+
+456
+00:55:28,140 --> 00:55:29,683
+That's a dirty trick!
+
+457
+00:55:29,892 --> 00:55:32,353
+Hey, samurai!
+- Just shut up and watch.
+
+458
+00:55:32,561 --> 00:55:34,563
+A true samurai won't get hit.
+
+459
+00:55:34,772 --> 00:55:36,440
+But this guy's drunk!
+
+460
+00:55:36,649 --> 00:55:39,485
+A samurai never drinks
+enough to dull his wits.
+
+461
+00:55:54,625 --> 00:55:56,919
+I told you!
+You guys are nuts.
+
+462
+00:55:58,128 --> 00:55:59,838
+What the --
+
+463
+00:56:03,759 --> 00:56:06,553
+Who the hell hit me?
+
+464
+00:56:22,277 --> 00:56:23,904
+You?
+
+465
+00:56:28,951 --> 00:56:32,246
+Who hit me?
+
+466
+00:56:38,085 --> 00:56:39,545
+You?
+
+467
+00:56:42,089 --> 00:56:44,258
+Damn bastard!
+
+468
+00:57:12,786 --> 00:57:14,663
+You again!
+
+469
+00:57:17,291 --> 00:57:20,711
+I see that bald head of yours
+in my dreams!
+
+470
+00:57:23,297 --> 00:57:25,215
+Hey, you.
+
+471
+00:57:26,133 --> 00:57:28,969
+How dare you even ask me
+if I'm a samurai!
+
+472
+00:57:29,553 --> 00:57:31,555
+You got some nerve!
+
+473
+00:57:33,474 --> 00:57:35,267
+Don't mess with me.
+
+474
+00:57:42,149 --> 00:57:45,569
+I may look like hell,
+but I'm a real samurai!
+
+475
+00:57:49,114 --> 00:57:53,535
+I've been looking for you
+ever since that day.
+
+476
+00:57:54,745 --> 00:57:56,830
+Wanted you to see this.
+
+477
+00:58:05,297 --> 00:58:06,840
+Look at this!
+
+478
+00:58:07,049 --> 00:58:12,054
+This is my family tree.
+All my ancestors are here.
+
+479
+00:58:13,972 --> 00:58:18,227
+Damn you, trying to make
+a fool outta me. Screw you.
+
+480
+00:58:20,145 --> 00:58:21,438
+Looky here.
+
+481
+00:58:23,065 --> 00:58:24,858
+Making a fool outta me.
+
+482
+00:58:31,532 --> 00:58:33,784
+My honorable self
+is right here.
+
+483
+00:58:34,743 --> 00:58:37,204
+So this Kikuchiyo here
+would be you?
+
+484
+00:58:37,413 --> 00:58:39,206
+That is correct.
+
+485
+00:58:39,581 --> 00:58:43,752
+" Kikuchiyo,
+born February 17, 1574. "
+
+486
+00:58:45,796 --> 00:58:47,923
+What's so damned funny?
+
+487
+00:58:49,466 --> 00:58:52,177
+You hardly look
+13 years old to me.
+
+488
+00:58:53,095 --> 00:58:57,057
+If you are in fact
+the Kikuchiyo listed here,
+
+489
+00:58:57,266 --> 00:59:00,102
+you'd now be precisely
+13 years old.
+
+490
+00:59:04,606 --> 00:59:07,359
+Where'd you steal
+this family tree?
+
+491
+00:59:07,943 --> 00:59:11,322
+Steal it? Shit!
+
+492
+00:59:11,947 --> 00:59:13,949
+Damn jerks.
+
+493
+00:59:14,116 --> 00:59:16,160
+To hell with samurai.
+
+494
+00:59:17,661 --> 00:59:19,788
+To hell with samurai!
+
+495
+00:59:22,666 --> 00:59:25,044
+Hey, you bastard!
+
+496
+00:59:26,503 --> 00:59:29,173
+Come back here!
+
+497
+00:59:29,381 --> 00:59:32,593
+Goddamn it,
+you son of a bitch!
+
+498
+00:59:42,811 --> 00:59:46,106
+What's wrong, teenager?
+Here you are.
+
+499
+00:59:48,359 --> 00:59:50,486
+Damn you!
+
+500
+00:59:52,154 --> 00:59:54,073
+Come back here!
+
+501
+01:00:29,108 --> 01:00:31,068
+What's wrong, Lord Kikuchiyo?
+
+502
+01:00:35,990 --> 01:00:37,950
+What's the matter, junior?
+
+503
+01:00:47,584 --> 01:00:50,170
+Screw samurai!
+
+504
+01:01:06,729 --> 01:01:10,399
+- Is he really a samurai?
+- In his own mind, anyway.
+
+505
+01:01:21,535 --> 01:01:23,454
+<i>Take me too!</i>
+
+506
+01:01:28,250 --> 01:01:30,794
+Hey, Kikuchiyo.
+
+507
+01:01:33,464 --> 01:01:35,341
+Guard your treasure.
+
+508
+01:01:37,217 --> 01:01:40,179
+Let me go too!
+
+509
+01:02:20,803 --> 01:02:22,930
+What is it, Father?
+
+510
+01:02:39,488 --> 01:02:41,281
+What is it?
+
+511
+01:02:42,157 --> 01:02:44,326
+What are you staring at?
+
+512
+01:02:52,501 --> 01:02:56,088
+Shino, cut off your hair.
+
+513
+01:02:56,296 --> 01:02:58,882
+Cut your hair
+and dress like a man.
+
+514
+01:03:01,051 --> 01:03:03,554
+- What are you talking about?
+- Just cut it off!
+
+515
+01:03:04,555 --> 01:03:08,475
+It's only because I love you.
+No telling what those samurai'll do!
+
+516
+01:03:08,684 --> 01:03:09,601
+No!
+
+517
+01:03:09,810 --> 01:03:12,187
+No, I won't!
+
+518
+01:03:16,525 --> 01:03:18,027
+Shino!
+
+519
+01:03:42,885 --> 01:03:44,219
+He's a fool.
+
+520
+01:03:44,428 --> 01:03:47,890
+But Manzo knows those samurai
+better than anyone.
+
+521
+01:03:48,057 --> 01:03:50,184
+If he cut off his daughter's hair,
+he must have good reason.
+
+522
+01:03:50,392 --> 01:03:53,520
+You've only got sons,
+so you're safe, but we --
+
+523
+01:03:53,729 --> 01:03:56,231
+Goddamn it!
+Now I understand.
+
+524
+01:03:56,440 --> 01:04:00,319
+So you agree to hide my daughter
+at your place across the bridge?
+
+525
+01:04:00,527 --> 01:04:03,447
+Idiot! I meant that I see
+what Manzo's up to.
+
+526
+01:04:04,198 --> 01:04:09,870
+That rascal doesn't care about the village,
+only about his daughter.
+
+527
+01:04:10,245 --> 01:04:11,622
+Damn him!
+
+528
+01:04:30,724 --> 01:04:32,893
+Look what you've done!
+
+529
+01:04:33,394 --> 01:04:35,437
+Now the whole village is crazed.
+
+530
+01:04:35,646 --> 01:04:37,898
+Every family
+with a girl's gone mad.
+
+531
+01:04:39,692 --> 01:04:41,735
+How do you plan
+to set this right?
+
+532
+01:04:41,986 --> 01:04:44,738
+The samurai will show up
+any day now.
+
+533
+01:04:45,614 --> 01:04:48,575
+Come on.
+We're seeing the Old Man.
+
+534
+01:04:50,619 --> 01:04:53,664
+There's nothing to see here!
+Go home!
+
+535
+01:04:54,957 --> 01:04:56,333
+Go home!
+
+536
+01:04:58,127 --> 01:05:01,672
+We can't let the samurai
+see us like this.
+
+537
+01:05:08,470 --> 01:05:10,431
+He's still following us.
+
+538
+01:06:55,744 --> 01:06:57,788
+Where did Kikuchiyo go?
+
+539
+01:06:58,747 --> 01:07:00,457
+Think he gave up?
+
+540
+01:07:00,708 --> 01:07:02,459
+It's funny.
+
+541
+01:07:02,751 --> 01:07:04,878
+Now that he's gone,
+it's almost a little...
+
+542
+01:07:05,254 --> 01:07:07,047
+Ionely.
+
+543
+01:07:12,970 --> 01:07:14,555
+This way.
+
+544
+01:07:16,974 --> 01:07:18,851
+Oh, hell!
+
+545
+01:07:31,822 --> 01:07:34,366
+So that's our castle, eh?
+
+546
+01:07:35,451 --> 01:07:38,203
+No way I'm gonna die
+in that dungheap.
+
+547
+01:07:38,412 --> 01:07:40,914
+No one asked you to.
+
+548
+01:07:59,308 --> 01:08:03,228
+We're back!
+The samurai have arrived!
+
+549
+01:08:08,275 --> 01:08:10,235
+The samurai are here!
+
+550
+01:08:14,948 --> 01:08:18,619
+What's wrong with you?
+The samurai are here!
+
+551
+01:08:24,750 --> 01:08:26,752
+Hey, what's wrong?
+
+552
+01:08:30,839 --> 01:08:32,633
+What's the matter?
+
+553
+01:08:46,647 --> 01:08:48,983
+This is a fine welcome.
+
+554
+01:08:52,611 --> 01:08:54,655
+What's the meaning of this?
+
+555
+01:08:57,574 --> 01:09:01,495
+Hey, what's going on?
+The samurai have arrived!
+
+556
+01:09:17,636 --> 01:09:19,972
+- We'll go see the Old Man.
+- The Old Man?
+
+557
+01:09:20,180 --> 01:09:23,142
+Whatever happens in the village,
+the Old Man --
+
+558
+01:09:23,350 --> 01:09:25,352
+He's the village elder?
+
+559
+01:09:26,895 --> 01:09:31,358
+An audience with the village elder.
+This is truly an honor.
+
+560
+01:09:35,237 --> 01:09:36,864
+Well, let's go.
+
+561
+01:10:48,894 --> 01:10:54,274
+I know they're being foolish.
+
+562
+01:10:55,150 --> 01:10:58,529
+All farmers ever do is worry,
+
+563
+01:10:58,737 --> 01:11:03,575
+whether the rain falls,
+the sun shines, or the wind blows.
+
+564
+01:11:03,909 --> 01:11:05,953
+In short,
+
+565
+01:11:06,620 --> 01:11:10,124
+all they know is fear.
+
+566
+01:11:10,499 --> 01:11:14,169
+Their behavior today...
+
+567
+01:11:15,796 --> 01:11:19,299
+is also due simply to fear.
+
+568
+01:11:22,052 --> 01:11:27,099
+But Old Man,
+why do the villagers fear us?
+
+569
+01:11:28,017 --> 01:11:31,812
+What can they expect from us
+under such circumstances?
+
+570
+01:12:02,551 --> 01:12:04,261
+Samurai, sirs!
+
+571
+01:12:04,928 --> 01:12:07,473
+Samurai, please!
+
+572
+01:12:24,406 --> 01:12:27,618
+Quiet down!
+
+573
+01:12:28,410 --> 01:12:30,913
+Don't panic. Calm down.
+
+574
+01:12:31,580 --> 01:12:34,333
+I want clear answers.
+
+575
+01:12:34,541 --> 01:12:36,835
+Where are the bandits
+coming from?
+
+576
+01:12:37,044 --> 01:12:40,297
+- The mountains!
+- No, the road!
+
+577
+01:12:43,592 --> 01:12:46,720
+Who saw the bandits?
+Come forward.
+
+578
+01:12:47,012 --> 01:12:49,223
+No one saw any bandits?
+
+579
+01:12:49,890 --> 01:12:51,934
+Then who sounded the alarm?
+
+580
+01:12:52,142 --> 01:12:53,394
+<i>I did!</i>
+
+581
+01:12:59,942 --> 01:13:02,236
+Outta the way.
+
+582
+01:13:06,865 --> 01:13:09,368
+What's with the faces?
+
+583
+01:13:10,661 --> 01:13:13,706
+Don't worry.
+No bandits have come.
+
+584
+01:13:19,044 --> 01:13:20,754
+Hey, blockheads.
+
+585
+01:13:20,963 --> 01:13:24,633
+Remember how you welcomed us
+when we got here?
+
+586
+01:13:24,967 --> 01:13:27,636
+But as soon as I bang on this,
+
+587
+01:13:27,845 --> 01:13:31,223
+" Samurai, sirs!
+Samurai, please!"
+
+588
+01:13:31,682 --> 01:13:33,934
+You're practically groveling!
+
+589
+01:13:38,814 --> 01:13:41,442
+Got what you deserved,
+you mud snails.
+
+590
+01:13:59,209 --> 01:14:01,754
+Got a problem, gramps?
+
+591
+01:14:01,962 --> 01:14:03,255
+Nope.
+
+592
+01:14:03,672 --> 01:14:05,758
+All's well now.
+
+593
+01:14:11,430 --> 01:14:14,099
+Looks like he's good
+for something after all.
+
+594
+01:14:14,308 --> 01:14:16,894
+There are seven of us at last.
+
+595
+01:14:24,109 --> 01:14:26,070
+Sorry it's so dirty.
+
+596
+01:14:26,278 --> 01:14:30,115
+But where will you sleep
+if we take your home?
+
+597
+01:14:30,407 --> 01:14:33,827
+- In the barn.
+- With your horse?
+
+598
+01:14:35,371 --> 01:14:38,290
+The bandits
+got my horse last year.
+
+599
+01:14:55,641 --> 01:14:59,228
+A barn's not so bad
+with a wife to snuggle up to.
+
+600
+01:15:03,440 --> 01:15:05,693
+I don't have a wife!
+
+601
+01:15:05,901 --> 01:15:07,611
+What's the matter, you fool?
+
+602
+01:15:19,248 --> 01:15:20,708
+Jerk.
+
+603
+01:15:34,263 --> 01:15:36,932
+By the way,
+what's your real name?
+
+604
+01:15:38,851 --> 01:15:40,686
+I don't remember.
+
+605
+01:15:41,103 --> 01:15:43,439
+Give me a new one that fits.
+
+606
+01:15:43,939 --> 01:15:46,108
+Then Kikuchiyo it is.
+
+607
+01:15:47,318 --> 01:15:49,445
+Fits you perfectly.
+
+608
+01:16:11,700 --> 01:16:14,328
+How would you attack
+this village?
+
+609
+01:16:14,536 --> 01:16:17,122
+I'd charge from this mountain.
+
+610
+01:16:18,749 --> 01:16:20,834
+I agree.
+Along this road.
+
+611
+01:16:21,418 --> 01:16:23,587
+WEST
+
+612
+01:16:38,644 --> 01:16:41,438
+And what's the best defense?
+
+613
+01:16:41,772 --> 01:16:43,816
+Shichiroji knows what to do.
+
+614
+01:16:44,567 --> 01:16:47,945
+See these logs?
+He'll make a fence to block the horses.
+
+615
+01:16:48,153 --> 01:16:50,614
+Indeed.
+Your trusty right-hand man.
+
+616
+01:17:19,602 --> 01:17:20,895
+All right!
+
+617
+01:17:21,562 --> 01:17:23,105
+Listen.
+
+618
+01:17:24,231 --> 01:17:26,233
+Nothing forces you to run
+like a battle.
+
+619
+01:17:26,775 --> 01:17:29,612
+You run when you attack,
+you run when you retreat.
+
+620
+01:17:29,820 --> 01:17:32,156
+When you can't run anymore,
+you die.
+
+621
+01:17:50,674 --> 01:17:53,177
+SOUTH
+
+622
+01:18:06,523 --> 01:18:10,194
+We'll flood these fields
+after they harvest the barley.
+
+623
+01:18:10,486 --> 01:18:15,074
+That'll make a good defense.
+But will we have time?
+
+624
+01:18:15,282 --> 01:18:16,575
+Indeed.
+
+625
+01:18:24,166 --> 01:18:25,626
+Charge!
+
+626
+01:18:26,627 --> 01:18:30,756
+Pretend I'm a bandit
+and stab me.
+
+627
+01:18:33,759 --> 01:18:35,386
+Charge!
+
+628
+01:18:38,597 --> 01:18:40,266
+Come on!
+
+629
+01:18:49,275 --> 01:18:50,693
+<i>Next. </i>
+
+630
+01:18:52,444 --> 01:18:53,946
+<i>Next. </i>
+
+631
+01:18:54,280 --> 01:18:56,323
+What's wrong with all of you?
+
+632
+01:19:20,431 --> 01:19:23,559
+EAST
+
+633
+01:19:27,104 --> 01:19:31,650
+Destroying this bridge
+will foil an assault from the east.
+
+634
+01:19:38,741 --> 01:19:41,869
+But what about the houses
+on the other side?
+
+635
+01:19:49,210 --> 01:19:51,795
+They'll have to evacuate those.
+
+636
+01:19:56,175 --> 01:19:58,260
+And the mill?
+
+637
+01:20:00,221 --> 01:20:03,390
+The Old Man's
+not going to go quietly.
+
+638
+01:20:09,605 --> 01:20:12,441
+Listen now.
+The enemy is scary.
+
+639
+01:20:13,067 --> 01:20:14,526
+Everybody's scared.
+
+640
+01:20:14,777 --> 01:20:18,197
+But the other side's
+scared of us too.
+
+641
+01:20:47,601 --> 01:20:49,270
+Just great.
+
+642
+01:20:50,271 --> 01:20:52,940
+You all make great scarecrows.
+
+643
+01:20:55,359 --> 01:20:59,238
+Problem is, the enemy
+isn't a bunch of sparrows and crows!
+
+644
+01:21:07,705 --> 01:21:11,375
+You there, chewing your cud.
+Can you cut that out?
+
+645
+01:21:15,504 --> 01:21:17,548
+This isn't a cow shed!
+
+646
+01:21:20,885 --> 01:21:23,262
+Look at the bunch of you.
+
+647
+01:21:26,223 --> 01:21:27,808
+Shit!
+
+648
+01:21:28,017 --> 01:21:30,728
+First in line, step forward!
+
+649
+01:21:33,105 --> 01:21:35,107
+I'm talking to you!
+
+650
+01:21:35,691 --> 01:21:36,901
+You!
+
+651
+01:21:57,171 --> 01:22:00,424
+<i>Look here! You gotta pay
+a mon each to watch the show!</i>
+
+652
+01:22:19,360 --> 01:22:21,070
+What's this?
+
+653
+01:22:22,071 --> 01:22:25,032
+- A spear, sir.
+- Idiot.
+
+654
+01:22:25,241 --> 01:22:27,952
+Where the hell
+did you get it?
+
+655
+01:22:28,869 --> 01:22:31,372
+Did it sprout up in those hills?
+
+656
+01:22:33,749 --> 01:22:35,209
+I know perfectly well.
+
+657
+01:22:35,417 --> 01:22:37,878
+You hunted down retreating warriors
+and took their weapons.
+
+658
+01:22:38,170 --> 01:22:41,882
+If you've got one,
+you must have more.
+
+659
+01:22:44,510 --> 01:22:46,387
+Fess up, damn it!
+
+660
+01:22:55,187 --> 01:22:57,648
+NORTH
+
+661
+01:23:07,074 --> 01:23:11,287
+What a peaceful grove.
+But it's also a death trap.
+
+662
+01:23:47,156 --> 01:23:48,616
+Katsushiro.
+
+663
+01:23:49,033 --> 01:23:51,243
+We're going.
+- I'll be right there.
+
+664
+01:23:59,251 --> 01:24:01,128
+As I said,
+he's still a child.
+
+665
+01:25:02,731 --> 01:25:05,526
+Are you from the village?
+
+666
+01:25:10,072 --> 01:25:11,448
+Are you a girl?
+
+667
+01:25:15,202 --> 01:25:17,413
+A boy?
+
+668
+01:25:18,247 --> 01:25:21,208
+Then where's your spear?
+
+669
+01:25:21,417 --> 01:25:24,837
+Is this any time for an able-bodied man
+to be picking flowers?
+
+670
+01:25:25,713 --> 01:25:28,007
+Come here!
+I'll teach you.
+
+671
+01:25:28,465 --> 01:25:30,009
+Come here!
+
+672
+01:25:34,430 --> 01:25:36,056
+Why, you!
+
+673
+01:26:40,871 --> 01:26:43,791
+This is fine, and this too.
+
+674
+01:26:43,958 --> 01:26:45,876
+But this is a problem.
+
+675
+01:26:46,418 --> 01:26:48,921
+<i>Heave ho! Heave ho!</i>
+
+676
+01:26:51,799 --> 01:26:54,218
+Get back, the rest of you!
+
+677
+01:26:54,843 --> 01:26:57,346
+Stand up straight!
+
+678
+01:27:02,685 --> 01:27:04,478
+What a haul!
+
+679
+01:27:10,985 --> 01:27:12,278
+What's all this?
+
+680
+01:27:12,486 --> 01:27:14,822
+Plunder from defeated warriors.
+
+681
+01:27:16,490 --> 01:27:18,325
+Where did you find it?
+
+682
+01:27:18,534 --> 01:27:21,537
+Here in the village?
+- Yep, over at Manzo's.
+
+683
+01:27:31,130 --> 01:27:32,840
+What's the matter?
+
+684
+01:27:34,925 --> 01:27:36,677
+Don't you like 'em?
+
+685
+01:27:38,846 --> 01:27:41,348
+This is good stuff.
+
+686
+01:27:42,975 --> 01:27:44,518
+What's wrong?
+
+687
+01:27:44,727 --> 01:27:48,147
+You said you wanted armor,
+spears and bows. Now you got 'em.
+
+688
+01:27:48,355 --> 01:27:50,774
+Bastard!
+You call yourself a samurai?
+
+689
+01:27:52,067 --> 01:27:55,029
+Those farmers killed samurai
+to get these.
+
+690
+01:27:55,237 --> 01:27:57,197
+- I know that.
+- Then why the hell --
+
+691
+01:27:57,406 --> 01:27:59,241
+That's enough!
+
+692
+01:28:00,576 --> 01:28:04,205
+You can't understand
+unless you've been hunted.
+
+693
+01:28:17,051 --> 01:28:19,762
+It's nothing.
+Get outta here.
+
+694
+01:28:43,077 --> 01:28:47,957
+Now I want to kill them all.
+
+695
+01:29:01,845 --> 01:29:03,764
+Well, that's just fine and dandy!
+
+696
+01:29:06,267 --> 01:29:10,729
+What did ya think
+these farmers were anyway?
+
+697
+01:29:10,938 --> 01:29:13,440
+Buddhas or something?
+
+698
+01:29:13,983 --> 01:29:15,568
+Don't make me laugh!
+
+699
+01:29:15,818 --> 01:29:18,237
+There's no creature on earth
+as wily as a farmer!
+
+700
+01:29:24,118 --> 01:29:26,954
+Ask 'em for rice, barley,
+anything,
+
+701
+01:29:27,121 --> 01:29:29,498
+and all they ever say is,
+"We're all out. "
+
+702
+01:29:30,916 --> 01:29:35,212
+But they've got it.
+They've got everything.
+
+703
+01:29:36,130 --> 01:29:40,134
+Dig under the floorboards.
+If it's not there, try the barn.
+
+704
+01:29:40,342 --> 01:29:45,806
+You'll find plenty.
+Jars of rice, salt, beans, sake!
+
+705
+01:29:50,853 --> 01:29:54,023
+Go up in the mountains.
+They have hidden fields.
+
+706
+01:29:54,607 --> 01:29:57,234
+They kowtow and lie,
+playing innocent the whole time.
+
+707
+01:29:57,443 --> 01:29:59,820
+You name it,
+they'll cheat you on it!
+
+708
+01:30:00,029 --> 01:30:03,073
+After a battle, they hunt down
+the losers with their spears.
+
+709
+01:30:05,492 --> 01:30:06,619
+Listen to me!
+
+710
+01:30:06,827 --> 01:30:10,331
+Farmers are misers, weasels,
+
+711
+01:30:10,539 --> 01:30:11,790
+and crybabies!
+
+712
+01:30:11,999 --> 01:30:14,335
+They're mean, stupid
+
+713
+01:30:14,543 --> 01:30:16,337
+murderers!
+
+714
+01:30:16,545 --> 01:30:19,632
+Damn!
+I could laugh till I cry!
+
+715
+01:30:23,344 --> 01:30:27,139
+But tell me this:
+Who turned them into such monsters?
+
+716
+01:30:27,389 --> 01:30:30,809
+You did!
+You samurai did!
+
+717
+01:30:31,227 --> 01:30:33,020
+Damn you to hell!
+
+718
+01:30:39,944 --> 01:30:41,737
+In war, you burn their villages,
+
+719
+01:30:41,946 --> 01:30:45,032
+trample their fields,
+steal their food,
+
+720
+01:30:45,866 --> 01:30:48,869
+work them like slaves,
+rape their women,
+
+721
+01:30:49,078 --> 01:30:50,704
+and kill 'em if they resist.
+
+722
+01:30:50,913 --> 01:30:52,790
+What do you expect 'em to do?
+
+723
+01:30:52,998 --> 01:30:55,292
+What the hell are farmers
+supposed to do?
+
+724
+01:30:55,501 --> 01:30:57,962
+Damn it! Goddamn it!
+
+725
+01:31:35,749 --> 01:31:39,378
+You were born a farmer,
+weren't you?
+
+726
+01:32:16,957 --> 01:32:20,252
+What is it now?
+
+727
+01:32:20,461 --> 01:32:24,381
+Nothing at all.
+Everything's fine.
+
+728
+01:33:30,072 --> 01:33:31,615
+It's me.
+
+729
+01:33:31,866 --> 01:33:33,909
+I'm sleeping here
+from now on.
+
+730
+01:33:34,577 --> 01:33:36,871
+Those guys cramp my style.
+
+731
+01:33:38,706 --> 01:33:41,750
+Idiot! Stop cowering!
+
+732
+01:33:42,418 --> 01:33:44,461
+This is your place!
+
+733
+01:33:45,004 --> 01:33:47,798
+You hand over your house
+and sleep in a barn,
+
+734
+01:33:48,007 --> 01:33:49,800
+and still you can't stand up
+for yourself.
+
+735
+01:33:50,009 --> 01:33:51,510
+Get to sleep!
+
+736
+01:34:08,152 --> 01:34:10,070
+Brings back memories.
+
+737
+01:34:28,464 --> 01:34:30,424
+Sure is quiet.
+
+738
+01:34:33,344 --> 01:34:38,641
+On a day like this, it's hard
+to imagine bandits on that mountain.
+
+739
+01:34:40,601 --> 01:34:43,687
+Damn it all,
+I need a girl!
+
+740
+01:34:52,530 --> 01:34:53,989
+- Where are you going?
+- The hills.
+
+741
+01:34:54,198 --> 01:34:56,242
+- The hills?
+- To practice.
+
+742
+01:34:57,952 --> 01:34:59,537
+No girls up there.
+
+743
+01:35:01,247 --> 01:35:03,958
+Sometimes you really
+hit the nail on the head.
+
+744
+01:35:05,125 --> 01:35:07,419
+What are you making there?
+
+745
+01:35:07,628 --> 01:35:09,547
+- A flag.
+- A flag?
+
+746
+01:35:10,297 --> 01:35:15,928
+It doesn't feel right in battle
+without a banner to raise high.
+
+747
+01:35:20,766 --> 01:35:22,476
+What do the symbols mean?
+
+748
+01:35:22,643 --> 01:35:27,481
+This represents a field:
+That is, the farmers and this village.
+
+749
+01:35:28,399 --> 01:35:30,776
+- And those circles?
+- Those are us.
+
+750
+01:35:31,735 --> 01:35:34,321
+There's only six.
+You leaving me out?
+
+751
+01:35:34,530 --> 01:35:37,616
+No, this triangle's Lord Kikuchiyo.
+
+752
+01:35:37,825 --> 01:35:39,702
+That's a good one!
+
+753
+01:37:00,908 --> 01:37:02,618
+It's real rice.
+
+754
+01:37:02,910 --> 01:37:04,828
+Go ahead. Eat.
+- But --
+
+755
+01:37:05,037 --> 01:37:07,206
+Rikichi gave me some millet.
+
+756
+01:37:07,414 --> 01:37:11,710
+I could barely get it down.
+
+757
+01:37:13,754 --> 01:37:15,506
+Go ahead. Eat.
+
+758
+01:37:26,850 --> 01:37:28,269
+Hurry up and eat.
+
+759
+01:37:28,435 --> 01:37:30,312
+If you're embarrassed, I'll go.
+
+760
+01:37:30,521 --> 01:37:32,356
+I'm not going to eat it.
+
+761
+01:37:32,606 --> 01:37:34,775
+Why not?
+I went to a lot of trouble.
+
+762
+01:37:34,984 --> 01:37:36,902
+No, I just --
+
+763
+01:37:38,153 --> 01:37:43,450
+I know you did, so I'll take it
+to Kyuemon's grandma.
+
+764
+01:37:43,659 --> 01:37:46,412
+Kyuemon's grandma?
+
+765
+01:38:07,099 --> 01:38:11,353
+Rikichi, I'm full.
+I'll save the rest for later.
+
+766
+01:38:12,104 --> 01:38:14,481
+Go ahead and eat.
+
+767
+01:38:14,732 --> 01:38:16,692
+Take my leftovers this time.
+
+768
+01:38:17,693 --> 01:38:21,280
+What's this?
+What are you up to?
+
+769
+01:38:21,488 --> 01:38:22,990
+What's going on?
+
+770
+01:38:31,040 --> 01:38:32,833
+How terrible.
+
+771
+01:38:34,335 --> 01:38:38,422
+Doesn't she have family?
+- The bandits got them all.
+
+772
+01:38:44,887 --> 01:38:46,347
+I...
+
+773
+01:38:47,223 --> 01:38:52,019
+want to die quickly.
+
+774
+01:38:52,186 --> 01:38:56,440
+I want to die soon
+
+775
+01:38:56,649 --> 01:39:00,861
+and leave this suffering behind.
+
+776
+01:39:02,488 --> 01:39:04,865
+But you know...
+
+777
+01:39:05,950 --> 01:39:09,828
+the other world may be
+
+778
+01:39:10,037 --> 01:39:14,166
+just as full of suffering
+as this one.
+
+779
+01:39:16,001 --> 01:39:17,753
+It's not.
+
+780
+01:39:17,962 --> 01:39:22,299
+In that world
+there's no war and no bandits.
+
+781
+01:39:22,675 --> 01:39:24,843
+There's no suffering there,
+grandma.
+
+782
+01:39:25,052 --> 01:39:28,639
+How the hell would you know?
+Have you been there?
+
+783
+01:39:28,847 --> 01:39:30,558
+Why the hell
+are you always screaming?
+
+784
+01:39:30,766 --> 01:39:32,476
+I hate wimps.
+
+785
+01:39:32,685 --> 01:39:35,312
+Worms like her make me sick!
+
+786
+01:39:37,898 --> 01:39:39,984
+Pissing and grumbling
+about everything.
+
+787
+01:39:41,443 --> 01:39:44,446
+Shit!
+I want to do something wild!
+
+788
+01:39:44,697 --> 01:39:48,576
+Save your spit and fire
+for the bandits.
+
+789
+01:40:04,341 --> 01:40:06,135
+Excuse me.
+
+790
+01:40:08,095 --> 01:40:11,223
+Excuse me, but why did you --
+
+791
+01:40:11,515 --> 01:40:14,226
+You saw us today, didn't you?
+
+792
+01:40:14,435 --> 01:40:16,896
+Me and the --
+
+793
+01:40:17,104 --> 01:40:19,064
+- The girl?
+- Yes.
+
+794
+01:40:20,065 --> 01:40:23,819
+Why didn't you --
+- Tell them? You want me to?
+
+795
+01:40:39,001 --> 01:40:43,464
+We want rice!
+White rice!
+
+796
+01:40:48,219 --> 01:40:51,805
+You little brats!
+There's no rice!
+
+797
+01:40:57,561 --> 01:40:59,563
+Quit yapping!
+
+798
+01:40:59,772 --> 01:41:04,735
+If you've got the strength
+to scream, "We want rice!"
+
+799
+01:41:04,944 --> 01:41:07,321
+Then you don't need it!
+
+800
+01:41:07,738 --> 01:41:10,574
+Listen here,
+you little piss pants.
+
+801
+01:41:12,660 --> 01:41:14,828
+This is all the rice there is.
+
+802
+01:41:15,037 --> 01:41:18,249
+If we give you any more,
+we'll get all --
+
+803
+01:41:21,961 --> 01:41:23,420
+That's how it is.
+
+804
+01:41:23,629 --> 01:41:27,383
+Say, any of you got
+a pretty sister?
+
+805
+01:41:29,843 --> 01:41:33,556
+How about you?
+You got one?
+
+806
+01:41:33,806 --> 01:41:37,351
+So, Old Man,
+when is the harvest?
+
+807
+01:41:39,728 --> 01:41:41,522
+In ten days.
+
+808
+01:41:41,730 --> 01:41:44,024
+How quickly can you do it?
+
+809
+01:41:46,026 --> 01:41:48,904
+No less than three days.
+
+810
+01:41:49,947 --> 01:41:51,991
+We'll flood the fields
+when you're done.
+
+811
+01:41:52,199 --> 01:41:56,036
+You see, we want to create
+a moat to the south of the village.
+
+812
+01:41:56,203 --> 01:41:58,330
+It'll keep the horses out.
+
+813
+01:41:58,539 --> 01:42:01,876
+We don't need all the fields.
+One patch per family will do.
+
+814
+01:42:02,084 --> 01:42:03,586
+Then...
+
+815
+01:42:04,128 --> 01:42:08,424
+it'll take at least a day to flatten
+the paths and draw the water.
+
+816
+01:42:08,632 --> 01:42:10,968
+Understood.
+
+817
+01:42:11,302 --> 01:42:13,554
+There's one other thing.
+
+818
+01:42:14,054 --> 01:42:20,352
+You need to leave the houses this side
+of the bridge, and the mill too.
+
+819
+01:42:21,437 --> 01:42:23,230
+Father!
+
+820
+01:42:23,522 --> 01:42:25,649
+You want us to move out?
+
+821
+01:42:32,990 --> 01:42:35,242
+I know it's tough.
+
+822
+01:42:36,911 --> 01:42:39,038
+But there's no choice.
+
+823
+01:42:40,664 --> 01:42:44,585
+We can't possibly protect
+the outlying houses.
+
+824
+01:43:05,773 --> 01:43:09,068
+Listen carefully. You'll soon
+begin harvesting the barley.
+
+825
+01:43:09,318 --> 01:43:11,278
+The bandits will come
+when you're done.
+
+826
+01:43:11,445 --> 01:43:13,322
+We have to assume that.
+
+827
+01:43:13,531 --> 01:43:17,284
+Therefore we prepare
+for battle as we harvest.
+
+828
+01:43:17,660 --> 01:43:21,205
+We'll harvest not as families
+but as squads.
+
+829
+01:43:21,705 --> 01:43:26,001
+Starting tomorrow,
+each squad will live and work as one.
+
+830
+01:43:26,210 --> 01:43:31,090
+Understood? Starting tomorrow,
+nobody acts on his own.
+
+831
+01:43:32,383 --> 01:43:34,260
+Hey, everybody.
+
+832
+01:43:35,886 --> 01:43:39,807
+Give your wives
+plenty of lovin' tonight, you hear?
+
+833
+01:44:00,995 --> 01:44:03,539
+This is all a load of crap!
+
+834
+01:44:03,747 --> 01:44:06,500
+Everyone from across the bridge,
+follow me.
+
+835
+01:44:09,211 --> 01:44:11,297
+Throw down your spears.
+
+836
+01:44:11,505 --> 01:44:15,509
+Why should we abandon
+our homes to protect theirs?
+
+837
+01:44:16,427 --> 01:44:19,972
+That's right.
+We'll protect our homes ourselves.
+
+838
+01:44:22,057 --> 01:44:23,642
+Stop!
+
+839
+01:44:26,812 --> 01:44:28,647
+Pick up your spears!
+
+840
+01:44:29,315 --> 01:44:30,774
+Return to your line!
+
+841
+01:44:56,592 --> 01:44:58,844
+Fall in!
+
+842
+01:44:59,762 --> 01:45:02,014
+Squad formation!
+
+843
+01:45:05,059 --> 01:45:07,478
+Where's Yohei gone?
+
+844
+01:45:08,896 --> 01:45:10,564
+Where the hell's Yohei?
+
+845
+01:45:16,111 --> 01:45:19,198
+There you are, you idiot!
+
+846
+01:45:36,840 --> 01:45:39,009
+There are three outlying houses,
+
+847
+01:45:39,885 --> 01:45:41,887
+but 20 in the village.
+
+848
+01:45:42,763 --> 01:45:46,725
+We can't risk 20
+to save three.
+
+849
+01:45:47,977 --> 01:45:52,273
+And if this village is destroyed,
+
+850
+01:45:53,148 --> 01:45:55,359
+those three cannot survive
+on their own.
+
+851
+01:45:59,446 --> 01:46:02,908
+Is that clear?
+This is the nature of war:
+
+852
+01:46:04,451 --> 01:46:07,246
+By protecting others,
+you save yourself.
+
+853
+01:46:09,248 --> 01:46:11,709
+If you only think of yourself,
+
+854
+01:46:12,209 --> 01:46:14,378
+you'll only destroy yourself.
+
+855
+01:46:17,464 --> 01:46:21,260
+From this day forward,
+anyone caught doing that...
+
+856
+01:52:53,308 --> 01:52:54,935
+Hot damn!
+
+857
+01:52:55,144 --> 01:52:56,937
+Look at all those girls!
+
+858
+01:52:57,229 --> 01:52:58,564
+Hey, Yohei!
+
+859
+01:53:04,153 --> 01:53:06,905
+Where the hell
+have you been hiding these girls?
+
+860
+01:53:11,243 --> 01:53:12,995
+You devil.
+
+861
+01:53:20,836 --> 01:53:23,088
+Hey, lend me your scythe.
+
+862
+01:53:24,298 --> 01:53:26,300
+I'll cut three times your share.
+
+863
+01:53:26,508 --> 01:53:29,511
+In return,
+we get nice and friendly, eh?
+
+864
+01:53:53,577 --> 01:53:54,995
+- Rikichi.
+- Yes.
+
+865
+01:53:56,205 --> 01:53:59,875
+It seems the married couples
+are the most productive.
+
+866
+01:54:00,584 --> 01:54:02,711
+Time you got yourself a wife.
+
+867
+01:54:06,131 --> 01:54:10,260
+Why do you always get so mad?
+I just said you should --
+
+868
+01:54:11,512 --> 01:54:13,764
+Katsushiro, go after him.
+
+869
+01:54:13,972 --> 01:54:16,058
+Running off at a time like this.
+
+870
+01:54:17,267 --> 01:54:18,685
+Rikichi!
+
+871
+01:54:19,728 --> 01:54:21,146
+Rikichi!
+
+872
+01:54:25,359 --> 01:54:28,028
+Shino, what are you gawking at?
+
+873
+01:54:44,169 --> 01:54:47,339
+What's this? A bear's den?
+
+874
+01:54:49,383 --> 01:54:51,510
+This was done with a scythe.
+
+875
+01:54:53,679 --> 01:54:54,972
+Was it Rikichi?
+
+876
+01:54:55,597 --> 01:54:58,058
+Yes, though I didn't actually
+see him do it.
+
+877
+01:54:58,267 --> 01:55:00,435
+I lost him for a while,
+
+878
+01:55:00,644 --> 01:55:02,521
+but then I spotted him
+leaving this grove.
+
+879
+01:55:02,729 --> 01:55:05,858
+He was furious,
+soaked in sweat.
+
+880
+01:55:09,444 --> 01:55:11,113
+What did you say to him?
+
+881
+01:55:11,321 --> 01:55:14,783
+Nothing. Just that he should
+hurry up and find a wife.
+
+882
+01:55:18,120 --> 01:55:22,291
+Something's upsetting the little bugger,
+but he won't say what.
+
+883
+01:55:22,791 --> 01:55:25,169
+You can see it
+all over his face.
+
+884
+01:55:26,003 --> 01:55:31,550
+Those lips of his
+are bolted up tight as a house.
+
+885
+01:55:31,758 --> 01:55:34,136
+Why don't you try to open them up?
+
+886
+01:55:41,560 --> 01:55:42,436
+Who's there?
+
+887
+01:55:42,644 --> 01:55:43,896
+<i>It's me. </i>
+
+888
+01:55:46,273 --> 01:55:48,775
+All clear?
+- Yes.
+
+889
+01:55:56,200 --> 01:56:00,162
+Have a seat.
+Let's have a little chat.
+
+890
+01:56:05,375 --> 01:56:08,879
+I think talking...
+
+891
+01:56:09,588 --> 01:56:11,423
+is a good thing.
+
+892
+01:56:12,007 --> 01:56:15,969
+Whatever your burden may be,
+talking can ease it.
+
+893
+01:56:19,223 --> 01:56:23,101
+You, for example,
+seem pretty tight-lipped,
+
+894
+01:56:23,560 --> 01:56:28,232
+but if you're suffering,
+you shouldn't bottle it up.
+
+895
+01:56:31,026 --> 01:56:35,489
+Letting out your feelings
+bit by bit can work wonders.
+
+896
+01:56:36,782 --> 01:56:39,409
+I've got nothing to say.
+
+897
+01:56:57,052 --> 01:56:58,887
+Time to head out.
+
+898
+01:57:01,431 --> 01:57:02,474
+Shall we wake him?
+
+899
+01:57:02,683 --> 01:57:04,852
+No, let the kid sleep.
+
+900
+01:57:08,814 --> 01:57:10,232
+Shino.
+
+901
+01:57:13,026 --> 01:57:15,070
+I swear he just said " Shino. "
+
+902
+01:57:18,115 --> 01:57:19,950
+Sounds like a woman's name.
+
+903
+01:57:20,159 --> 01:57:22,953
+Even kids can be charmers
+in their dreams.
+
+904
+01:57:29,376 --> 01:57:31,879
+Where shall we start our rounds?
+
+905
+01:57:32,087 --> 01:57:35,257
+The place that worries us most,
+of course.
+
+906
+01:58:32,648 --> 01:58:34,107
+Who's there?
+
+907
+01:58:40,948 --> 01:58:42,449
+Who's there?
+
+908
+01:58:42,991 --> 01:58:44,660
+Come out here!
+
+909
+01:58:45,410 --> 01:58:46,370
+Who's there?
+
+910
+01:58:46,578 --> 01:58:47,996
+Kikuchiyo.
+
+911
+01:58:50,332 --> 01:58:52,417
+You're lucky it was us.
+
+912
+01:58:52,835 --> 01:58:55,963
+If we'd been bandits,
+you'd be headless right now.
+
+913
+01:59:27,995 --> 01:59:29,496
+Yohei.
+
+914
+01:59:30,873 --> 01:59:32,583
+What's this?
+
+915
+01:59:32,916 --> 01:59:35,002
+That's my horse, sir.
+
+916
+01:59:37,337 --> 01:59:40,132
+I thought it was a big old mouse.
+
+917
+02:00:19,797 --> 02:00:23,842
+<i>The sparrows chirp, chirp, chirp</i>
+
+918
+02:00:24,802 --> 02:00:28,597
+<i>The crows caw, caw, caw</i>
+
+919
+02:00:32,434 --> 02:00:35,687
+I wonder why
+the bandits aren't coming.
+
+920
+02:00:38,023 --> 02:00:43,445
+What a waste if they don't.
+Think how much we feed those samurai.
+
+921
+02:00:43,612 --> 02:00:47,407
+Idiot!
+It's best if they don't come!
+
+922
+02:00:53,956 --> 02:00:57,209
+A nag like that
+can't carry your weight!
+
+923
+02:00:57,417 --> 02:01:00,671
+Yohei's horse is too worn out.
+
+924
+02:01:02,798 --> 02:01:05,884
+Please stop. Yohei'll be in tears
+if you break its leg.
+
+925
+02:01:06,093 --> 02:01:09,596
+A skilled horseman
+can make even a nag soar into the sky.
+
+926
+02:01:21,650 --> 02:01:22,860
+Not bad.
+
+927
+02:01:38,625 --> 02:01:40,544
+Very fine indeed!
+
+928
+02:02:04,568 --> 02:02:06,612
+They seem to be having fun.
+
+929
+02:02:08,197 --> 02:02:11,033
+The threshing's done,
+and still no bandits.
+
+930
+02:02:11,492 --> 02:02:14,870
+Everyone's saying
+they might not come after all.
+
+931
+02:02:16,121 --> 02:02:18,373
+A tempting thought.
+
+932
+02:02:18,874 --> 02:02:24,087
+But when you think you're safe
+is precisely when you're most vulnerable.
+
+933
+02:02:25,380 --> 02:02:27,800
+Send them back
+to their posts.
+
+934
+02:03:01,250 --> 02:03:05,003
+I wish I'd been born
+into a samurai family.
+
+935
+02:03:08,132 --> 02:03:10,092
+A farmer's life is too cruel.
+
+936
+02:03:11,218 --> 02:03:14,221
+My life has been so easy,
+I'm ashamed.
+
+937
+02:03:14,429 --> 02:03:16,765
+That's not what I meant.
+
+938
+02:03:17,141 --> 02:03:21,603
+It's because you're a samurai
+and I'm a farmer.
+
+939
+02:03:21,812 --> 02:03:23,230
+But I don't --
+
+940
+02:03:23,438 --> 02:03:26,650
+It's all right. I don't mind.
+We can't know
+
+941
+02:03:26,859 --> 02:03:29,027
+what the future holds!
+
+942
+02:04:02,352 --> 02:04:05,564
+Coward!
+Act like a samurai!
+
+943
+02:05:12,631 --> 02:05:15,384
+Three suspicious characters
+on the western road.
+
+944
+02:05:17,845 --> 02:05:20,597
+- The villagers haven't noticed?
+- Not yet.
+
+945
+02:05:20,806 --> 02:05:22,850
+We can't have them
+sounding the alarm.
+
+946
+02:05:25,227 --> 02:05:28,147
+I saw three horses
+up in the hills.
+
+947
+02:05:28,355 --> 02:05:31,233
+I think they're bandits.
+- We know.
+
+948
+02:05:35,946 --> 02:05:38,157
+- So they're here.
+- How did you know?
+
+949
+02:05:38,365 --> 02:05:41,535
+How could I not?
+This one here was in such a panic.
+
+950
+02:05:44,955 --> 02:05:47,541
+Where are they coming from?
+The mountains or the west?
+
+951
+02:05:49,960 --> 02:05:51,420
+The west.
+
+952
+02:06:00,095 --> 02:06:00,971
+Bandits!
+
+953
+02:06:05,517 --> 02:06:08,562
+Send everyone to their houses.
+There are only three of them.
+
+954
+02:06:08,770 --> 02:06:11,565
+Tell them to keep quiet
+no matter what.
+
+955
+02:06:11,773 --> 02:06:16,111
+They're probably scouts.
+We can't let them see any samurai.
+
+956
+02:06:33,337 --> 02:06:35,422
+What is it?
+
+957
+02:06:35,881 --> 02:06:37,633
+Bandits?
+
+958
+02:06:40,302 --> 02:06:43,347
+Bandits, eh?
+Where are they?
+
+959
+02:06:55,025 --> 02:06:56,318
+Quiet!
+
+960
+02:06:58,362 --> 02:07:00,197
+Where are they, Shichiroji?
+
+961
+02:07:00,405 --> 02:07:03,117
+Beyond the fence.
+
+962
+02:07:17,506 --> 02:07:20,092
+No doubt about it -- they're scouts.
+
+963
+02:07:20,634 --> 02:07:22,511
+The fence took them by surprise.
+
+964
+02:07:23,637 --> 02:07:26,014
+They don't seem
+to realize we're here.
+
+965
+02:07:26,181 --> 02:07:29,309
+With luck they'll report
+there are only farmers here.
+
+966
+02:07:30,853 --> 02:07:33,438
+<i>Hey, where is everyone?</i>
+
+967
+02:07:33,647 --> 02:07:35,315
+That idiot!
+
+968
+02:07:36,358 --> 02:07:38,277
+Kikuchiyo!
+
+969
+02:07:44,533 --> 02:07:46,869
+Hey, I hear the bandits are here.
+
+970
+02:07:48,537 --> 02:07:49,329
+You fool.
+
+971
+02:07:49,538 --> 02:07:51,832
+Too late.
+They've seen us.
+
+972
+02:08:02,718 --> 02:08:06,180
+If they report back that samurai
+are here, we're finished.
+
+973
+02:08:07,097 --> 02:08:10,184
+I'll kill them.
+The mountain's my territory.
+
+974
+02:08:10,559 --> 02:08:11,560
+I was just --
+
+975
+02:08:11,768 --> 02:08:15,522
+Enough. You can make up for it
+by getting one.
+
+976
+02:08:15,731 --> 02:08:17,065
+Head them off at --
+
+977
+02:08:17,274 --> 02:08:20,110
+I know, at their horses.
+Take us there.
+
+978
+02:08:21,278 --> 02:08:22,863
+Katsushiro!
+
+979
+02:08:23,739 --> 02:08:26,241
+Just watch, you understand?
+
+980
+02:08:33,332 --> 02:08:35,501
+Those are some horses!
+
+981
+02:08:40,339 --> 02:08:42,216
+Wait in this hollow.
+
+982
+02:08:51,099 --> 02:08:53,811
+- What do you plan to do?
+- Who, me?
+
+983
+02:10:54,223 --> 02:10:56,391
+Katsushiro.
+
+984
+02:10:57,226 --> 02:10:59,436
+You can come out now.
+
+985
+02:11:02,773 --> 02:11:04,608
+Help me!
+
+986
+02:11:23,710 --> 02:11:25,420
+Back off!
+
+987
+02:11:26,755 --> 02:11:31,009
+He's a captive who has confessed.
+He's begging for his life.
+
+988
+02:11:31,218 --> 02:11:34,638
+You can't just
+chop him to pieces.
+
+989
+02:11:35,973 --> 02:11:37,182
+Stay out of this!
+
+990
+02:11:38,934 --> 02:11:41,145
+Let me do it! Scum!
+
+991
+02:11:59,246 --> 02:12:00,998
+All right.
+
+992
+02:12:01,457 --> 02:12:04,084
+Let her avenge her son's death.
+
+993
+02:12:06,462 --> 02:12:09,173
+Someone help her!
+
+994
+02:12:09,381 --> 02:12:10,966
+I'll do it!
+
+995
+02:12:19,850 --> 02:12:23,604
+- That bandit said their fort --
+- It's hardly a fort.
+
+996
+02:12:23,812 --> 02:12:27,649
+It's full of holes,
+like Yohei's underwear.
+
+997
+02:12:27,816 --> 02:12:30,152
+- Easy to sneak in.
+- Let's attack at night.
+
+998
+02:12:30,319 --> 02:12:33,906
+They have 40 men.
+We'd usually pick off a few first.
+
+999
+02:12:34,114 --> 02:12:37,034
+Wait. We can't afford
+to lose a single man,
+
+1000
+02:12:37,242 --> 02:12:39,661
+even if we kill five
+for every one lost.
+
+1001
+02:12:39,828 --> 02:12:44,374
+- War is always a gamble.
+- Three of us can take 10 of them.
+
+1002
+02:12:45,417 --> 02:12:46,919
+Rikichi.
+
+1003
+02:12:47,127 --> 02:12:50,047
+How far away is their hideout?
+
+1004
+02:12:50,255 --> 02:12:51,715
+At least a day.
+
+1005
+02:12:51,924 --> 02:12:54,718
+Hey, we've got
+three of their horses.
+
+1006
+02:12:54,927 --> 02:12:56,970
+Half a day by horse.
+
+1007
+02:13:10,000 --> 02:13:11,627
+Very well. Let's do it.
+
+1008
+02:13:11,835 --> 02:13:14,755
+If we leave now,
+we'll arrive before dawn.
+
+1009
+02:13:14,963 --> 02:13:16,673
+But who should go?
+
+1010
+02:13:19,885 --> 02:13:21,011
+Not you.
+
+1011
+02:13:23,764 --> 02:13:26,058
+And me makes three.
+
+1012
+02:13:26,975 --> 02:13:28,852
+They need a guide!
+
+1013
+02:13:29,061 --> 02:13:31,438
+There aren't enough horses.
+
+1014
+02:13:31,647 --> 02:13:33,649
+There's Yohei's horse.
+You ride that.
+
+1015
+02:13:33,857 --> 02:13:36,068
+The only man
+to master that steed
+
+1016
+02:13:36,276 --> 02:13:37,820
+is Lord Kikuchiyo himself.
+
+1017
+02:13:46,954 --> 02:13:49,123
+Whoa! What the hell?
+
+1018
+02:13:49,998 --> 02:13:52,167
+It's the other way!
+
+1019
+02:13:54,628 --> 02:13:56,463
+Stupid horse!
+
+1020
+02:13:57,131 --> 02:14:01,051
+This way, you useless mule!
+
+1021
+02:14:01,844 --> 02:14:04,388
+You call yourself a horse?
+
+1022
+02:14:04,596 --> 02:14:06,682
+You should be
+ashamed of yourself!
+
+1023
+02:14:08,642 --> 02:14:10,436
+Hey, wait!
+
+1024
+02:14:12,771 --> 02:14:16,567
+Please stop!
+I apologize!
+
+1025
+02:14:16,775 --> 02:14:18,235
+I'm sorry!
+
+1026
+02:15:44,822 --> 02:15:47,241
+Hey, let's set the place on fire!
+
+1027
+02:15:47,449 --> 02:15:49,326
+Cut 'em down as they run out!
+
+1028
+02:18:23,689 --> 02:18:25,649
+Serves you right!
+
+1029
+02:18:26,316 --> 02:18:28,026
+We did it!
+
+1030
+02:18:30,487 --> 02:18:32,448
+Take that, you sons of bitches!
+
+1031
+02:19:15,491 --> 02:19:16,784
+Heihachi!
+
+1032
+02:19:37,638 --> 02:19:39,932
+Are you crazy?
+
+1033
+02:19:55,739 --> 02:19:56,949
+Stupid idiot!
+
+1034
+02:19:57,157 --> 02:20:00,369
+Look what you've done!
+Who is she to you?
+
+1035
+02:20:01,745 --> 02:20:04,081
+She's my wife!
+
+1036
+02:20:07,709 --> 02:20:10,421
+Heihachi, hang on!
+
+1037
+02:20:49,626 --> 02:20:51,253
+You said...
+
+1038
+02:20:53,297 --> 02:20:56,300
+he'd be a treasure
+in hard times.
+
+1039
+02:20:58,093 --> 02:21:00,429
+The hard times
+have only just begun.
+
+1040
+02:21:10,564 --> 02:21:11,774
+Stop crying!
+
+1041
+02:21:12,524 --> 02:21:14,568
+Damn fool!
+
+1042
+02:21:15,861 --> 02:21:17,488
+Stop crying!
+
+1043
+02:22:45,409 --> 02:22:47,494
+Goddamn!
+Here they come!
+
+1044
+02:24:00,734 --> 02:24:04,488
+Take note:
+They have three muskets.
+
+1045
+02:24:30,180 --> 02:24:32,307
+Twenty riders bound north,
+13 south.
+
+1046
+02:24:32,516 --> 02:24:34,643
+- Muskets?
+- Three in all.
+
+1047
+02:24:35,853 --> 02:24:38,856
+Take the south, and watch out
+for those muskets.
+
+1048
+02:25:35,204 --> 02:25:37,498
+Retreat! Retreat!
+
+1049
+02:25:53,138 --> 02:25:56,642
+- The 12 headed south have turned east.
+- Wasn't that 13?
+
+1050
+02:25:56,892 --> 02:25:58,811
+An arrow got one of them.
+
+1051
+02:25:59,019 --> 02:26:00,562
+Good old Gorobei.
+
+1052
+02:26:03,357 --> 02:26:06,610
+Make sure the eastern bridge is out,
+and watch out for --
+
+1053
+02:26:06,819 --> 02:26:08,320
+The muskets!
+
+1054
+02:26:17,412 --> 02:26:20,958
+Take the north.
+That's where we'll battle it out.
+
+1055
+02:26:21,959 --> 02:26:25,379
+If you knew that, why didn't
+you build a fence there too?
+
+1056
+02:26:25,587 --> 02:26:27,965
+Every great castle
+needs a breach.
+
+1057
+02:26:28,173 --> 02:26:32,428
+Draw the enemy there and attack.
+You can't win by defense alone.
+
+1058
+02:26:44,189 --> 02:26:46,316
+Use your balls,
+if you've got any!
+
+1059
+02:26:50,446 --> 02:26:52,948
+Take it away, damn it!
+
+1060
+02:26:56,493 --> 02:26:59,204
+Twelve riders are on the way.
+Hurry with the bridge!
+
+1061
+02:26:59,455 --> 02:27:02,124
+Are you blind?
+What do you think we're doing?
+
+1062
+02:27:04,084 --> 02:27:06,462
+And he said
+to watch out for the muskets.
+
+1063
+02:27:06,670 --> 02:27:08,630
+What kinda idiot
+you take me for?
+
+1064
+02:27:15,304 --> 02:27:16,638
+Where are you going?
+
+1065
+02:27:16,847 --> 02:27:19,641
+We're looking for Father.
+We can't find him anywhere.
+
+1066
+02:27:19,975 --> 02:27:24,521
+Father intends to die in that barn.
+That's what he's always wanted.
+
+1067
+02:27:30,277 --> 02:27:32,404
+Stubborn old fool!
+
+1068
+02:27:32,946 --> 02:27:35,115
+Hurry up and get him!
+
+1069
+02:27:38,702 --> 02:27:40,746
+Get out of our way!
+
+1070
+02:27:41,705 --> 02:27:45,042
+What are you doing?
+Hurry up!
+
+1071
+02:28:06,855 --> 02:28:09,149
+- On this mountain --
+- Twenty riders.
+
+1072
+02:28:09,566 --> 02:28:12,152
+And 12 to the east.
+
+1073
+02:28:12,361 --> 02:28:13,737
+Right.
+
+1074
+02:28:29,586 --> 02:28:32,673
+This won't do.
+They're all scared stiff.
+
+1075
+02:28:36,552 --> 02:28:38,095
+Good! Again!
+
+1076
+02:28:39,721 --> 02:28:41,223
+Again!
+
+1077
+02:28:44,601 --> 02:28:47,771
+Shichiroji's at it.
+Let's fire ours up too.
+
+1078
+02:28:49,314 --> 02:28:50,983
+Everybody out here!
+
+1079
+02:28:56,280 --> 02:28:58,740
+Raise your spears
+and give the battle cry.
+
+1080
+02:29:03,412 --> 02:29:04,288
+Again!
+
+1081
+02:29:08,667 --> 02:29:11,587
+Damn 'em, listen to that!
+We can beat 'em!
+
+1082
+02:29:15,507 --> 02:29:18,135
+Yohei, what's that look for?
+Again!
+
+1083
+02:29:23,348 --> 02:29:25,267
+Take cover!
+
+1084
+02:29:30,022 --> 02:29:31,857
+Here they come!
+
+1085
+02:29:48,499 --> 02:29:49,917
+Goddamn 'em!
+
+1086
+02:30:26,203 --> 02:30:29,331
+Hey, where do you think
+you're going?
+
+1087
+02:30:33,710 --> 02:30:35,921
+Oh, no, you don't!
+
+1088
+02:30:40,717 --> 02:30:42,302
+Don't panic!
+
+1089
+02:30:51,228 --> 02:30:53,647
+Goddamn you!
+
+1090
+02:30:57,734 --> 02:30:59,194
+They're burning!
+
+1091
+02:30:59,611 --> 02:31:01,488
+Damn bastards!
+
+1092
+02:31:31,310 --> 02:31:34,354
+Back to your posts, everyone!
+
+1093
+02:31:35,564 --> 02:31:37,232
+Dear!
+
+1094
+02:31:39,193 --> 02:31:41,904
+They're just rickety shacks!
+
+1095
+02:31:44,865 --> 02:31:47,826
+Everybody, back to your posts!
+
+1096
+02:31:59,338 --> 02:32:00,839
+Goddamn it!
+
+1097
+02:32:02,591 --> 02:32:04,259
+You dogs!
+
+1098
+02:32:04,593 --> 02:32:07,137
+That's the Old Man's house!
+
+1099
+02:32:09,723 --> 02:32:12,392
+Where's the Old Man?
+What about that couple?
+
+1100
+02:32:12,893 --> 02:32:15,854
+And the little brat?
+What the hell's going on?
+
+1101
+02:32:18,982 --> 02:32:21,902
+Stop!
+You can't abandon your post!
+
+1102
+02:32:23,862 --> 02:32:25,906
+Kikuchiyo, come back!
+
+1103
+02:32:28,033 --> 02:32:29,493
+Kikuchiyo!
+
+1104
+02:32:44,675 --> 02:32:47,469
+Where's the Old Man
+and your husband?
+
+1105
+02:32:57,479 --> 02:33:00,399
+She's been speared.
+How'd she make it this far?
+
+1106
+02:33:06,905 --> 02:33:08,782
+Let's go!
+
+1107
+02:33:15,372 --> 02:33:17,499
+Damn it, what is it now?
+
+1108
+02:33:20,711 --> 02:33:23,380
+This baby... is me.
+
+1109
+02:33:23,881 --> 02:33:26,383
+This is just
+what happened to me!
+
+1110
+02:34:35,202 --> 02:34:37,079
+Here we go!
+
+1111
+02:34:45,838 --> 02:34:47,881
+What the hell?
+
+1112
+02:35:02,146 --> 02:35:04,648
+What the hell
+were you staring at?
+
+1113
+02:35:05,816 --> 02:35:07,401
+Idiot!
+
+1114
+02:36:09,713 --> 02:36:11,757
+No one wounded?
+
+1115
+02:36:12,174 --> 02:36:14,593
+Good.
+You did a fine job.
+
+1116
+02:36:14,802 --> 02:36:16,428
+Fine job!
+
+1117
+02:36:19,807 --> 02:36:22,017
+Gunpowder!
+Take cover!
+
+1118
+02:36:32,569 --> 02:36:34,238
+Manzo!
+
+1119
+02:36:48,043 --> 02:36:49,962
+Where were you hit?
+
+1120
+02:36:50,504 --> 02:36:53,632
+Shino! Shino!
+Bring me my daughter.
+
+1121
+02:36:54,883 --> 02:36:56,260
+Don't bother.
+
+1122
+02:36:56,677 --> 02:36:59,555
+If this kills you,
+you'd die of a fleabite.
+
+1123
+02:37:00,806 --> 02:37:03,350
+You make a ruckus
+over a little scratch
+
+1124
+02:37:03,559 --> 02:37:07,396
+and blow your daughter's cover
+in the process. Nice going!
+
+1125
+02:37:36,800 --> 02:37:39,011
+You don't have
+to chase them all down.
+
+1126
+02:37:42,473 --> 02:37:44,516
+That's far enough.
+Well done.
+
+1127
+02:37:45,309 --> 02:37:47,186
+Who are you?
+
+1128
+02:37:49,104 --> 02:37:50,773
+Rikichi.
+
+1129
+02:38:05,829 --> 02:38:08,290
+They've attacked from the east,
+west and south
+
+1130
+02:38:08,499 --> 02:38:11,460
+and run away each time
+with their tails between their legs.
+
+1131
+02:38:11,668 --> 02:38:13,378
+This is the only approach left.
+
+1132
+02:38:13,587 --> 02:38:16,173
+We don't know
+if they'll come tonight,
+
+1133
+02:38:16,381 --> 02:38:18,467
+but when they do,
+they'll mass their forces here.
+
+1134
+02:38:18,675 --> 02:38:20,344
+Perhaps, but...
+
+1135
+02:38:21,053 --> 02:38:23,097
+I don't hear a thing.
+
+1136
+02:38:36,193 --> 02:38:37,903
+Nevertheless,
+
+1137
+02:38:38,695 --> 02:38:40,989
+this will surely
+be the focus of their attack.
+
+1138
+02:38:41,448 --> 02:38:43,367
+I'll prove it to you in a minute.
+
+1139
+02:39:27,411 --> 02:39:28,746
+Good work.
+
+1140
+02:39:28,912 --> 02:39:31,957
+Now poke that scarecrow out
+from behind those trees.
+
+1141
+02:40:06,533 --> 02:40:09,578
+I'd say tomorrow morning
+
+1142
+02:40:09,953 --> 02:40:12,414
+they'll attack us here
+with everything they've got.
+
+1143
+02:40:12,623 --> 02:40:15,501
+And we'll let them in.
+
+1144
+02:40:19,463 --> 02:40:22,591
+Don't worry.
+I mean we'll let one in.
+
+1145
+02:40:23,675 --> 02:40:25,636
+Two at most.
+
+1146
+02:40:26,637 --> 02:40:30,307
+Once they're in,
+we form a wall again with our spears.
+
+1147
+02:40:31,058 --> 02:40:33,894
+The one or two who get in
+are as good as dead.
+
+1148
+02:40:34,103 --> 02:40:36,105
+We can cook 'em up
+any way we want.
+
+1149
+02:40:38,440 --> 02:40:42,986
+We'll pick them off patiently,
+one by one, until the final showdown.
+
+1150
+02:40:43,195 --> 02:40:45,197
+Those muskets worry me.
+
+1151
+02:40:45,405 --> 02:40:47,533
+If only we could
+get one of them.
+
+1152
+02:40:50,160 --> 02:40:53,455
+I'll go.
+I swear I'll get one!
+
+1153
+02:40:53,664 --> 02:40:56,583
+No. You're looking to die.
+I'll go.
+
+1154
+02:41:49,762 --> 02:41:51,638
+Footsteps! Listen!
+
+1155
+02:41:51,847 --> 02:41:55,058
+That's enough.
+Get some rest.
+
+1156
+02:41:55,267 --> 02:41:58,228
+It's true! I hear them!
+Listen.
+
+1157
+02:41:58,437 --> 02:42:00,522
+I said enough.
+
+1158
+02:42:01,440 --> 02:42:04,526
+You're exhausted.
+Get some rest.
+
+1159
+02:42:07,321 --> 02:42:08,989
+I hear them.
+
+1160
+02:42:37,184 --> 02:42:38,894
+Two more down.
+
+1161
+02:43:13,929 --> 02:43:15,097
+What is it?
+
+1162
+02:43:18,225 --> 02:43:22,271
+State your business.
+I'm going to get some sleep.
+
+1163
+02:43:23,814 --> 02:43:27,276
+You are a magnificent person.
+
+1164
+02:43:31,655 --> 02:43:35,701
+I've wanted to tell you so
+for some time.
+
+1165
+02:44:01,727 --> 02:44:03,437
+They're here.
+
+1166
+02:44:07,566 --> 02:44:09,526
+We'll let one in.
+
+1167
+02:44:12,362 --> 02:44:14,281
+We're letting one in!
+
+1168
+02:44:21,747 --> 02:44:26,210
+Remember, after the first one's in,
+jump out with your spears.
+
+1169
+02:44:45,145 --> 02:44:46,355
+Here they come.
+
+1170
+02:45:22,349 --> 02:45:24,059
+Step aside!
+
+1171
+02:45:26,645 --> 02:45:28,147
+Good work.
+
+1172
+02:45:35,904 --> 02:45:38,907
+What's wrong?
+You did well.
+
+1173
+02:45:39,450 --> 02:45:41,368
+Here he comes!
+Scatter!
+
+1174
+02:45:58,969 --> 02:46:01,138
+Fall back! Fall back!
+
+1175
+02:46:06,810 --> 02:46:08,854
+After them!
+
+1176
+02:46:17,196 --> 02:46:18,822
+Another on the way!
+
+1177
+02:48:01,175 --> 02:48:02,885
+Here he comes.
+
+1178
+02:48:19,151 --> 02:48:20,903
+Watch this!
+
+1179
+02:48:26,909 --> 02:48:29,578
+Having fun
+with your horsey?
+
+1180
+02:48:51,391 --> 02:48:55,896
+They've stopped.
+Won't fall for that trick again, eh?
+
+1181
+02:49:04,863 --> 02:49:07,991
+They're all wimps!
+Who's scared of bandits anyway?
+
+1182
+02:49:14,957 --> 02:49:20,170
+That little skirmish just cost them four.
+Kyuzo got two last night.
+
+1183
+02:49:36,812 --> 02:49:39,022
+That man is a true samurai.
+
+1184
+02:49:39,398 --> 02:49:42,025
+He's fearless,
+his swordsmanship is amazing,
+
+1185
+02:49:42,234 --> 02:49:43,902
+and yet he's kind too.
+
+1186
+02:49:44,111 --> 02:49:47,781
+He never once boasted
+about capturing that musket.
+
+1187
+02:49:48,240 --> 02:49:52,703
+He walked into a forest filled with bandits
+as if on a mushroom hunt.
+
+1188
+02:49:54,121 --> 02:49:58,375
+Fascinating.
+I'm not bored at all, I swear.
+
+1189
+02:50:16,268 --> 02:50:18,145
+Hey, Yohei.
+
+1190
+02:50:19,062 --> 02:50:20,564
+Take over for me.
+
+1191
+02:50:23,734 --> 02:50:26,695
+What's that face for?
+
+1192
+02:50:26,904 --> 02:50:29,031
+There's no danger here now.
+
+1193
+02:50:30,699 --> 02:50:32,826
+You make a great scarecrow.
+
+1194
+02:52:04,334 --> 02:52:05,586
+Hear me good!
+
+1195
+02:52:06,670 --> 02:52:09,047
+If anybody else turns yellow --
+
+1196
+02:52:15,262 --> 02:52:16,597
+Out of my way!
+
+1197
+02:53:40,139 --> 02:53:41,348
+Hey!
+
+1198
+02:53:45,144 --> 02:53:46,270
+How's it goin'?
+
+1199
+02:53:46,478 --> 02:53:48,480
+Man, they're a pain.
+
+1200
+02:53:48,814 --> 02:53:50,899
+Won't be long now.
+
+1201
+02:53:51,358 --> 02:53:54,570
+Everything's upside down.
+
+1202
+02:53:54,778 --> 02:53:58,574
+They burn us out,
+and we starve like farmers.
+
+1203
+02:53:59,450 --> 02:54:02,244
+Quit your moaning.
+There are better times ahead.
+
+1204
+02:54:02,453 --> 02:54:04,747
+Do your part, man.
+
+1205
+02:54:44,495 --> 02:54:46,622
+Hey, it's me!
+
+1206
+02:54:53,962 --> 02:54:55,631
+Serves you right, you dogs!
+
+1207
+02:54:55,839 --> 02:54:56,840
+Fool!
+
+1208
+02:54:58,008 --> 02:55:00,010
+Why did you leave your post?
+
+1209
+02:55:00,219 --> 02:55:01,553
+Just look at this!
+
+1210
+02:55:01,762 --> 02:55:05,349
+Don't scold me, man.
+My post is fine.
+
+1211
+02:55:06,225 --> 02:55:09,728
+There's nothing heroic
+about selfishly grabbing for glory.
+
+1212
+02:55:09,937 --> 02:55:14,108
+Listen to me:
+War is not fought alone!
+
+1213
+02:55:24,535 --> 02:55:27,496
+Gorobei and Kyuzo,
+guard this post!
+
+1214
+02:55:34,000 --> 02:55:36,002
+Let no one pass!
+
+1215
+02:57:43,963 --> 02:57:46,716
+Stop, you asses!
+
+1216
+02:57:46,924 --> 02:57:48,593
+Damn you!
+
+1217
+02:57:49,260 --> 02:57:51,220
+Damn it! Two made it in!
+
+1218
+02:58:06,944 --> 02:58:09,947
+Goddamn it!
+
+1219
+02:58:10,698 --> 02:58:12,241
+Where's Yohei?
+
+1220
+02:58:52,281 --> 02:58:53,574
+Yohei!
+
+1221
+02:58:55,243 --> 02:58:56,577
+Yohei!
+
+1222
+02:58:57,120 --> 02:59:00,248
+I defended my post.
+
+1223
+02:59:00,456 --> 02:59:03,084
+Don't give up, Yohei!
+
+1224
+02:59:06,462 --> 02:59:08,297
+Go ahead, shoot me!
+
+1225
+02:59:46,335 --> 02:59:48,045
+Shichiroji, take over!
+
+1226
+02:59:59,348 --> 03:00:01,184
+Gorobei!
+
+1227
+03:00:10,860 --> 03:00:12,862
+Gorobei!
+
+1228
+03:01:04,831 --> 03:01:07,041
+Just 13 left.
+
+1229
+03:01:07,708 --> 03:01:09,710
+But these last seven...
+
+1230
+03:01:11,003 --> 03:01:13,047
+came at a steep price.
+
+1231
+03:01:34,277 --> 03:01:36,946
+How are you? Tired?
+
+1232
+03:01:38,906 --> 03:01:42,785
+Poor man.
+You've lost a lot of weight.
+
+1233
+03:01:46,998 --> 03:01:49,500
+I'll go throw
+some water on my face.
+
+1234
+03:02:00,136 --> 03:02:02,763
+<i>Next time they come,
+we fight to the finish.</i>
+
+1235
+03:02:02,972 --> 03:02:07,226
+It's better we fight it out
+before we're spent.
+
+1236
+03:02:07,477 --> 03:02:11,022
+When do you think
+they'll attack?
+
+1237
+03:02:12,482 --> 03:02:15,443
+They're exhausted too,
+and a few are wounded.
+
+1238
+03:02:15,902 --> 03:02:17,945
+They won't come tonight.
+
+1239
+03:02:18,154 --> 03:02:23,367
+But they have no food,
+and their ranks are splitting.
+
+1240
+03:02:24,327 --> 03:02:26,370
+They can't afford
+to dawdle either.
+
+1241
+03:02:26,662 --> 03:02:32,794
+I say they'll come at us like hell
+tomorrow morning.
+
+1242
+03:02:34,170 --> 03:02:35,797
+Katsushiro.
+
+1243
+03:02:55,358 --> 03:02:56,818
+An order from above.
+
+1244
+03:02:57,026 --> 03:03:00,154
+Place two on watch
+and let the rest sleep.
+
+1245
+03:03:00,863 --> 03:03:04,826
+The men may visit their families
+one at a time.
+
+1246
+03:03:06,702 --> 03:03:08,162
+So tomorrow's the showdown?
+
+1247
+03:03:10,248 --> 03:03:12,416
+Yes.
+Please carry out the order.
+
+1248
+03:03:19,173 --> 03:03:22,927
+You all heard what he just said.
+
+1249
+03:03:26,973 --> 03:03:29,350
+I'll stand guard.
+
+1250
+03:03:30,017 --> 03:03:31,853
+The rest of you sleep.
+
+1251
+03:03:32,895 --> 03:03:36,065
+Manzo...
+
+1252
+03:03:36,899 --> 03:03:38,901
+you go home first.
+
+1253
+03:03:39,360 --> 03:03:41,696
+Take a good look
+at your daughter --
+
+1254
+03:03:42,572 --> 03:03:44,782
+I mean, your son.
+
+1255
+03:03:53,833 --> 03:03:55,084
+I told them.
+
+1256
+03:03:55,293 --> 03:03:57,420
+All right. Get some rest.
+
+1257
+03:04:01,507 --> 03:04:03,801
+Katsushiro.
+
+1258
+03:04:04,760 --> 03:04:06,304
+How was Kikuchiyo?
+
+1259
+03:04:06,512 --> 03:04:09,557
+Still beside the grave.
+
+1260
+03:04:09,849 --> 03:04:11,058
+I see.
+
+1261
+03:05:24,465 --> 03:05:27,260
+Are we all going
+to die tomorrow?
+
+1262
+03:05:27,468 --> 03:05:30,513
+There's no way to know.
+
+1263
+03:05:31,180 --> 03:05:33,683
+But we might!
+
+1264
+03:05:55,955 --> 03:05:57,331
+Shino.
+
+1265
+03:05:57,999 --> 03:05:59,625
+Where's Shino?
+
+1266
+03:06:05,339 --> 03:06:06,841
+Anyone seen Shino?
+
+1267
+03:06:41,375 --> 03:06:43,920
+Sake, eh?
+Where'd you find it?
+
+1268
+03:06:59,268 --> 03:07:02,230
+I see. They have stockpiles,
+just like Kikuchiyo said,
+
+1269
+03:07:02,438 --> 03:07:04,440
+and tonight it all comes out.
+
+1270
+03:07:13,866 --> 03:07:16,410
+I think I'll help myself.
+
+1271
+03:07:20,206 --> 03:07:21,707
+Shino!
+
+1272
+03:07:47,567 --> 03:07:50,611
+Here's some sake.
+Drink up and get some sleep.
+
+1273
+03:07:55,908 --> 03:08:00,121
+This is hardly like you.
+You must rest for the battle tomorrow.
+
+1274
+03:08:11,757 --> 03:08:13,801
+Shino!
+
+1275
+03:09:18,991 --> 03:09:20,827
+<i>You tramp!</i>
+
+1276
+03:09:30,336 --> 03:09:33,381
+You wench!
+
+1277
+03:09:37,301 --> 03:09:39,428
+Stop this brutality!
+
+1278
+03:09:39,637 --> 03:09:43,891
+What the hell's a farmer girl
+doing with a samurai?
+
+1279
+03:10:09,417 --> 03:10:11,043
+You slut!
+
+1280
+03:10:21,220 --> 03:10:22,722
+Manzo.
+
+1281
+03:10:23,639 --> 03:10:26,142
+Is this your daughter?
+
+1282
+03:10:32,648 --> 03:10:34,442
+Tell me what happened.
+
+1283
+03:10:34,650 --> 03:10:38,988
+You mentioned a samurai.
+Who was it?
+
+1284
+03:10:40,615 --> 03:10:42,074
+Manzo!
+
+1285
+03:10:51,834 --> 03:10:53,669
+Manzo, say something.
+
+1286
+03:10:54,796 --> 03:10:56,297
+Speak!
+
+1287
+03:11:28,704 --> 03:11:30,873
+Are you Shino?
+
+1288
+03:11:50,143 --> 03:11:53,312
+Manzo, don't be angry.
+
+1289
+03:11:54,814 --> 03:11:57,859
+When the dawn threatens
+our very lives,
+
+1290
+03:11:58,067 --> 03:12:01,362
+the weight of it
+makes us all a little reckless.
+
+1291
+03:12:07,243 --> 03:12:09,704
+On the eve of decisive battles...
+
+1292
+03:12:11,330 --> 03:12:14,041
+this often happens,
+even inside castles.
+
+1293
+03:12:16,919 --> 03:12:20,965
+Remember what it was to be young.
+You can't blame them.
+
+1294
+03:12:21,924 --> 03:12:24,010
+I can't forgive them.
+
+1295
+03:12:24,260 --> 03:12:27,388
+I can't stand by when my only daughter
+has been made damaged goods.
+
+1296
+03:12:42,028 --> 03:12:46,616
+What's wrong with two people in love?
+It's not like bandits took her!
+
+1297
+03:14:19,041 --> 03:14:23,296
+They're wound up tight.
+We need to loosen them up.
+
+1298
+03:14:31,387 --> 03:14:34,640
+Everyone, the final battle
+is here at last.
+
+1299
+03:14:37,685 --> 03:14:41,856
+By the way, Katsushiro,
+we expect much of you today.
+
+1300
+03:14:43,691 --> 03:14:46,694
+As of last night,
+you became a real man.
+
+1301
+03:15:04,754 --> 03:15:06,297
+Hey!
+
+1302
+03:15:09,258 --> 03:15:12,386
+Where's that fighting spirit?
+
+1303
+03:15:14,180 --> 03:15:17,725
+You'll never win
+with such long faces!
+
+1304
+03:15:31,322 --> 03:15:33,407
+Kikuchiyo, what are you up to?
+
+1305
+03:15:33,616 --> 03:15:35,910
+I can't kill five
+with just one blade.
+
+1306
+03:15:51,634 --> 03:15:53,553
+There are 13 left.
+
+1307
+03:15:54,762 --> 03:15:58,683
+We'll let them all in.
+
+1308
+03:16:00,309 --> 03:16:02,687
+Once they pass this point,
+
+1309
+03:16:03,229 --> 03:16:07,066
+we close in from all sides
+at the crossing.
+
+1310
+03:16:09,986 --> 03:16:14,115
+Everything's riding
+on this battle!
+
+1311
+03:16:44,437 --> 03:16:46,647
+Here they come!
+
+1312
+03:17:10,004 --> 03:17:12,173
+Here they come!
+
+1313
+03:17:36,697 --> 03:17:38,866
+Shichiroji and Katsushiro,
+go west!
+
+1314
+03:17:39,158 --> 03:17:41,410
+Kyuzo, Kikuchiyo, east!
+
+1315
+03:19:22,929 --> 03:19:25,848
+Katsushiro! Rikichi!
+
+1316
+03:19:26,057 --> 03:19:28,684
+East! Go east!
+
+1317
+03:19:28,893 --> 03:19:30,728
+East!
+
+1318
+03:19:47,829 --> 03:19:49,580
+Shut up!
+
+1319
+03:19:50,039 --> 03:19:52,250
+Scream and you're dead!
+
+1320
+03:20:39,672 --> 03:20:40,840
+We did it!
+
+1321
+03:20:41,048 --> 03:20:42,341
+We did it!
+
+1322
+03:20:42,550 --> 03:20:45,261
+Head east!
+
+1323
+03:21:00,610 --> 03:21:02,987
+Katsushiro, pull back!
+
+1324
+03:21:05,531 --> 03:21:07,742
+Damn you!
+
+1325
+03:21:09,494 --> 03:21:10,912
+Kikuchiyo!
+
+1326
+03:21:47,115 --> 03:21:49,200
+Kikuchiyo!
+
+1327
+03:21:59,627 --> 03:22:02,672
+Where are the bandits?
+
+1328
+03:22:02,880 --> 03:22:04,841
+They're all dead!
+
+1329
+03:22:23,192 --> 03:22:25,987
+Once more we survive.
+
+1330
+03:26:04,205 --> 03:26:07,875
+In the end,
+we lost this battle too.
+
+1331
+03:26:08,793 --> 03:26:10,002
+What?
+
+1332
+03:26:10,878 --> 03:26:12,463
+I mean,
+
+1333
+03:26:12,880 --> 03:26:15,424
+the victory belongs
+to those peasants.
+
+1334
+03:26:16,759 --> 03:26:18,553
+Not to us.
+
+1335
+03:26:47,790 --> 03:26:52,670
+THE END
+

@@ -1,0 +1,34 @@
+        # way 1
+        #translate
+        # context = js2py.EvalJs(enable_require=True)
+        # context.eval("require('esprima').parse('var a = 1')")
+        # js2py.translate_file('srtToJSON.js' ,'test.py')
+        # test.parseSRT()
+
+        # way 2
+        #run js
+        # response = muterun_js('srtToJSON.js')
+        # if response.exitcode == 0:
+        #     print(response.stdout)
+        # else:
+        #     sys.exit(response.stderr)
+
+        # way 3
+        #do it in python
+        # flag = False
+        # if (os.path.isfile(f"main.json") == False):
+        js = strtojson(path_to_srt,f"{movie_title}-{year}")
+        #     file = open("main.json","w") 
+        #     file.write(json.dumps(js))
+        # else:
+        #     file = open("main.json","r+b") 
+        #     js = json.load(file)
+        #     print(type(js))
+        #     for movie in js:
+        #         if(movie["title"] == f"{movie_title}-{year}"):
+        #             flag = True
+            # if(flag == False):
+                # js.append()
+        # way 4
+        #online
+        # https://transcribefiles.net/other/pages/caption-subtitle-converter.htm

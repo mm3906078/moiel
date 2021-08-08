@@ -1,0 +1,1421 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: The Godfather (1972) BluRay 23.976fps 177.09min Eng
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,22,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:16.82,0:01:19.66,Default,,0,0,0,,I believe in America.
+Dialogue: 0,0:01:19.74,0:01:22.70,Default,,0,0,0,,America has made my fortune.
+Dialogue: 0,0:01:22.79,0:01:26.91,Default,,0,0,0,,And I raised my daughter\Nin the American fashion.
+Dialogue: 0,0:01:27.00,0:01:31.84,Default,,0,0,0,,I gave her freedom, but I taught her\Nnever to dishonor her family.
+Dialogue: 0,0:01:33.30,0:01:36.42,Default,,0,0,0,,She found a boyfriend, not an Italian.
+Dialogue: 0,0:01:36.51,0:01:40.93,Default,,0,0,0,,She went to the movies with him.\NShe stayed out late.
+Dialogue: 0,0:01:41.01,0:01:42.72,Default,,0,0,0,,I didn't protest.
+Dialogue: 0,0:01:43.81,0:01:48.52,Default,,0,0,0,,Two months ago he took her for a drive\Nwith another boyfriend.
+Dialogue: 0,0:01:49.56,0:01:52.19,Default,,0,0,0,,They made her drink whiskey
+Dialogue: 0,0:01:52.27,0:01:56.65,Default,,0,0,0,,and then they tried to\Ntake advantage of her.
+Dialogue: 0,0:01:56.74,0:02:00.87,Default,,0,0,0,,She resisted, she kept her honor.
+Dialogue: 0,0:02:02.20,0:02:05.20,Default,,0,0,0,,So they beat her like an animal.
+Dialogue: 0,0:02:07.04,0:02:12.00,Default,,0,0,0,,When I went to the hospital,\Nher nose was broken,
+Dialogue: 0,0:02:12.09,0:02:16.55,Default,,0,0,0,,her jaw was shattered,\Nheld together by wire.
+Dialogue: 0,0:02:18.76,0:02:22.18,Default,,0,0,0,,She couldn't even weep\Nbecause of the pain.
+Dialogue: 0,0:02:24.22,0:02:27.73,Default,,0,0,0,,But I wept. Why did I weep?
+Dialogue: 0,0:02:30.40,0:02:32.73,Default,,0,0,0,,She was the light of my life.
+Dialogue: 0,0:02:34.69,0:02:36.40,Default,,0,0,0,,Beautiful girl.
+Dialogue: 0,0:02:40.07,0:02:43.03,Default,,0,0,0,,Now she will never be beautiful again.
+Dialogue: 0,0:02:49.58,0:02:50.96,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:02:59.26,0:03:03.93,Default,,0,0,0,,I went to the police,\Nlike a good American.
+Dialogue: 0,0:03:04.01,0:03:06.68,Default,,0,0,0,,These two boys were brought to trial.
+Dialogue: 0,0:03:07.77,0:03:10.56,Default,,0,0,0,,The judge sentenced them\Nto three years in prison,
+Dialogue: 0,0:03:10.64,0:03:12.77,Default,,0,0,0,,but suspended the sentence.
+Dialogue: 0,0:03:13.94,0:03:18.94,Default,,0,0,0,,Suspended the sentence!\NThey went free that very day!
+Dialogue: 0,0:03:21.24,0:03:24.53,Default,,0,0,0,,I stood in the courtroom like a fool.
+Dialogue: 0,0:03:24.62,0:03:28.12,Default,,0,0,0,,Those two bastards, they smiled at me.
+Dialogue: 0,0:03:29.37,0:03:34.96,Default,,0,0,0,,Then I said to my wife,\N"For justice, we must go to Don Corleone."
+Dialogue: 0,0:03:40.38,0:03:44.76,Default,,0,0,0,,Why did you go to the police?\NWhy didn't you come to me first?
+Dialogue: 0,0:03:44.89,0:03:50.98,Default,,0,0,0,,What do you want of me? Tell me anything,\Nbut do what I beg you to do.
+Dialogue: 0,0:03:51.06,0:03:52.73,Default,,0,0,0,,What is that?
+Dialogue: 0,0:04:03.86,0:04:05.70,Default,,0,0,0,,I want them dead.
+Dialogue: 0,0:04:17.34,0:04:19.13,Default,,0,0,0,,That I cannot do.
+Dialogue: 0,0:04:20.46,0:04:22.97,Default,,0,0,0,,I'll give you anything you ask.
+Dialogue: 0,0:04:25.26,0:04:27.07,Default,,0,0,0,,I've known you many years,
+Dialogue: 0,0:04:27.10,0:04:30.92,Default,,0,0,0,,but this is the first time\Nyou've asked for help.
+Dialogue: 0,0:04:32.06,0:04:37.10,Default,,0,0,0,,I can't remember the last time\Nyou invited me for a cup of coffee.
+Dialogue: 0,0:04:38.27,0:04:42.03,Default,,0,0,0,,Even though my wife is godmother\Nto your only child.
+Dialogue: 0,0:04:42.11,0:04:47.11,Default,,0,0,0,,But let's be frank here.\NYou never wanted my friendship.
+Dialogue: 0,0:04:47.20,0:04:50.95,Default,,0,0,0,,And you were afraid to be in my debt.
+Dialogue: 0,0:04:51.04,0:04:53.45,Default,,0,0,0,,I didn't want to get into trouble.
+Dialogue: 0,0:04:54.58,0:04:56.21,Default,,0,0,0,,I understand.
+Dialogue: 0,0:04:57.71,0:05:00.59,Default,,0,0,0,,You found Paradise in America.
+Dialogue: 0,0:05:02.88,0:05:05.57,Default,,0,0,0,,You made a good living,\Nhad police protection
+Dialogue: 0,0:05:05.60,0:05:07.58,Default,,0,0,0,,and there were courts of law.
+Dialogue: 0,0:05:07.64,0:05:10.35,Default,,0,0,0,,You didn't need a friend like me.
+Dialogue: 0,0:05:11.89,0:05:15.56,Default,,0,0,0,,But now you come to me and say,
+Dialogue: 0,0:05:15.64,0:05:18.06,Default,,0,0,0,,"Don Corleone, give me justice."
+Dialogue: 0,0:05:19.98,0:05:22.82,Default,,0,0,0,,But you don't ask with respect.
+Dialogue: 0,0:05:22.90,0:05:27.61,Default,,0,0,0,,You don't offer friendship.\NYou don't even think to call me Godfather.
+Dialogue: 0,0:05:29.32,0:05:36.21,Default,,0,0,0,,You come on my daughter's wedding day\Nand ask me to murder for money.
+Dialogue: 0,0:05:36.29,0:05:38.83,Default,,0,0,0,,I ask you for justice.
+Dialogue: 0,0:05:38.92,0:05:41.92,Default,,0,0,0,,That is not justice.\NYour daughter is alive.
+Dialogue: 0,0:05:42.96,0:05:46.42,Default,,0,0,0,,Let them suffer, then, as she suffers.
+Dialogue: 0,0:05:48.55,0:05:50.85,Default,,0,0,0,,How much shall I pay you?
+Dialogue: 0,0:06:05.53,0:06:09.45,Default,,0,0,0,,Bonasera, Bonasera.
+Dialogue: 0,0:06:09.53,0:06:13.62,Default,,0,0,0,,What have I ever done to make you treat me\Nso disrespectfully?
+Dialogue: 0,0:06:14.75,0:06:17.29,Default,,0,0,0,,If you'd come in friendship,
+Dialogue: 0,0:06:17.37,0:06:21.79,Default,,0,0,0,,the scum that ruined your daughter\Nwould be suffering this very day.
+Dialogue: 0,0:06:22.92,0:06:28.09,Default,,0,0,0,,And if an honest man like you\Nshould make enemies, they'd be my enemies.
+Dialogue: 0,0:06:31.01,0:06:33.85,Default,,0,0,0,,And then they would fear you.
+Dialogue: 0,0:06:37.35,0:06:39.48,Default,,0,0,0,,Be my friend?
+Dialogue: 0,0:06:43.44,0:06:44.98,Default,,0,0,0,,Godfather?
+Dialogue: 0,0:06:49.32,0:06:50.53,Default,,0,0,0,,Good.
+Dialogue: 0,0:06:52.66,0:06:57.83,Default,,0,0,0,,Some day, and that day may never come,\NI'll ask a service of you.
+Dialogue: 0,0:06:59.21,0:07:01.33,Default,,0,0,0,,But until that day
+Dialogue: 0,0:07:03.13,0:07:07.42,Default,,0,0,0,,accept this justice as a gift\Non my daughter's wedding day.
+Dialogue: 0,0:07:07.51,0:07:08.92,Default,,0,0,0,,{\c&H0080ff&\fnMicrosoft Sans Serif\i1}Gràzie{\i0}{\c}{\fn}, Godfather.
+Dialogue: 0,0:07:08.93,0:07:09.93,Default,,0,0,0,,Prego.
+Dialogue: 0,0:07:16.97,0:07:19.68,Default,,0,0,0,,Give this to Clemenza.
+Dialogue: 0,0:07:21.98,0:07:25.44,Default,,0,0,0,,I want people that aren't going\Nto get carried away.
+Dialogue: 0,0:07:25.52,0:07:29.69,Default,,0,0,0,,We're not murderers,\Nin spite of what this undertaker says.
+Dialogue: 0,0:07:31.00,0:07:38.00,Default,,0,0,0,,{\b1\c&Hc0c0c0&}[FarangSiam thanks you.\NEnjoy!]{\c}{\b0}
+Dialogue: 0,0:07:54.97,0:07:58.39,Default,,0,0,0,,- Where's Michael?\N- Don't worry, he'll be here.
+Dialogue: 0,0:07:59.52,0:08:02.60,Default,,0,0,0,,We're not taking the picture\Nwithout Michael.
+Dialogue: 0,0:08:08.94,0:08:11.40,Default,,0,0,0,,- What's the matter?\N- It's Michael.
+Dialogue: 0,0:09:01.08,0:09:02.75,Default,,0,0,0,,Don Barzini.
+Dialogue: 0,0:09:19.05,0:09:22.43,Default,,0,0,0,,Hey, Paulie! Let me have some wine.
+Dialogue: 0,0:09:22.52,0:09:24.77,Default,,0,0,0,,Paulie! More wine.
+Dialogue: 0,0:09:26.60,0:09:31.82,Default,,0,0,0,,- You look terrific on the floor.\N- Are you a dance judge or something?
+Dialogue: 0,0:09:31.90,0:09:34.15,Default,,0,0,0,,Take a walk and do your job.
+Dialogue: 0,0:09:41.91,0:09:45.16,Default,,0,0,0,,Sandra, watch the kids.\NDon't let them run wild.
+Dialogue: 0,0:09:45.25,0:09:47.71,Default,,0,0,0,,You watch yourself, all right?
+Dialogue: 0,0:10:08.85,0:10:13.11,Default,,0,0,0,,20, 30 grand. In small bills, cash.
+Dialogue: 0,0:10:14.07,0:10:16.44,Default,,0,0,0,,In that little silk purse.
+Dialogue: 0,0:10:16.53,0:10:20.11,Default,,0,0,0,,If this were somebody else's wedding...\N{\c&H0080ff&\fnMicrosoft Sans Serif\i1}Sfortunato{\i0}{\c}{\fn}!\N{\b1\c&Hc0c0c0&}[Unlucky guy]{\c}{\b0}
+Dialogue: 0,0:10:20.20,0:10:21.45,Default,,0,0,0,,Hey, Paulie!
+Dialogue: 0,0:10:21.46,0:10:24.26,Default,,0,0,0,,I got two {\c&H0080ff&\fnMicrosoft Sans Serif\i1}gabagool, capocol{\i0}{\c}{\fn},\N{\b1\c&Hc0c0c0&}[Spicy Italian sausage-Italian Classic ham]{\c}{\b0}
+Dialogue: 0,0:10:24.27,0:10:25.97,Default,,0,0,0,,and a {\c&H0080ff&\fnMicrosoft Sans Serif\i1}prosciut{\i0}{\c}{\fn}.\N{\b1\c&Hc0c0c0&}[Dry-ish sweet tasting ham]{\c}{\b0}
+Dialogue: 0,0:10:25.98,0:10:27.06,Default,,0,0,0,,Stupid jerk!
+Dialogue: 0,0:10:35.63,0:10:37.55,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:10:49.81,0:10:52.40,Default,,0,0,0,,- Have to go back to work.\N- Tom.
+Dialogue: 0,0:10:52.48,0:10:56.73,Default,,0,0,0,,No Sicilian can refuse any request\Non his daughter's wedding day.
+Dialogue: 0,0:11:02.45,0:11:07.58,Default,,0,0,0,,Don Corleone, I'm honored and\Ngrateful that you have invited me.
+Dialogue: 0,0:11:12.42,0:11:15.63,Default,,0,0,0,,Get out of here!\NIt's a private party. Go on!
+Dialogue: 0,0:11:16.71,0:11:19.67,Default,,0,0,0,,What is it? It's my sister's wedding.
+Dialogue: 0,0:11:26.26,0:11:28.97,Default,,0,0,0,,Goddamn FBI don't respect nothing!
+Dialogue: 0,0:11:31.98,0:11:35.36,Default,,0,0,0,,Come here, come here, come here!
+Dialogue: 0,0:11:49.62,0:11:54.17,Default,,0,0,0,,...but towards the end, he was paroled\Nto help with the American war effort,
+Dialogue: 0,0:11:54.25,0:11:57.34,Default,,0,0,0,,so for six months\Nhe's worked in my pastry shop.
+Dialogue: 0,0:11:57.42,0:12:00.17,Default,,0,0,0,,Nazorine, what can I do for you?
+Dialogue: 0,0:12:00.26,0:12:02.22,Default,,0,0,0,,Now that the war is over,
+Dialogue: 0,0:12:02.30,0:12:06.30,Default,,0,0,0,,this boy, Enzo, they want to\Nrepatriate him back to Italy.
+Dialogue: 0,0:12:06.39,0:12:11.27,Default,,0,0,0,,Godfather, I have a daughter.\NYou see, she and Enzo...
+Dialogue: 0,0:12:12.48,0:12:16.98,Default,,0,0,0,,You want Enzo to stay in this country,\Nand your daughter to be married.
+Dialogue: 0,0:12:18.15,0:12:20.44,Default,,0,0,0,,You understand everything.
+Dialogue: 0,0:12:21.28,0:12:23.65,Default,,0,0,0,,Mr. Hagen. Thank you.
+Dialogue: 0,0:12:26.78,0:12:30.74,Default,,0,0,0,,Wait till you see the wedding cake\NI made for your daughter!
+Dialogue: 0,0:12:30.83,0:12:33.58,Default,,0,0,0,,The bride, the groom and the angel...
+Dialogue: 0,0:12:38.84,0:12:43.38,Default,,0,0,0,,- Who should I give this job to?\N- Not to our {\i1\c&H0080ff&\fnMicrosoft Sans Serif}paisan{\c}{\fn\i0}.\N{\b1\c&Hc0c0c0&}[County]{\c}{\b0}
+Dialogue: 0,0:12:43.47,0:12:48.60,Default,,0,0,0,,Give it to a Jew Congressman in\Nanother district. Who else is on the list?
+Dialogue: 0,0:12:55.65,0:12:57.23,Default,,0,0,0,,Hey, Michael!
+Dialogue: 0,0:13:17.04,0:13:20.50,Default,,0,0,0,,He's not on the list,\Nbut Luca Brasi wants to see you.
+Dialogue: 0,0:13:26.34,0:13:28.72,Default,,0,0,0,,Is this necessary?
+Dialogue: 0,0:13:28.80,0:13:31.59,Default,,0,0,0,,He didn't expect to be invited\Nto the wedding,
+Dialogue: 0,0:13:31.63,0:13:33.47,Default,,0,0,0,,so he wanted to thank you.
+Dialogue: 0,0:13:34.77,0:13:40.19,Default,,0,0,0,,Don Corleone, I'm honored and grateful\Nthat you have invited me
+Dialogue: 0,0:13:40.27,0:13:43.11,Default,,0,0,0,,on the wedding day of your daughter.
+Dialogue: 0,0:13:43.19,0:13:45.61,Default,,0,0,0,,May their first child be a masculine child.
+Dialogue: 0,0:13:46.82,0:13:48.24,Default,,0,0,0,,Michael...
+Dialogue: 0,0:13:50.03,0:13:53.41,Default,,0,0,0,,That man over there is talking to himself.
+Dialogue: 0,0:13:53.50,0:13:56.33,Default,,0,0,0,,See that scary guy over there?
+Dialogue: 0,0:13:56.41,0:13:59.92,Default,,0,0,0,,- He's a very scary guy.\N- What's his name?
+Dialogue: 0,0:14:00.00,0:14:04.67,Default,,0,0,0,,His name is Luca Brasi.\NHe helps my father out sometimes.
+Dialogue: 0,0:14:06.47,0:14:09.38,Default,,0,0,0,,Michael, he's coming over here!
+Dialogue: 0,0:14:13.72,0:14:15.56,Default,,0,0,0,,You look terrific!
+Dialogue: 0,0:14:15.64,0:14:18.94,Default,,0,0,0,,My brother Tom Hagen, Miss Kay Adams.
+Dialogue: 0,0:14:20.69,0:14:22.94,Default,,0,0,0,,Your father's been asking for you.
+Dialogue: 0,0:14:23.02,0:14:25.86,Default,,0,0,0,,- Very nice to meet you.\N- Nice to meet you.
+Dialogue: 0,0:14:27.61,0:14:30.32,Default,,0,0,0,,Why does your brother\Nhave a different name?
+Dialogue: 0,0:14:30.45,0:14:34.28,Default,,0,0,0,,My brother Sonny found Tom Hagen\Nin the street.
+Dialogue: 0,0:14:34.37,0:14:38.29,Default,,0,0,0,,He had no home, so my father took him in.
+Dialogue: 0,0:14:40.04,0:14:43.13,Default,,0,0,0,,He's been with us ever since.
+Dialogue: 0,0:14:43.21,0:14:45.17,Default,,0,0,0,,He's a good lawyer.
+Dialogue: 0,0:14:46.01,0:14:47.04,Default,,0,0,0,,Not a Sicilian.
+Dialogue: 0,0:14:47.05,0:14:50.70,Default,,0,0,0,,- I think he's going to be {\i1\c&H0080ff&\fnMicrosoft Sans Serif}consigliere{\c}{\fn\i0}.\N{\b1\c&Hc0c0c0&}[An adviser or counselor]{\c}{\b0}
+Dialogue: 0,0:14:50.71,0:14:53.62,Default,,0,0,0,,- What's that?\N- That's a...\N{\b1\c&Hc0c0c0&}[especially to a capo or leader]{\c}{\b0}
+Dialogue: 0,0:14:53.68,0:14:57.47,Default,,0,0,0,,like a counselor, an advisor.\NVery important for the family.\N{\b1\c&Hc0c0c0&}[of an organized crime syndicate]{\c}{\b0}
+Dialogue: 0,0:14:58.48,0:15:00.64,Default,,0,0,0,,You like your lasagna?
+Dialogue: 0,0:15:04.90,0:15:07.11,Default,,0,0,0,,Don Corleone.
+Dialogue: 0,0:15:07.19,0:15:09.86,Default,,0,0,0,,I'm honored and grateful
+Dialogue: 0,0:15:09.95,0:15:13.78,Default,,0,0,0,,that you have invited me\Nto your daughter's wedding.
+Dialogue: 0,0:15:18.79,0:15:22.08,Default,,0,0,0,,On the day of your daughter's wedding.
+Dialogue: 0,0:15:22.17,0:15:27.00,Default,,0,0,0,,And I hope that their first child\Nwill be a masculine child.
+Dialogue: 0,0:15:28.42,0:15:33.55,Default,,0,0,0,,I pledge my ever-ending loyalty.
+Dialogue: 0,0:15:35.51,0:15:40.93,Default,,0,0,0,,- For your daughter's bridal purse.\N- Thank you, Luca. Most valued friend.
+Dialogue: 0,0:15:41.02,0:15:46.15,Default,,0,0,0,,Don Corleone, I'm going to leave you now,\Nbecause I know you're busy.
+Dialogue: 0,0:15:46.69,0:15:48.03,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:16:37.53,0:16:39.87,Default,,0,0,0,,Signora Corleone!
+Dialogue: 0,0:16:41.08,0:16:43.91,Default,,0,0,0,,No!
+Dialogue: 0,0:17:53.03,0:17:58.11,Default,,0,0,0,,Senator Cauley apologized for not coming,\Nbut said you'd understand.
+Dialogue: 0,0:17:58.20,0:18:02.45,Default,,0,0,0,,Also some of the judges.\NThey've all sent gifts.
+Dialogue: 0,0:18:05.50,0:18:06.71,Default,,0,0,0,,What is that outside?
+Dialogue: 0,0:18:15.80,0:18:20.34,Default,,0,0,0,,Johnny! Johnny!
+Dialogue: 0,0:18:21.39,0:18:23.05,Default,,0,0,0,,I love you!
+Dialogue: 0,0:18:33.36,0:18:36.78,Default,,0,0,0,,He came all the way from California.\NI told you he'd come!
+Dialogue: 0,0:18:36.86,0:18:40.36,Default,,0,0,0,,- He's probably in trouble again.\N- He's a good godson.
+Dialogue: 0,0:18:41.37,0:18:45.70,Default,,0,0,0,,Johnny, Johnny! Sing a song!
+Dialogue: 0,0:19:01.72,0:19:04.14,Default,,0,0,0,,You never said you knew Johnny Fontane!
+Dialogue: 0,0:19:04.22,0:19:08.31,Default,,0,0,0,,- Sure. You want to meet him?\N- Great! Sure.
+Dialogue: 0,0:19:08.39,0:19:12.23,Default,,0,0,0,,- My father helped him with his career.\N- He did?
+Dialogue: 0,0:19:12.31,0:19:13.40,Default,,0,0,0,,How?
+Dialogue: 0,0:19:15.94,0:19:18.78,Default,,0,0,0,,- Let's listen to this song.\N- Michael...
+Dialogue: 0,0:19:52.10,0:19:54.27,Default,,0,0,0,,Please, Michael. Tell me.
+Dialogue: 0,0:19:57.78,0:19:59.63,Default,,0,0,0,,When Johnny was starting out,
+Dialogue: 0,0:19:59.66,0:20:02.85,Default,,0,0,0,,he was signed to\Na personal service contract
+Dialogue: 0,0:20:02.91,0:20:05.78,Default,,0,0,0,,with a big bandleader.
+Dialogue: 0,0:20:05.91,0:20:10.12,Default,,0,0,0,,And as his career got better and better,\Nhe wanted to get out of it.
+Dialogue: 0,0:20:11.16,0:20:13.87,Default,,0,0,0,,Johnny is my father's godson.
+Dialogue: 0,0:20:13.96,0:20:17.29,Default,,0,0,0,,My father went to see this bandleader.
+Dialogue: 0,0:20:17.38,0:20:21.26,Default,,0,0,0,,He offered him $ 10,000 to let Johnny go,
+Dialogue: 0,0:20:21.34,0:20:24.09,Default,,0,0,0,,but the bandleader said no.
+Dialogue: 0,0:20:24.18,0:20:29.56,Default,,0,0,0,,So the next day my father went to see him,\Nbut this time with Luca Brasi.
+Dialogue: 0,0:20:31.31,0:20:33.56,Default,,0,0,0,,Within an hour,
+Dialogue: 0,0:20:33.64,0:20:39.15,Default,,0,0,0,,he signed a release\Nfor a certified check of $ 1,000.
+Dialogue: 0,0:20:41.15,0:20:45.11,Default,,0,0,0,,- How did he do that?\N- Made him an offer he couldn't refuse.
+Dialogue: 0,0:20:46.78,0:20:51.66,Default,,0,0,0,,- What was that?\N- Luca Brasi held a gun to his head,
+Dialogue: 0,0:20:51.79,0:20:57.00,Default,,0,0,0,,and father said that either his brains or\Nhis signature would be on the contract.
+Dialogue: 0,0:21:02.01,0:21:03.63,Default,,0,0,0,,That's a true story.
+Dialogue: 0,0:21:15.06,0:21:17.73,Default,,0,0,0,,That's my family, Kay. It's not me.
+Dialogue: 0,0:21:30.24,0:21:31.99,Default,,0,0,0,,Beautiful!
+Dialogue: 0,0:22:04.24,0:22:06.36,Default,,0,0,0,,I'll take care of it.
+Dialogue: 0,0:22:06.45,0:22:08.32,Default,,0,0,0,,Tom...
+Dialogue: 0,0:22:08.41,0:22:12.12,Default,,0,0,0,,I want you to find Santino.\NTell him to come to the office.
+Dialogue: 0,0:22:19.38,0:22:22.34,Default,,0,0,0,,How are you, Fredo?
+Dialogue: 0,0:22:22.42,0:22:25.01,Default,,0,0,0,,My brother Fredo, this is Kay Adams.
+Dialogue: 0,0:22:26.09,0:22:28.38,Default,,0,0,0,,- Hi.\N- How are you doing?
+Dialogue: 0,0:22:30.34,0:22:34.85,Default,,0,0,0,,- This is my brother Mike.\N- Are you having a good time?
+Dialogue: 0,0:22:34.93,0:22:37.52,Default,,0,0,0,,Yeah. This is your friend?
+Dialogue: 0,0:22:37.60,0:22:42.27,Default,,0,0,0,,I don't know what to do.\NMy voice is weak. It's weak.
+Dialogue: 0,0:22:43.98,0:22:50.45,Default,,0,0,0,,Anyway, if I had this part in the picture,\Nit puts me right back on top again.
+Dialogue: 0,0:22:50.53,0:22:55.87,Default,,0,0,0,,But this... man won't give it to me,\Nthe head of the studio.
+Dialogue: 0,0:22:55.95,0:22:59.21,Default,,0,0,0,,- What's his name?\N- Woltz.
+Dialogue: 0,0:22:59.29,0:23:03.46,Default,,0,0,0,,He won't give it to me,\Nand he says there's no chance.
+Dialogue: 0,0:23:07.72,0:23:09.02,Default,,0,0,0,,Sonny?
+Dialogue: 0,0:23:20.31,0:23:23.06,Default,,0,0,0,,- Sonny, are you in there?\N- What?
+Dialogue: 0,0:23:23.15,0:23:25.02,Default,,0,0,0,,The old man wants you.
+Dialogue: 0,0:23:26.28,0:23:27.98,Default,,0,0,0,,One minute.
+Dialogue: 0,0:23:42.42,0:23:46.13,Default,,0,0,0,,A month ago he bought the movie rights\Nto this book,
+Dialogue: 0,0:23:46.16,0:23:47.50,Default,,0,0,0,,a best-seller.
+Dialogue: 0,0:23:47.55,0:23:51.13,Default,,0,0,0,,The main character is a guy just like me.
+Dialogue: 0,0:23:51.22,0:23:53.89,Default,,0,0,0,,I wouldn't even have to act.
+Dialogue: 0,0:23:54.85,0:23:57.68,Default,,0,0,0,,Godfather, I don't know what to do.
+Dialogue: 0,0:23:58.97,0:24:03.27,Default,,0,0,0,,You can act like a man!\NWhat's the matter with you?
+Dialogue: 0,0:24:03.35,0:24:05.31,Default,,0,0,0,,Is this how you turned out?
+Dialogue: 0,0:24:05.34,0:24:09.10,Default,,0,0,0,,A Hollywood {\i1\c&H0080ff&\fnMicrosoft Sans Serif}finocchio{\c}{\fn\i0}\Nthat cries like a woman?\N{\b1\c&Hc0c0c0&}[Fennel-->Italian slang for homosexual]{\c}{\b0}
+Dialogue: 0,0:24:09.15,0:24:13.20,Default,,0,0,0,,"What can I do? What can I do?"\NWhat is that nonsense?
+Dialogue: 0,0:24:13.28,0:24:14.99,Default,,0,0,0,,Ridiculous.
+Dialogue: 0,0:24:19.70,0:24:22.83,Default,,0,0,0,,- You spend time with your family?\N- Sure I do.
+Dialogue: 0,0:24:22.92,0:24:24.54,Default,,0,0,0,,Good.
+Dialogue: 0,0:24:24.58,0:24:29.30,Default,,0,0,0,,Because a man who doesn't spend time\Nwith his family can never be a real man.
+Dialogue: 0,0:24:34.93,0:24:38.39,Default,,0,0,0,,You look terrible. I want you to eat.
+Dialogue: 0,0:24:38.47,0:24:39.83,Default,,0,0,0,,Rest, and in a month
+Dialogue: 0,0:24:39.86,0:24:43.80,Default,,0,0,0,,this Hollywood big shot\Nwill give you what you want.
+Dialogue: 0,0:24:43.85,0:24:46.98,Default,,0,0,0,,It's too late,\Nthey start shooting in a week.
+Dialogue: 0,0:24:47.06,0:24:50.23,Default,,0,0,0,,I'm going to make him an offer\Nhe can't refuse.
+Dialogue: 0,0:24:53.07,0:24:58.07,Default,,0,0,0,,Just go outside and enjoy yourself,\Nand forget about all this nonsense.
+Dialogue: 0,0:25:00.24,0:25:03.29,Default,,0,0,0,,- I want you to leave it all to me.\N- All right.
+Dialogue: 0,0:25:28.36,0:25:33.65,Default,,0,0,0,,- What time does my daughter leave?\N- Soon, after they cut the cake.
+Dialogue: 0,0:25:33.74,0:25:37.36,Default,,0,0,0,,Do we give your son-in-law\Nsomething important?
+Dialogue: 0,0:25:37.45,0:25:42.79,Default,,0,0,0,,Never. Give him a living, but never discuss\Nthe family business with him.
+Dialogue: 0,0:25:42.87,0:25:45.66,Default,,0,0,0,,- What else?\N- Virgil Sollozzo called.
+Dialogue: 0,0:25:45.79,0:25:50.21,Default,,0,0,0,,- We'll have to see him next week.\N- When you come back from California.
+Dialogue: 0,0:25:51.59,0:25:54.71,Default,,0,0,0,,- When am I going to California?\N- Tonight.
+Dialogue: 0,0:25:54.84,0:26:00.14,Default,,0,0,0,,I want you to talk to this movie big shot\Nand settle this business for Johnny.
+Dialogue: 0,0:26:01.47,0:26:05.60,Default,,0,0,0,,If there's nothing else, I'd like to go\Nto my daughter's wedding.
+Dialogue: 0,0:26:07.77,0:26:10.73,Default,,0,0,0,,Carlo, we're going to take the picture.
+Dialogue: 0,0:26:11.77,0:26:13.57,Default,,0,0,0,,Wait a minute.
+Dialogue: 0,0:26:13.65,0:26:15.94,Default,,0,0,0,,No, Michael. Not me.
+Dialogue: 0,0:26:20.45,0:26:23.33,Default,,0,0,0,,Okay, that's it. Just like that. Hold it!
+Dialogue: 0,0:28:13.48,0:28:16.65,Default,,0,0,0,,- You need a little more heat on that arc.\N- Start talking.
+Dialogue: 0,0:28:16.73,0:28:20.15,Default,,0,0,0,,I was sent by a friend of Johnny Fontane.
+Dialogue: 0,0:28:20.24,0:28:23.99,Default,,0,0,0,,This friend would give his friendship\Nto Mr. Woltz,
+Dialogue: 0,0:28:24.07,0:28:26.91,Default,,0,0,0,,if Mr. Woltz would grant us a favor.
+Dialogue: 0,0:28:26.99,0:28:29.33,Default,,0,0,0,,Woltz is listening.
+Dialogue: 0,0:28:29.41,0:28:33.50,Default,,0,0,0,,Give Johnny the part in that war film\Nyou're starting next week.
+Dialogue: 0,0:28:39.21,0:28:44.22,Default,,0,0,0,,And what favor would your friend\Ngrant Mr. Woltz?
+Dialogue: 0,0:28:44.30,0:28:47.85,Default,,0,0,0,,He could make your future union\Nproblems disappear.
+Dialogue: 0,0:28:47.93,0:28:52.02,Default,,0,0,0,,And one of your stars has just moved\Nfrom marijuana to heroin.
+Dialogue: 0,0:28:52.10,0:28:56.40,Default,,0,0,0,,Are you trying to muscle me?\NListen, you son-of-a-bitch!
+Dialogue: 0,0:28:56.48,0:28:59.07,Default,,0,0,0,,Let me lay it on the line.
+Dialogue: 0,0:28:59.15,0:29:01.15,Default,,0,0,0,,Johnny Fontane will never get that movie!
+Dialogue: 0,0:29:01.28,0:29:03.57,Default,,0,0,0,,No matter how many {\i1\c&H0080ff&\fnMicrosoft Sans Serif}Dago, Guinea,{\c}{\fn\i0}\N{\b1\c&Hc0c0c0&}[Ethnic slurs for Italian]{\c}{\b0}
+Dialogue: 0,0:29:03.61,0:29:05.81,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Greaseballs{\c}{\fn\i0} come out of the woodwork!\N{\b1\c&Hc0c0c0&}[or Latin American]{\c}{\b0}
+Dialogue: 0,0:29:05.86,0:29:09.70,Default,,0,0,0,,- I'm German-Irish.\N- Listen here, my Kraut-Mick friend.
+Dialogue: 0,0:29:09.79,0:29:14.16,Default,,0,0,0,,- I'm going to make trouble for you!\N- I'm a lawyer. I haven't threatened...
+Dialogue: 0,0:29:14.25,0:29:17.63,Default,,0,0,0,,I know New York's big lawyers.\NWho are you?
+Dialogue: 0,0:29:17.71,0:29:21.25,Default,,0,0,0,,I have a special practice.\NI handle one client.
+Dialogue: 0,0:29:21.34,0:29:23.34,Default,,0,0,0,,I'll wait for your call.
+Dialogue: 0,0:29:25.09,0:29:28.05,Default,,0,0,0,,By the way,\NI admire your pictures very much.
+Dialogue: 0,0:29:32.85,0:29:34.35,Default,,0,0,0,,Check him out.
+Dialogue: 0,0:29:56.87,0:29:59.42,Default,,0,0,0,,- It's really beautiful.\N- Look at this.
+Dialogue: 0,0:29:59.50,0:30:04.01,Default,,0,0,0,,- It used to decorate a king's palace.\N- Very nice.
+Dialogue: 0,0:30:04.09,0:30:06.47,Default,,0,0,0,,Why didn't you say you work for Corleone?
+Dialogue: 0,0:30:06.59,0:30:10.80,Default,,0,0,0,,I thought you were some cheap hustler\NJohnny was running in.
+Dialogue: 0,0:30:10.89,0:30:14.22,Default,,0,0,0,,- I only use his name when necessary.\N- How's your drink?
+Dialogue: 0,0:30:14.35,0:30:17.81,Default,,0,0,0,,- Fine.\N- Now I'll show you something beautiful.
+Dialogue: 0,0:30:17.90,0:30:20.48,Default,,0,0,0,,You do appreciate beauty, don't you?
+Dialogue: 0,0:30:23.44,0:30:26.49,Default,,0,0,0,,There you are. $600,000 on four hoofs.
+Dialogue: 0,0:30:26.57,0:30:30.53,Default,,0,0,0,,I bet Russian czars never paid\Nthat for a single horse.
+Dialogue: 0,0:30:30.62,0:30:34.08,Default,,0,0,0,,Khartoum.
+Dialogue: 0,0:30:35.62,0:30:40.00,Default,,0,0,0,,I'm not going to race him, though.\NI'm going to put him out to stud.
+Dialogue: 0,0:30:41.59,0:30:43.13,Default,,0,0,0,,Thanks, Tony.
+Dialogue: 0,0:30:43.92,0:30:46.84,Default,,0,0,0,,Let's get something to eat.
+Dialogue: 0,0:30:46.92,0:30:50.34,Default,,0,0,0,,Corleone is Johnny's godfather.
+Dialogue: 0,0:30:50.43,0:30:54.85,Default,,0,0,0,,To the Italian people that's a very sacred,\Nclose relationship.
+Dialogue: 0,0:30:54.93,0:30:58.85,Default,,0,0,0,,I respect it.\NTell him to ask me anything else.
+Dialogue: 0,0:30:58.94,0:31:01.27,Default,,0,0,0,,This favor I can't give him.
+Dialogue: 0,0:31:01.36,0:31:04.65,Default,,0,0,0,,He never asks a second favor\Nwhen he's been refused the first.
+Dialogue: 0,0:31:04.78,0:31:10.91,Default,,0,0,0,,You don't understand.\NJohnny Fontane never gets that movie.
+Dialogue: 0,0:31:10.99,0:31:14.66,Default,,0,0,0,,That part is perfect for him.\NIt'll make him a big star.
+Dialogue: 0,0:31:14.79,0:31:18.87,Default,,0,0,0,,I'm going to run him out of the business,\Nand let me tell you why.
+Dialogue: 0,0:31:20.87,0:31:22.12,Default,,0,0,0,,Johnny Fontane ruined
+Dialogue: 0,0:31:22.15,0:31:25.58,Default,,0,0,0,,one of Woltz International's\Nmost valuable proteges.
+Dialogue: 0,0:31:25.63,0:31:31.01,Default,,0,0,0,,We trained her for five years.\NSinging, acting, dancing lessons.
+Dialogue: 0,0:31:31.13,0:31:34.05,Default,,0,0,0,,I spent hundreds of thousands of dollars\Non her,
+Dialogue: 0,0:31:34.09,0:31:35.75,Default,,0,0,0,,to make her a big star.
+Dialogue: 0,0:31:35.81,0:31:38.60,Default,,0,0,0,,Let me be even more frank.
+Dialogue: 0,0:31:38.68,0:31:41.30,Default,,0,0,0,,To show you that I'm not\Na hard-hearted man.
+Dialogue: 0,0:31:41.34,0:31:43.72,Default,,0,0,0,,That it's not all dollars and cents.
+Dialogue: 0,0:31:43.77,0:31:47.40,Default,,0,0,0,,She was beautiful.\NShe was young and innocent!
+Dialogue: 0,0:31:47.48,0:31:52.91,Default,,0,0,0,,She's the greatest piece of ass I've had\Nand I've had them all over the world.
+Dialogue: 0,0:31:52.99,0:31:59.12,Default,,0,0,0,,Then Johnny Fontane comes along with\Nhis olive oil voice and Guinea charm.
+Dialogue: 0,0:31:59.20,0:32:00.91,Default,,0,0,0,,And she runs off.
+Dialogue: 0,0:32:02.25,0:32:06.34,Default,,0,0,0,,She threw it all away\Njust to make me look ridiculous!
+Dialogue: 0,0:32:06.42,0:32:11.59,Default,,0,0,0,,And a man in my position can't afford\Nto be made to look ridiculous!
+Dialogue: 0,0:32:11.68,0:32:14.01,Default,,0,0,0,,You get the hell out of here!
+Dialogue: 0,0:32:14.09,0:32:18.47,Default,,0,0,0,,If that {\i1\c&H0080ff&\fnMicrosoft Sans Serif}goomba{\c}{\fn\i0} tries any rough stuff,\Ntell him I'm no bandleader.\N{\b1\c&Hc0c0c0&}[Term of endearment : close friend]{\c}{\b0}
+Dialogue: 0,0:32:19.77,0:32:22.77,Default,,0,0,0,,Yeah, I heard that story.
+Dialogue: 0,0:32:23.60,0:32:27.61,Default,,0,0,0,,Thank you for dinner\Nand a very pleasant evening.
+Dialogue: 0,0:32:27.69,0:32:30.57,Default,,0,0,0,,Maybe your car can take me to the airport.
+Dialogue: 0,0:32:30.65,0:32:34.24,Default,,0,0,0,,Mr. Corleone insists on hearing\Nbad news immediately.
+Dialogue: 0,0:34:26.94,0:34:30.86,Default,,0,0,0,,- You're not too tired, are you, Tom?\N- No, I slept on the plane.
+Dialogue: 0,0:34:30.94,0:34:34.02,Default,,0,0,0,,I have the Sollozzo notes here.
+Dialogue: 0,0:34:34.11,0:34:35.36,Default,,0,0,0,,Now...
+Dialogue: 0,0:34:37.32,0:34:40.91,Default,,0,0,0,,Sollozzo is known as The Turk.
+Dialogue: 0,0:34:40.99,0:34:42.95,Default,,0,0,0,,He's supposed to be very good with a knife,
+Dialogue: 0,0:34:43.03,0:34:47.46,Default,,0,0,0,,{\i1\c&H00ffff&}but only in matters of business\Nwith reasonable complaint.{\c}{\i0}
+Dialogue: 0,0:34:47.54,0:34:50.79,Default,,0,0,0,,{\i1\c&H00ffff&}His business is narcotics.{\c}{\i0}
+Dialogue: 0,0:34:50.88,0:34:54.25,Default,,0,0,0,,{\i1\c&H00ffff&}He has fields in Turkey,\Nwhere they grow poppy.{\c}{\i0}
+Dialogue: 0,0:34:54.34,0:34:58.17,Default,,0,0,0,,{\i1\c&H00ffff&}In Sicily he has plants\Nto process them into heroin.{\c}{\i0}
+Dialogue: 0,0:34:58.26,0:35:01.76,Default,,0,0,0,,{\i1\c&H00ffff&}He needs cash,\Nhe needs protection from the police.{\c}{\i0}
+Dialogue: 0,0:35:01.85,0:35:05.77,Default,,0,0,0,,{\i1\c&H00ffff&}He'll give a piece of the action.\NI don't know how much.{\c}{\i0}
+Dialogue: 0,0:35:05.89,0:35:11.10,Default,,0,0,0,,{\i1\c&H00ffff&}The Tattaglia family is behind him here.\NThey have to be in it for something.{\c}{\i0}
+Dialogue: 0,0:35:12.40,0:35:16.98,Default,,0,0,0,,- What about his prison record?\N- One term in Italy, one here.
+Dialogue: 0,0:35:17.07,0:35:19.82,Default,,0,0,0,,He's known as a top narcotics man.
+Dialogue: 0,0:35:19.91,0:35:24.58,Default,,0,0,0,,- Santino, what do you think?\N- A lot of money in that white powder.
+Dialogue: 0,0:35:26.91,0:35:28.29,Default,,0,0,0,,Tom?
+Dialogue: 0,0:35:28.37,0:35:32.54,Default,,0,0,0,,{\i1\c&H00ffff&}Yes. There's more money in narcotics\Nthan anything else.{\c}{\i0}
+Dialogue: 0,0:35:32.63,0:35:35.65,Default,,0,0,0,,{\i1\c&H00ffff&}If we don't get into it,\Nsomebody else will,{\c}{\i0}
+Dialogue: 0,0:35:35.68,0:35:37.41,Default,,0,0,0,,{\i1\c&H00ffff&}maybe the five families.{\c}{\i0}
+Dialogue: 0,0:35:37.46,0:35:41.93,Default,,0,0,0,,With that money they can buy\Nmore police and political power.
+Dialogue: 0,0:35:42.01,0:35:44.09,Default,,0,0,0,,Then they come after us.
+Dialogue: 0,0:35:44.22,0:35:50.73,Default,,0,0,0,,Now we have unions and gambling, and\Nthat's great, but narcotics is the future.
+Dialogue: 0,0:35:50.81,0:35:55.94,Default,,0,0,0,,If we don't get a piece of that action,\Nwe risk everything in 10 years' time.
+Dialogue: 0,0:36:00.49,0:36:03.57,Default,,0,0,0,,So? What's your answer going to be, Pop?
+Dialogue: 0,0:36:08.33,0:36:10.08,Default,,0,0,0,,Don Corleone.
+Dialogue: 0,0:36:12.17,0:36:15.46,Default,,0,0,0,,I need a man who has powerful friends.
+Dialogue: 0,0:36:15.59,0:36:18.30,Default,,0,0,0,,I need a million dollars in cash.
+Dialogue: 0,0:36:18.38,0:36:22.27,Default,,0,0,0,,I need those politicians\Nthat you carry in your pocket,
+Dialogue: 0,0:36:22.31,0:36:24.25,Default,,0,0,0,,like nickels and dimes.
+Dialogue: 0,0:36:25.68,0:36:29.68,Default,,0,0,0,,- What is the interest for my family?\N- 30%.
+Dialogue: 0,0:36:29.77,0:36:33.73,Default,,0,0,0,,In the first year your end should be three,\Nfour million dollars.
+Dialogue: 0,0:36:33.81,0:36:35.81,Default,,0,0,0,,And then it would go up.
+Dialogue: 0,0:36:37.02,0:36:40.44,Default,,0,0,0,,And what is the interest\Nfor the Tattaglia family?
+Dialogue: 0,0:36:42.45,0:36:44.28,Default,,0,0,0,,My compliments.
+Dialogue: 0,0:36:47.95,0:36:51.37,Default,,0,0,0,,I'll take care of them, out of my share.
+Dialogue: 0,0:36:51.45,0:36:55.75,Default,,0,0,0,,So I receive 30% for finance,
+Dialogue: 0,0:36:55.83,0:36:59.17,Default,,0,0,0,,political influence and legal protection?
+Dialogue: 0,0:36:59.25,0:37:00.96,Default,,0,0,0,,That's right.
+Dialogue: 0,0:37:02.26,0:37:06.18,Default,,0,0,0,,Why do you come to me?\NWhy do I deserve this generosity?
+Dialogue: 0,0:37:06.26,0:37:11.56,Default,,0,0,0,,If you consider a million dollars in cash\Njust finance,
+Dialogue: 0,0:37:11.64,0:37:13.81,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Te salud, Don Corleone.{\c}{\fn\i0}\N{\b1\c&Hc0c0c0&}[Cheers]{\c}{\b0}
+Dialogue: 0,0:37:24.32,0:37:29.58,Default,,0,0,0,,I said that I would see you,\Nbecause I heard you were a serious man,
+Dialogue: 0,0:37:29.66,0:37:31.91,Default,,0,0,0,,to be treated with respect.
+Dialogue: 0,0:37:36.58,0:37:39.88,Default,,0,0,0,,But, I must say no to you.
+Dialogue: 0,0:37:41.05,0:37:43.88,Default,,0,0,0,,And I'll give you my reason.
+Dialogue: 0,0:37:43.97,0:37:46.80,Default,,0,0,0,,It's true,\NI have a lot of friends in politics.
+Dialogue: 0,0:37:48.05,0:37:52.47,Default,,0,0,0,,They wouldn't be friendly long if I was\Ninvolved in drugs instead of gambling,
+Dialogue: 0,0:37:52.56,0:37:58.19,Default,,0,0,0,,which they regard as a harmless vice,\Nbut drugs is a dirty business.
+Dialogue: 0,0:37:58.27,0:38:03.28,Default,,0,0,0,,It doesn't make any difference to me\Nwhat a man does for a living.
+Dialogue: 0,0:38:03.36,0:38:08.61,Default,,0,0,0,,But your business is... a little dangerous.
+Dialogue: 0,0:38:08.70,0:38:13.12,Default,,0,0,0,,If you're worried about security,\Nthe Tattaglias will guarantee it.
+Dialogue: 0,0:38:13.20,0:38:16.71,Default,,0,0,0,,- The Tattaglias would guarantee our...\N- Wait a minute.
+Dialogue: 0,0:38:24.01,0:38:28.80,Default,,0,0,0,,I have a sentimental weakness\Nfor my children, and I spoil them.
+Dialogue: 0,0:38:28.89,0:38:32.14,Default,,0,0,0,,They talk when they should listen.\NBut anyway...
+Dialogue: 0,0:38:32.26,0:38:34.27,Default,,0,0,0,,Signor Sollozzo, my no is final.
+Dialogue: 0,0:38:34.30,0:38:37.68,Default,,0,0,0,,I wish to congratulate you\Non your new business.
+Dialogue: 0,0:38:37.73,0:38:41.19,Default,,0,0,0,,I know you'll do well, and good luck.
+Dialogue: 0,0:38:41.27,0:38:46.11,Default,,0,0,0,,Especially since your interests\Ndon't conflict with mine. Thank you.
+Dialogue: 0,0:39:06.76,0:39:08.67,Default,,0,0,0,,Santino.
+Dialogue: 0,0:39:08.76,0:39:10.59,Default,,0,0,0,,Come here.
+Dialogue: 0,0:39:12.93,0:39:14.85,Default,,0,0,0,,What's the matter with you?
+Dialogue: 0,0:39:14.93,0:39:19.56,Default,,0,0,0,,Your brain is going soft\Nfrom playing with that girl.
+Dialogue: 0,0:39:19.64,0:39:23.77,Default,,0,0,0,,Never tell anybody outside the family\Nwhat you're thinking again.
+Dialogue: 0,0:39:25.07,0:39:26.32,Default,,0,0,0,,Go on.
+Dialogue: 0,0:39:30.28,0:39:33.12,Default,,0,0,0,,Tom, what's this nonsense?
+Dialogue: 0,0:39:33.20,0:39:36.62,Default,,0,0,0,,It's from Johnny.\NHe's starring in that new film.
+Dialogue: 0,0:39:38.96,0:39:41.54,Default,,0,0,0,,- Take it away.\N- Take it over there.
+Dialogue: 0,0:39:42.83,0:39:44.38,Default,,0,0,0,,And
+Dialogue: 0,0:39:45.42,0:39:47.59,Default,,0,0,0,,tell Luca Brasi to come in.
+Dialogue: 0,0:39:53.72,0:39:57.14,Default,,0,0,0,,I'm a little worried\Nabout this Sollozzo fellow.
+Dialogue: 0,0:39:57.22,0:40:00.18,Default,,0,0,0,,Find out what he's got\Nunder his fingernails.
+Dialogue: 0,0:40:01.19,0:40:04.81,Default,,0,0,0,,Go to the Tattaglias.
+Dialogue: 0,0:40:04.90,0:40:09.19,Default,,0,0,0,,Make them think that you're not\Ntoo happy with our family
+Dialogue: 0,0:40:10.57,0:40:12.95,Default,,0,0,0,,and find out what you can.
+Dialogue: 0,0:40:30.42,0:40:33.72,Default,,0,0,0,,I got something for your mother\Nand for Sonny
+Dialogue: 0,0:40:33.80,0:40:38.47,Default,,0,0,0,,and a tie for Freddy,\Nand Tom Hagen got the Reynolds pen.
+Dialogue: 0,0:40:38.56,0:40:41.81,Default,,0,0,0,,- What do you want for Christmas?\N- Just you.
+Dialogue: 0,0:41:13.72,0:41:15.63,Default,,0,0,0,,Andiamo, Fredo.
+Dialogue: 0,0:41:15.72,0:41:19.14,Default,,0,0,0,,- Tell Paulie to get the car.\N- Okay, Pop.
+Dialogue: 0,0:41:19.22,0:41:23.23,Default,,0,0,0,,I'll have to get it myself.\NPaulie called in sick this morning.
+Dialogue: 0,0:41:24.98,0:41:28.23,Default,,0,0,0,,Paulie's a good kid.\NI don't mind getting the car.
+Dialogue: 0,0:41:31.65,0:41:34.12,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Buon natale, Caro. Gràzie.{\c}{\fn\i0}\N{\b1\c&Hc0c0c0&}[Merry Christmas, Dear. Thank you.]{\c}{\b0}
+Dialogue: 0,0:42:16.45,0:42:20.74,Default,,0,0,0,,- Luca! I'm Bruno Tattaglia.\N- I know.
+Dialogue: 0,0:42:22.09,0:42:23.76,Default,,0,0,0,,You want Scotch? Pre-war!
+Dialogue: 0,0:42:25.85,0:42:26.65,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I don't drink.
+Dialogue: 0,0:42:30.67,0:42:31.67,Default,,0,0,0,,You know who I am?
+Dialogue: 0,0:42:31.75,0:42:33.09,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I know you.
+Dialogue: 0,0:42:34.38,0:42:37.97,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}You have been talking to the\NTattaglia family... right?
+Dialogue: 0,0:42:38.97,0:42:42.97,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I think you and I can do business.
+Dialogue: 0,0:42:44.81,0:42:47.48,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I need someone strong like you.
+Dialogue: 0,0:42:48.10,0:42:50.94,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I heard you are not happy...
+Dialogue: 0,0:42:51.36,0:42:53.65,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}...with the Corleone family.
+Dialogue: 0,0:42:54.40,0:42:56.15,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Want to join me?
+Dialogue: 0,0:42:57.32,0:42:59.28,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}What's in it for me?
+Dialogue: 0,0:43:01.91,0:43:04.83,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}$50,000 to start with.
+Dialogue: 0,0:43:06.83,0:43:08.08,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Not bad!
+Dialogue: 0,0:43:09.75,0:43:11.38,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Agreed?
+Dialogue: 0,0:44:10.81,0:44:14.52,Default,,0,0,0,,Tom! Tom Hagen. Merry Christmas.
+Dialogue: 0,0:44:14.65,0:44:19.57,Default,,0,0,0,,- Glad to see you. I want to talk to you.\N- I haven't got time.
+Dialogue: 0,0:44:19.65,0:44:22.70,Default,,0,0,0,,Make time, {\i1\c&H0080ff&\fnMicrosoft Sans Serif}Consigliere{\c}{\fn\i0}. Get in the car.
+Dialogue: 0,0:44:24.53,0:44:26.05,Default,,0,0,0,,What are you worried about?
+Dialogue: 0,0:44:26.09,0:44:29.07,Default,,0,0,0,,If I wanted to kill you,\Nyou'd be dead already.
+Dialogue: 0,0:44:29.12,0:44:30.58,Default,,0,0,0,,Get in.
+Dialogue: 0,0:44:41.59,0:44:45.30,Default,,0,0,0,,- Fredo, I'm going to buy some fruit.\N- Okay, Pop.
+Dialogue: 0,0:44:52.10,0:44:54.94,Default,,0,0,0,,Merry Christmas. I want some fruit.
+Dialogue: 0,0:46:22.48,0:46:26.53,Default,,0,0,0,,Would you like me better\Nif I were a nun? Like in the story.
+Dialogue: 0,0:46:29.66,0:46:30.66,Default,,0,0,0,,No.
+Dialogue: 0,0:46:30.74,0:46:35.12,Default,,0,0,0,,- What if I were Ingrid Bergman?\N- Now, that's a thought.
+Dialogue: 0,0:46:37.71,0:46:39.67,Default,,0,0,0,,Michael.
+Dialogue: 0,0:46:39.75,0:46:42.17,Default,,0,0,0,,No, I wouldn't like you better\Nif you were Ingrid Bergman.
+Dialogue: 0,0:46:42.25,0:46:44.05,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:47:00.94,0:47:03.61,Default,,0,0,0,,They don't say if he's dead or alive.
+Dialogue: 0,0:47:25.88,0:47:29.17,Default,,0,0,0,,- Sonny, it's Michael.\N{\i1\c&H00ffff&}- Where have you been?{\c}{\i0}
+Dialogue: 0,0:47:29.26,0:47:32.01,Default,,0,0,0,,- Is he all right?\N{\i1\c&H00ffff&}- We don't know yet.{\c}{\i0}
+Dialogue: 0,0:47:32.09,0:47:36.14,Default,,0,0,0,,{\i1\c&H00ffff&}There are all kinds of stories.\NHe was hit bad, Mikey.{\c}{\i0}
+Dialogue: 0,0:47:38.10,0:47:41.35,Default,,0,0,0,,{\i1\c&H00ffff&}- Are you there?{\c}{\i0}\N- Yeah, I'm here.
+Dialogue: 0,0:47:41.48,0:47:46.36,Default,,0,0,0,,{\i1\c&H00ffff&}- Where have you been? I was worried.{\c}{\i0}\N- Didn't Tom tell you I called?
+Dialogue: 0,0:47:46.44,0:47:50.49,Default,,0,0,0,,{\i1\c&H00ffff&}No. Look, come home, kid.\NYou should be with Mama, you hear?{\c}{\i0}
+Dialogue: 0,0:47:57.95,0:47:59.54,Default,,0,0,0,,Oh, my God.
+Dialogue: 0,0:48:03.54,0:48:04.96,Default,,0,0,0,,Sonny!
+Dialogue: 0,0:48:13.84,0:48:16.14,Default,,0,0,0,,Stay back there.
+Dialogue: 0,0:48:16.22,0:48:18.89,Default,,0,0,0,,- Who is it?\N{\i1\c&H00ffff&}- Open up, it's Clemenza.{\c}{\i0}
+Dialogue: 0,0:48:21.31,0:48:24.56,Default,,0,0,0,,There's more news about your old man.
+Dialogue: 0,0:48:24.65,0:48:26.82,Default,,0,0,0,,Word is out that he's already dead.
+Dialogue: 0,0:48:27.23,0:48:31.15,Default,,0,0,0,,- What's the matter with you?\N- Take it easy!
+Dialogue: 0,0:48:31.32,0:48:34.57,Default,,0,0,0,,- Where was Paulie?\N- Sick. He's been sick all winter.
+Dialogue: 0,0:48:34.66,0:48:37.08,Default,,0,0,0,,- How often?\N- Only three, four times.
+Dialogue: 0,0:48:37.16,0:48:40.95,Default,,0,0,0,,- Freddy didn't want a new bodyguard.\N- Pick him up now.
+Dialogue: 0,0:48:41.04,0:48:45.88,Default,,0,0,0,,I don't care how sick he is.\NBring him to my father's house right now.
+Dialogue: 0,0:48:45.96,0:48:49.05,Default,,0,0,0,,- You want anyone sent over here?\N- No. Go ahead.
+Dialogue: 0,0:48:58.22,0:49:02.23,Default,,0,0,0,,I'm going to have a couple of our people\Ncome over to the house.
+Dialogue: 0,0:49:05.15,0:49:07.31,Default,,0,0,0,,- Hello?\N{\i1\c&H00ff00&}- Santino Corleone?{\c}{\i0}
+Dialogue: 0,0:49:07.40,0:49:10.23,Default,,0,0,0,,- Yeah.\N{\i1\c&H00ff00&}- We have Tom Hagen.{\c}{\i0}
+Dialogue: 0,0:49:10.32,0:49:14.03,Default,,0,0,0,,{\i1\c&H00ff00&}In three hours he'll be released\Nwith our proposition.{\c}{\i0}
+Dialogue: 0,0:49:14.11,0:49:17.45,Default,,0,0,0,,{\i1\c&H00ff00&}Listen to what he has to say\Nbefore you do anything.{\c}{\i0}
+Dialogue: 0,0:49:17.53,0:49:22.16,Default,,0,0,0,,{\i1\c&H00ff00&}What's done is done. Don't lose that\Nfamous temper of yours, Sonny.{\c}{\i0}
+Dialogue: 0,0:49:22.25,0:49:23.96,Default,,0,0,0,,I'll wait.
+Dialogue: 0,0:49:38.30,0:49:40.31,Default,,0,0,0,,Your boss is dead.
+Dialogue: 0,0:49:43.14,0:49:47.56,Default,,0,0,0,,I know you're not in the muscle end\Nof the family, so don't be scared.
+Dialogue: 0,0:49:48.65,0:49:52.53,Default,,0,0,0,,I want you to help the Corleones and me.
+Dialogue: 0,0:49:56.49,0:50:00.99,Default,,0,0,0,,We got him outside his office\Nabout an hour after we picked you up.
+Dialogue: 0,0:50:02.41,0:50:03.70,Default,,0,0,0,,Drink it.
+Dialogue: 0,0:50:08.46,0:50:11.92,Default,,0,0,0,,It's up to you to make peace\Nbetween me and Sonny.
+Dialogue: 0,0:50:16.13,0:50:18.93,Default,,0,0,0,,Sonny was hot for my deal, wasn't he?
+Dialogue: 0,0:50:20.30,0:50:23.14,Default,,0,0,0,,And you knew it was the right thing to do.
+Dialogue: 0,0:50:24.31,0:50:29.44,Default,,0,0,0,,- Sonny will come after you.\N- That will be his first reaction, sure.
+Dialogue: 0,0:50:30.86,0:50:37.36,Default,,0,0,0,,So you have to talk sense into him.\NThe Tattaglia family is behind me.
+Dialogue: 0,0:50:37.45,0:50:42.53,Default,,0,0,0,,The other New York families will go along\Nwith anything to prevent war.
+Dialogue: 0,0:50:42.62,0:50:47.83,Default,,0,0,0,,Let's face it, with all due respect,\Nthe Don - rest in peace - was slipping.
+Dialogue: 0,0:50:50.84,0:50:53.84,Default,,0,0,0,,Ten years ago, could I have gotten to him?
+Dialogue: 0,0:50:57.72,0:51:01.68,Default,,0,0,0,,Well, now he's dead, Tom,\Nand nothing can bring him back.
+Dialogue: 0,0:51:03.47,0:51:09.35,Default,,0,0,0,,You've got to talk to Sonny,\Nto the Caporegimes, Tessio, fat Clemenza.
+Dialogue: 0,0:51:14.32,0:51:16.40,Default,,0,0,0,,It's good business, Tom.
+Dialogue: 0,0:51:17.78,0:51:22.62,Default,,0,0,0,,I'll try. But even Sonny won't be able\Nto call off Luca Brasi.
+Dialogue: 0,0:51:25.66,0:51:27.45,Default,,0,0,0,,Yeah, well...
+Dialogue: 0,0:51:29.29,0:51:31.67,Default,,0,0,0,,Let me worry about Luca.
+Dialogue: 0,0:51:36.88,0:51:39.26,Default,,0,0,0,,You just talk to Sonny.
+Dialogue: 0,0:51:39.34,0:51:41.59,Default,,0,0,0,,And the other two kids.
+Dialogue: 0,0:51:44.56,0:51:47.06,Default,,0,0,0,,- I'll do my best.\N- Good.
+Dialogue: 0,0:51:49.44,0:51:51.85,Default,,0,0,0,,Now you can go.
+Dialogue: 0,0:51:58.69,0:52:03.36,Default,,0,0,0,,I don't like violence, Tom.\NI'm a businessman.
+Dialogue: 0,0:52:03.45,0:52:05.91,Default,,0,0,0,,Blood is a big expense.
+Dialogue: 0,0:52:27.14,0:52:29.02,Default,,0,0,0,,He's still alive.
+Dialogue: 0,0:52:29.10,0:52:33.06,Default,,0,0,0,,They hit him with five shots,\Nand he's still alive!
+Dialogue: 0,0:52:33.15,0:52:34.55,Default,,0,0,0,,That's bad luck for me,
+Dialogue: 0,0:52:34.58,0:52:37.93,Default,,0,0,0,,and bad luck for you\Nif you don't make that deal.
+Dialogue: 0,0:53:22.61,0:53:25.43,Default,,0,0,0,,Your mother is at the hospital\Nwith your father.
+Dialogue: 0,0:53:25.47,0:53:27.48,Default,,0,0,0,,Looks like he'll pull through.
+Dialogue: 0,0:53:29.29,0:53:31.20,Default,,0,0,0,,It's a lot of bad blood.
+Dialogue: 0,0:53:31.24,0:53:35.95,Default,,0,0,0,,Sollozzo, Philip Tattaglia,\NBruno Tattaglia, Ramon...
+Dialogue: 0,0:53:36.00,0:53:39.42,Default,,0,0,0,,- You gonna kill all those guys?\N- Stay out of it.
+Dialogue: 0,0:53:39.50,0:53:41.96,Default,,0,0,0,,If you get rid of Sollozzo,\Neverything falls into line.
+Dialogue: 0,0:53:42.05,0:53:46.34,Default,,0,0,0,,What about Luca?\NSollozzo thinks he can control him.
+Dialogue: 0,0:53:46.43,0:53:50.22,Default,,0,0,0,,If Luca sold out,\Nwe're in a lot of trouble.
+Dialogue: 0,0:53:50.31,0:53:53.89,Default,,0,0,0,,- Has anyone been in touch with Luca?\N- We've been trying all night.
+Dialogue: 0,0:53:53.98,0:53:58.02,Default,,0,0,0,,- Hey, do me a favor...\N- Luca never sleeps over with a broad.
+Dialogue: 0,0:54:00.11,0:54:05.32,Default,,0,0,0,,Well, Tom, you're {\i1\c&H0080ff&\fnMicrosoft Sans Serif}consigliere{\c}{\fn\i0}.\NWhat do we do if the old man dies?
+Dialogue: 0,0:54:06.45,0:54:08.19,Default,,0,0,0,,If we lose the old man,
+Dialogue: 0,0:54:08.22,0:54:12.69,Default,,0,0,0,,we lose the political contacts\Nand half our strength.
+Dialogue: 0,0:54:12.75,0:54:18.42,Default,,0,0,0,,The other New York families might\Nsupport Sollozzo to avoid a long war.
+Dialogue: 0,0:54:18.50,0:54:23.05,Default,,0,0,0,,This is almost 1946.\NNobody wants bloodshed anymore.
+Dialogue: 0,0:54:23.13,0:54:24.80,Default,,0,0,0,,If your father dies
+Dialogue: 0,0:54:27.22,0:54:28.97,Default,,0,0,0,,you make the deal.
+Dialogue: 0,0:54:29.05,0:54:33.93,Default,,0,0,0,,- Easy to say. He's not your father.\N- I'm as much a son as you or Mike.
+Dialogue: 0,0:54:38.52,0:54:40.02,Default,,0,0,0,,What is it?
+Dialogue: 0,0:54:41.02,0:54:46.82,Default,,0,0,0,,- Paulie, I told you to stay put.\N- The guy at the gates has a package.
+Dialogue: 0,0:54:46.90,0:54:49.03,Default,,0,0,0,,Tessio, go see what it is.
+Dialogue: 0,0:54:52.37,0:54:54.62,Default,,0,0,0,,- Shall I stay?\N- Yeah. Are you all right?
+Dialogue: 0,0:54:54.70,0:54:58.46,Default,,0,0,0,,- I'm fine.\N- There's food. Are you hungry?
+Dialogue: 0,0:54:58.54,0:55:02.13,Default,,0,0,0,,- No.\N- A drink? Brandy will sweat it out.
+Dialogue: 0,0:55:02.21,0:55:04.84,Default,,0,0,0,,- Go ahead.\N- That might be a good idea.
+Dialogue: 0,0:55:06.59,0:55:12.64,Default,,0,0,0,,Take care of that son-of-a-bitch.\NPaulie sold out the old man.
+Dialogue: 0,0:55:12.72,0:55:16.31,Default,,0,0,0,,- Make that the first thing on your list.\N- Understood.
+Dialogue: 0,0:55:16.39,0:55:20.69,Default,,0,0,0,,Mickey, tomorrow, get some guys\Nand go to Luca's apartment.
+Dialogue: 0,0:55:20.77,0:55:24.48,Default,,0,0,0,,Maybe we shouldn't get Mike mixed up\Nin this too directly.
+Dialogue: 0,0:55:27.03,0:55:30.74,Default,,0,0,0,,Hanging around the house\Non the phone would be a big help.
+Dialogue: 0,0:55:31.62,0:55:33.53,Default,,0,0,0,,Try Luca again.
+Dialogue: 0,0:55:42.46,0:55:45.21,Default,,0,0,0,,- What's this?\N- A Sicilian message.
+Dialogue: 0,0:55:45.30,0:55:48.17,Default,,0,0,0,,It means Luca Brasi sleeps with the fishes.
+Dialogue: 0,0:56:01.90,0:56:03.98,Default,,0,0,0,,- I'm going.\N- When will you be home?
+Dialogue: 0,0:56:04.06,0:56:05.73,Default,,0,0,0,,Probably late.
+Dialogue: 0,0:56:08.28,0:56:11.95,Default,,0,0,0,,- Don't forget the cannoli!\N- Yeah, yeah, yeah.
+Dialogue: 0,0:56:14.20,0:56:18.70,Default,,0,0,0,,Rocco, sit on the other side.\NYou block the rear-view mirror.
+Dialogue: 0,0:56:20.25,0:56:23.67,Default,,0,0,0,,Sonny's running wild.\NHe wants to go to mattresses already.
+Dialogue: 0,0:56:23.75,0:56:29.63,Default,,0,0,0,,We have to find a spot on the West Side.\NTry 309 West 43rd Street.
+Dialogue: 0,0:56:29.72,0:56:33.22,Default,,0,0,0,,- Know a good spot on the West Side?\N- I'll think about it.
+Dialogue: 0,0:56:33.30,0:56:37.06,Default,,0,0,0,,Think while you're driving.\NI want to hit New York this month.
+Dialogue: 0,0:56:37.14,0:56:38.89,Default,,0,0,0,,Watch the kids.
+Dialogue: 0,0:56:49.78,0:56:51.86,Default,,0,0,0,,Paulie, go down 39th Street,
+Dialogue: 0,0:56:51.89,0:56:55.61,Default,,0,0,0,,pick up 18 mattresses\Nand bring me the bill.
+Dialogue: 0,0:56:55.66,0:56:57.08,Default,,0,0,0,,Yeah, all right.
+Dialogue: 0,0:56:57.16,0:57:01.58,Default,,0,0,0,,Make sure they're clean, because\Nthe guys will be there a long time.
+Dialogue: 0,0:57:01.66,0:57:05.92,Default,,0,0,0,,- They're clean and exterminated.\N- That's a bad word to use.
+Dialogue: 0,0:57:06.00,0:57:09.96,Default,,0,0,0,,Exterminate! Watch out,\Nso we don't exterminate you!
+Dialogue: 0,0:57:10.57,0:57:12.65,Default,,0,0,0,,Hey, Paulie - Did you fart?
+Dialogue: 0,0:57:16.68,0:57:19.18,Default,,0,0,0,,Pull over. I've got to take a leak.
+Dialogue: 0,0:58:01.06,0:58:04.27,Default,,0,0,0,,Leave the gun. Take the cannoli.
+Dialogue: 0,0:58:22.45,0:58:25.33,Default,,0,0,0,,Hey, Mike! Hey, Mikey!
+Dialogue: 0,0:58:27.25,0:58:29.38,Default,,0,0,0,,- Yeah.\N- Phone call!
+Dialogue: 0,0:58:35.42,0:58:37.63,Default,,0,0,0,,- Who is it?\N- Some girl.
+Dialogue: 0,0:58:41.93,0:58:44.35,Default,,0,0,0,,- Hello. Kay?\N{\i1\c&H00ff00&}- How's your father?{\c}{\i0}
+Dialogue: 0,0:58:44.43,0:58:46.43,Default,,0,0,0,,He's going to make it.
+Dialogue: 0,0:58:46.89,0:58:48.73,Default,,0,0,0,,{\i1\c&H00ff00&}I love you.{\c}{\i0}
+Dialogue: 0,0:58:50.15,0:58:51.77,Default,,0,0,0,,{\i1\c&H00ff00&}I love you!{\c}{\i0}
+Dialogue: 0,0:58:52.61,0:58:55.23,Default,,0,0,0,,{\i1\c&H00ff00&}- Michael?{\c}{\i0}\N- Yeah, I know.
+Dialogue: 0,0:58:55.32,0:58:58.24,Default,,0,0,0,,{\i1\c&H00ff00&}- Tell me you love me.{\c}{\i0}\N- I can't talk.
+Dialogue: 0,0:58:58.32,0:59:00.20,Default,,0,0,0,,Can't you say it?
+Dialogue: 0,0:59:01.41,0:59:03.28,Default,,0,0,0,,I'll see you tonight.
+Dialogue: 0,0:59:04.08,0:59:07.21,Default,,0,0,0,,Why don't you tell that nice girl\Nyou love her?
+Dialogue: 0,0:59:07.29,0:59:08.96,Default,,0,0,0,,I love you with all my heart.
+Dialogue: 0,0:59:09.00,0:59:12.12,Default,,0,0,0,,If I don't see you again soon,\NI'm going to die!
+Dialogue: 0,0:59:13.17,0:59:14.80,Default,,0,0,0,,Come and learn something.
+Dialogue: 0,0:59:14.83,0:59:18.08,Default,,0,0,0,,You might have to cook\Nfor 20 guys some day.
+Dialogue: 0,0:59:18.13,0:59:21.76,Default,,0,0,0,,You start with a little oil,\Nthen fry some garlic.
+Dialogue: 0,0:59:21.89,0:59:27.52,Default,,0,0,0,,Throw in some tomatoes, tomato paste,\Nfry it and make sure it doesn't stick.
+Dialogue: 0,0:59:27.60,0:59:31.69,Default,,0,0,0,,You get it to a boil, you shove in\Nall your sausage and meatballs.
+Dialogue: 0,0:59:33.57,0:59:35.65,Default,,0,0,0,,Add a little bit of wine.
+Dialogue: 0,0:59:38.90,0:59:43.32,Default,,0,0,0,,And a little bit of sugar. That's my trick.
+Dialogue: 0,0:59:43.45,0:59:46.61,Default,,0,0,0,,Cut the crap. I have more\Nimportant things for you.
+Dialogue: 0,0:59:46.64,0:59:47.74,Default,,0,0,0,,How's Paulie?
+Dialogue: 0,0:59:47.79,0:59:50.00,Default,,0,0,0,,You won't see him no more.
+Dialogue: 0,0:59:51.46,0:59:53.96,Default,,0,0,0,,- Where are you going?\N- To the city.
+Dialogue: 0,0:59:54.04,0:59:57.55,Default,,0,0,0,,- Send bodyguards with him.\N- I'm going to the hospital...
+Dialogue: 0,0:59:57.63,1:00:00.97,Default,,0,0,0,,He'll be all right.\NSollozzo knows he's a civilian.
+Dialogue: 0,1:00:01.05,1:00:03.05,Default,,0,0,0,,- Be careful.\N- Yes, sir.
+Dialogue: 0,1:00:06.18,1:00:08.47,Default,,0,0,0,,Send somebody with him anyway.
+Dialogue: 0,1:00:36.55,1:00:39.59,Default,,0,0,0,,- I have to go.\N- Can I go with you?
+Dialogue: 0,1:00:41.38,1:00:45.72,Default,,0,0,0,,No, Kay. There will be detectives there,\Npeople from the press.
+Dialogue: 0,1:00:45.80,1:00:47.93,Default,,0,0,0,,I'll wait in the cab.
+Dialogue: 0,1:00:50.56,1:00:53.19,Default,,0,0,0,,I don't want you to get involved.
+Dialogue: 0,1:00:55.90,1:00:58.15,Default,,0,0,0,,When will I see you again?
+Dialogue: 0,1:01:04.49,1:01:08.62,Default,,0,0,0,,Go back to New Hampshire,\Nand I'll call you at your parents' house.
+Dialogue: 0,1:01:10.37,1:01:15.08,Default,,0,0,0,,- When will I see you again, Michael?\N- I don't know.
+Dialogue: 0,1:03:27.30,1:03:31.14,Default,,0,0,0,,What are you doing here?\NYou're not supposed to be here.
+Dialogue: 0,1:03:31.22,1:03:34.72,Default,,0,0,0,,I'm Michael Corleone. This is my father.
+Dialogue: 0,1:03:34.81,1:03:37.14,Default,,0,0,0,,What happened to the guards?
+Dialogue: 0,1:03:37.23,1:03:42.65,Default,,0,0,0,,Your father had too many visitors.\NThey interfered with hospital service.
+Dialogue: 0,1:03:42.73,1:03:46.07,Default,,0,0,0,,The police made them leave\Nabout 10 minutes ago.
+Dialogue: 0,1:03:50.57,1:03:54.53,Default,,0,0,0,,Get me Long Beach 4 5 6 2 0, please.
+Dialogue: 0,1:03:57.08,1:03:59.41,Default,,0,0,0,,Nurse. Wait a minute. Stay here.
+Dialogue: 0,1:04:03.46,1:04:08.30,Default,,0,0,0,,Sonny, I'm at the hospital.\NI got here late, there's nobody here.
+Dialogue: 0,1:04:08.42,1:04:12.68,Default,,0,0,0,,No Tessio's men, no detectives, nobody.\NPapa's all alone.
+Dialogue: 0,1:04:12.76,1:04:15.26,Default,,0,0,0,,{\i1\c&H00ff00&}- Don't panic.{\c}{\i0}\N- I won't panic.
+Dialogue: 0,1:04:16.72,1:04:19.60,Default,,0,0,0,,I'm sorry, but you will have to leave.
+Dialogue: 0,1:04:22.31,1:04:25.15,Default,,0,0,0,,We're going to move him to another room.
+Dialogue: 0,1:04:25.23,1:04:28.23,Default,,0,0,0,,Can you disconnect the tubes?
+Dialogue: 0,1:04:28.32,1:04:31.86,Default,,0,0,0,,- That's out of the question!\N- Do you know my father?
+Dialogue: 0,1:04:31.95,1:04:36.24,Default,,0,0,0,,Men are coming here to kill him.\NDo you understand?
+Dialogue: 0,1:04:36.33,1:04:38.12,Default,,0,0,0,,Help me, please.
+Dialogue: 0,1:05:55.20,1:05:58.99,Default,,0,0,0,,- Who are you?\N- I am Enzo, the baker.
+Dialogue: 0,1:06:00.04,1:06:02.08,Default,,0,0,0,,- Remember me?\N- Enzo.
+Dialogue: 0,1:06:02.16,1:06:05.29,Default,,0,0,0,,You'd better go,\Nthere's going to be trouble.
+Dialogue: 0,1:06:05.37,1:06:08.61,Default,,0,0,0,,If there is trouble,\NI'll stay here to help you.
+Dialogue: 0,1:06:08.65,1:06:10.04,Default,,0,0,0,,For your father.
+Dialogue: 0,1:06:12.01,1:06:16.13,Default,,0,0,0,,Listen. Wait for me outside,\Nin front of the hospital, all right?
+Dialogue: 0,1:06:16.22,1:06:18.30,Default,,0,0,0,,I'll be out in a minute.
+Dialogue: 0,1:06:32.07,1:06:35.82,Default,,0,0,0,,Just lie here, Pop.\NI'll take care of you now.
+Dialogue: 0,1:06:37.78,1:06:39.82,Default,,0,0,0,,I'm with you now.
+Dialogue: 0,1:06:41.45,1:06:42.99,Default,,0,0,0,,I'm with you.
+Dialogue: 0,1:07:18.45,1:07:20.61,Default,,0,0,0,,Get rid of these. Come here.
+Dialogue: 0,1:07:21.57,1:07:24.54,Default,,0,0,0,,Put your hand in your pocket,\Nlike you have a gun.
+Dialogue: 0,1:07:24.57,1:07:26.03,Default,,0,0,0,,You'll be all right.
+Dialogue: 0,1:08:17.34,1:08:19.01,Default,,0,0,0,,You did good.
+Dialogue: 0,1:09:07.56,1:09:10.77,Default,,0,0,0,,I thought all you Guinea hoods\Nwere locked up!
+Dialogue: 0,1:09:10.89,1:09:15.48,Default,,0,0,0,,- Why isn't anyone guarding my father?\N- You little punk!
+Dialogue: 0,1:09:15.56,1:09:19.48,Default,,0,0,0,,Don't you tell me my business!\NI pulled them off.
+Dialogue: 0,1:09:19.61,1:09:25.53,Default,,0,0,0,,- Stay away from this hospital!\N- Not until my father's room is guarded.
+Dialogue: 0,1:09:26.37,1:09:29.66,Default,,0,0,0,,- Phil, take him in!\N- The kid's clean, Captain.
+Dialogue: 0,1:09:29.74,1:09:33.58,Default,,0,0,0,,- He's a war hero. He's never been...\N- I said take him in!
+Dialogue: 0,1:09:35.75,1:09:42.01,Default,,0,0,0,,- What's The Turk paying you?\N- Take a hold of him. Stand him up.
+Dialogue: 0,1:09:42.09,1:09:43.97,Default,,0,0,0,,Stand him up straight.
+Dialogue: 0,1:10:06.11,1:10:08.11,Default,,0,0,0,,I'm the Corleones' attorney.
+Dialogue: 0,1:10:08.14,1:10:11.78,Default,,0,0,0,,These men are hired\Nto protect Vito Corleone.
+Dialogue: 0,1:10:11.83,1:10:14.25,Default,,0,0,0,,They're licensed to carry firearms.
+Dialogue: 0,1:10:14.33,1:10:18.75,Default,,0,0,0,,If you interfere, you'll have to appear\Nbefore the judge and show cause.
+Dialogue: 0,1:10:18.84,1:10:20.84,Default,,0,0,0,,Let him go.
+Dialogue: 0,1:10:53.24,1:10:57.16,Default,,0,0,0,,- What's with all the new faces?\N- We'll need them now.
+Dialogue: 0,1:10:57.25,1:11:00.13,Default,,0,0,0,,After the hospital thing, Sonny got mad.
+Dialogue: 0,1:11:00.21,1:11:03.38,Default,,0,0,0,,We hit Bruno Tattaglia this morning.
+Dialogue: 0,1:11:04.51,1:11:06.51,Default,,0,0,0,,Jesus Christ.
+Dialogue: 0,1:11:13.18,1:11:15.68,Default,,0,0,0,,Looks like a fortress around here.
+Dialogue: 0,1:11:17.81,1:11:19.96,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Tamaduch!{\c}{\fn\i0} Hey...\N{\b1\c&Hc0c0c0&}[Linguistic expression: We are ready!]{\c}{\b0}
+Dialogue: 0,1:11:19.96,1:11:23.19,Default,,0,0,0,,A 100 buttonmen on the street\N24 hours a day.
+Dialogue: 0,1:11:23.27,1:11:26.86,Default,,0,0,0,,That Turk shows one hair on his ass,\Nhe's dead.
+Dialogue: 0,1:11:28.91,1:11:30.99,Default,,0,0,0,,Mike, let me look at you.
+Dialogue: 0,1:11:35.04,1:11:38.08,Default,,0,0,0,,You're beautiful, beautiful.\NYou're gorgeous.
+Dialogue: 0,1:11:38.21,1:11:43.79,Default,,0,0,0,,The Turk wants to talk!\NImagine the nerve of the son-of-a-bitch.
+Dialogue: 0,1:11:43.88,1:11:46.63,Default,,0,0,0,,- He wants a meeting today.\N- What did he say?
+Dialogue: 0,1:11:46.76,1:11:47.96,Default,,0,0,0,,What did he say...
+Dialogue: 0,1:11:47.99,1:11:51.58,Default,,0,0,0,,He wants us to send Michael\Nto hear the proposition.
+Dialogue: 0,1:11:51.64,1:11:55.10,Default,,0,0,0,,He promises that the deal\Nis too good to refuse.
+Dialogue: 0,1:11:55.18,1:11:58.27,Default,,0,0,0,,- And Bruno Tattaglia?\N- That's part of the deal.
+Dialogue: 0,1:11:58.35,1:12:02.65,Default,,0,0,0,,- He cancels out what they did to Father.\N- We should listen to them.
+Dialogue: 0,1:12:02.73,1:12:05.86,Default,,0,0,0,,No more! Not this time, {\i1\c&H0080ff&\fnMicrosoft Sans Serif}Consigliere{\c}{\fn\i0}.
+Dialogue: 0,1:12:05.94,1:12:09.49,Default,,0,0,0,,No more meetings, discussions,\Nor Sollozzo tricks.
+Dialogue: 0,1:12:09.57,1:12:12.61,Default,,0,0,0,,I want Sollozzo, or we go to war...
+Dialogue: 0,1:12:12.70,1:12:15.66,Default,,0,0,0,,- The other families...\N- They hand me Sollozzo!
+Dialogue: 0,1:12:15.74,1:12:18.04,Default,,0,0,0,,This is business, not personal!
+Dialogue: 0,1:12:18.12,1:12:22.54,Default,,0,0,0,,- They shot my father...\N- Even that was business, not personal.
+Dialogue: 0,1:12:23.46,1:12:27.21,Default,,0,0,0,,Then business will have to suffer.\NDo me a favor.
+Dialogue: 0,1:12:27.30,1:12:31.30,Default,,0,0,0,,No more advice on how to patch things up.\NJust help me win.
+Dialogue: 0,1:12:37.60,1:12:41.52,Default,,0,0,0,,I found out about Captain McCluskey,\Nwho broke Mike's jaw.
+Dialogue: 0,1:12:41.60,1:12:45.90,Default,,0,0,0,,He's definitely on Sollozzo's payroll,\Nand for big money.
+Dialogue: 0,1:12:45.98,1:12:50.03,Default,,0,0,0,,McCluskey has agreed\Nto be The Turk's bodyguard.
+Dialogue: 0,1:12:50.11,1:12:53.86,Default,,0,0,0,,So when Sollozzo is being guarded,\Nhe's invulnerable.
+Dialogue: 0,1:12:53.95,1:12:57.53,Default,,0,0,0,,Nobody has ever gunned down\Na New York police captain.
+Dialogue: 0,1:12:57.66,1:13:03.58,Default,,0,0,0,,All the families would come after you.\NThe Corleone family would be outcasts!
+Dialogue: 0,1:13:03.67,1:13:07.50,Default,,0,0,0,,Even the old man's political protection\Nwould run for cover.
+Dialogue: 0,1:13:08.80,1:13:12.63,Default,,0,0,0,,Do me a favor.\NTake this into consideration.
+Dialogue: 0,1:13:16.47,1:13:18.47,Default,,0,0,0,,All right, we'll wait.
+Dialogue: 0,1:13:23.90,1:13:26.73,Default,,0,0,0,,We can't wait. We can't wait.
+Dialogue: 0,1:13:28.19,1:13:32.15,Default,,0,0,0,,No matter what Sollozzo says,\Nhe's going to kill Pop.
+Dialogue: 0,1:13:32.24,1:13:35.95,Default,,0,0,0,,That's the key for him.\NWe've got to get Sollozzo.
+Dialogue: 0,1:13:36.03,1:13:40.33,Default,,0,0,0,,- Mike is right.\N- Let me ask you something.
+Dialogue: 0,1:13:40.41,1:13:45.00,Default,,0,0,0,,What about this McCluskey?\NWhat do we do with this cop?
+Dialogue: 0,1:13:50.17,1:13:53.05,Default,,0,0,0,,They want to have a meeting with me, right?
+Dialogue: 0,1:13:53.93,1:13:58.35,Default,,0,0,0,,It will be me, McCluskey and Sollozzo.
+Dialogue: 0,1:14:00.35,1:14:02.35,Default,,0,0,0,,Let's set the meeting.
+Dialogue: 0,1:14:04.52,1:14:08.23,Default,,0,0,0,,Get our informers to find out\Nwhere it's going to be held.
+Dialogue: 0,1:14:10.07,1:14:13.86,Default,,0,0,0,,We insist it's a public place.\NA bar, a restaurant.
+Dialogue: 0,1:14:13.95,1:14:17.70,Default,,0,0,0,,Some place where there are people,\Nso I feel safe.
+Dialogue: 0,1:14:20.45,1:14:23.45,Default,,0,0,0,,They'll search me when I meet them, right?
+Dialogue: 0,1:14:23.54,1:14:25.87,Default,,0,0,0,,So I can't have a weapon on me.
+Dialogue: 0,1:14:29.25,1:14:34.21,Default,,0,0,0,,But if Clemenza can figure out a way\Nto have a weapon planted there for me
+Dialogue: 0,1:14:39.18,1:14:41.39,Default,,0,0,0,,then I'll kill them both.
+Dialogue: 0,1:14:53.48,1:14:58.20,Default,,0,0,0,,Nice college boy. Didn't want\Nto get mixed up in the family business.
+Dialogue: 0,1:14:58.32,1:15:01.95,Default,,0,0,0,,Now you want to shoot a police captain\Nbecause he slapped you?
+Dialogue: 0,1:15:02.08,1:15:05.67,Default,,0,0,0,,This isn't like the army!\NYou have to get close
+Dialogue: 0,1:15:05.70,1:15:08.62,Default,,0,0,0,,and get their brains on your suit.
+Dialogue: 0,1:15:08.67,1:15:11.71,Default,,0,0,0,,You're taking this very personal.
+Dialogue: 0,1:15:11.79,1:15:15.21,Default,,0,0,0,,Tom, this is business\Nand he's taking it personal.
+Dialogue: 0,1:15:15.34,1:15:18.80,Default,,0,0,0,,- Where does it say you can't kill a cop?\N- Mikey...
+Dialogue: 0,1:15:18.93,1:15:25.02,Default,,0,0,0,,I'm talking about a cop\Nwho's mixed up in drugs, a dishonest cop.
+Dialogue: 0,1:15:26.06,1:15:30.35,Default,,0,0,0,,A cop who got mixed up in the rackets\Nand got what was coming.
+Dialogue: 0,1:15:30.48,1:15:31.90,Default,,0,0,0,,That's a terrific story.
+Dialogue: 0,1:15:31.93,1:15:35.06,Default,,0,0,0,,We have newspaper people\Non the payroll, right?
+Dialogue: 0,1:15:36.49,1:15:40.32,Default,,0,0,0,,- They might like a story like that.\N- They might.
+Dialogue: 0,1:15:43.99,1:15:47.58,Default,,0,0,0,,It's not personal, Sonny.\NIt's strictly business.
+Dialogue: 0,1:15:50.79,1:15:52.33,Default,,0,0,0,,It's as cold as they come.
+Dialogue: 0,1:15:52.42,1:15:55.67,Default,,0,0,0,,Impossible to trace,\Nso you don't worry about prints.
+Dialogue: 0,1:15:56.09,1:16:00.13,Default,,0,0,0,,I put a special tape on the trigger\Nand the butt. Try it.
+Dialogue: 0,1:16:12.31,1:16:14.40,Default,,0,0,0,,Is the trigger too tight?
+Dialogue: 0,1:16:17.74,1:16:18.94,Default,,0,0,0,,My ears!
+Dialogue: 0,1:16:19.03,1:16:23.66,Default,,0,0,0,,I left it noisy, so it scares away any\Npain-in-the-ass innocent bystanders.
+Dialogue: 0,1:16:24.83,1:16:27.74,Default,,0,0,0,,You've shot them both. Now what do you do?
+Dialogue: 0,1:16:30.12,1:16:33.79,Default,,0,0,0,,- Sit down, finish my dinner.\N- Don't fool around.
+Dialogue: 0,1:16:33.88,1:16:37.42,Default,,0,0,0,,Let your hand drop to your side\Nand let the gun slip out.
+Dialogue: 0,1:16:37.51,1:16:41.93,Default,,0,0,0,,Everybody will still think you've got it.\NThey'll stare at your face,
+Dialogue: 0,1:16:42.01,1:16:44.89,Default,,0,0,0,,so walk out fast, but don't run.
+Dialogue: 0,1:16:44.97,1:16:48.39,Default,,0,0,0,,Don't look anybody in the eye,\Nbut don't look away either.
+Dialogue: 0,1:16:48.47,1:16:51.98,Default,,0,0,0,,They'll be scared stiff,\Nso don't worry about nothing.
+Dialogue: 0,1:16:54.02,1:16:58.28,Default,,0,0,0,,You'll be all right.\NYou'll take a vacation, nobody knows where,
+Dialogue: 0,1:16:58.36,1:17:00.44,Default,,0,0,0,,and we'll catch the hell.
+Dialogue: 0,1:17:01.07,1:17:04.91,Default,,0,0,0,,- How bad do you think it will be?\N- Pretty goddamn bad.
+Dialogue: 0,1:17:04.99,1:17:08.03,Default,,0,0,0,,All the other families will probably\Nline up against us.
+Dialogue: 0,1:17:08.16,1:17:11.58,Default,,0,0,0,,These things have to happen\Nevery five, 10 years.
+Dialogue: 0,1:17:11.62,1:17:13.74,Default,,0,0,0,,Gets rid of the bad blood.
+Dialogue: 0,1:17:13.83,1:17:18.25,Default,,0,0,0,,Been 10 years since the last one.\NYou have to stop them at the beginning.
+Dialogue: 0,1:17:18.38,1:17:21.57,Default,,0,0,0,,Like they should have\Nstopped Hitler in Munich,
+Dialogue: 0,1:17:21.60,1:17:24.13,Default,,0,0,0,,not letting him get away with it.
+Dialogue: 0,1:17:25.51,1:17:30.02,Default,,0,0,0,,You know, Mike, we were all proud of you.\NBeing a hero and all.
+Dialogue: 0,1:17:30.10,1:17:31.81,Default,,0,0,0,,Your father too.
+Dialogue: 0,1:18:09.89,1:18:13.31,Default,,0,0,0,,Nothing. Not a hint. Absolutely nothing.
+Dialogue: 0,1:18:14.27,1:18:18.52,Default,,0,0,0,,Even Sollozzo's people don't know\Nwhere the meeting will be held.
+Dialogue: 0,1:18:18.61,1:18:20.94,Default,,0,0,0,,How much time do we have?
+Dialogue: 0,1:18:21.82,1:18:26.61,Default,,0,0,0,,They're going to pick you up outside\NJack Dempsey's in an hour and a half.
+Dialogue: 0,1:18:27.62,1:18:32.49,Default,,0,0,0,,- We could put a tail on them.\N- Sollozzo would lose our ass.
+Dialogue: 0,1:18:33.87,1:18:38.42,Default,,0,0,0,,- What about the negotiator?\N- He's playing pinochle with my men.
+Dialogue: 0,1:18:38.54,1:18:43.63,Default,,0,0,0,,- He's happy. They're letting him win.\N- Too risky. Maybe we should call it off.
+Dialogue: 0,1:18:43.71,1:18:47.09,Default,,0,0,0,,The negotiator plays cards\Nuntil Mike is back safe.
+Dialogue: 0,1:18:47.18,1:18:51.22,Default,,0,0,0,,- He could blast whoever is in the car.\N- They'll expect that.
+Dialogue: 0,1:18:51.31,1:18:54.64,Default,,0,0,0,,Sollozzo might not even be in the car,\NSonny!
+Dialogue: 0,1:18:54.73,1:18:56.23,Default,,0,0,0,,I'll get it.
+Dialogue: 0,1:19:21.50,1:19:23.67,Default,,0,0,0,,Louis' restaurant in the Bronx.
+Dialogue: 0,1:19:23.75,1:19:27.09,Default,,0,0,0,,- Is it reliable?\N- My man in McCluskey's precinct.
+Dialogue: 0,1:19:27.22,1:19:32.93,Default,,0,0,0,,A police captain is on call 24 hours a day.\NHe'll be there between 8 and 10.
+Dialogue: 0,1:19:33.01,1:19:37.89,Default,,0,0,0,,- Anybody know this joint?\N- Sure, I do. It's perfect for us.
+Dialogue: 0,1:19:37.98,1:19:42.94,Default,,0,0,0,,A small family place, good food.\NEveryone minds his business. Perfect.
+Dialogue: 0,1:19:43.69,1:19:48.86,Default,,0,0,0,,They've got an old-fashioned toilet.\NYou know, the box and the chain thing.
+Dialogue: 0,1:19:50.87,1:19:53.95,Default,,0,0,0,,We might be able to tape the gun behind it.
+Dialogue: 0,1:19:54.03,1:19:58.16,Default,,0,0,0,,All right. Mike, you go to the restaurant,
+Dialogue: 0,1:19:58.25,1:20:02.13,Default,,0,0,0,,you eat, talk for a while, you relax.\NMake them relax.
+Dialogue: 0,1:20:02.21,1:20:07.55,Default,,0,0,0,,Then you go to take a leak.\NNo, better still, you ask permission to go.
+Dialogue: 0,1:20:07.63,1:20:12.09,Default,,0,0,0,,Then you come back blasting.\NTwo shots in the head apiece.
+Dialogue: 0,1:20:13.85,1:20:16.35,Default,,0,0,0,,I want somebody very good\Nto plant that gun.
+Dialogue: 0,1:20:16.43,1:20:19.93,Default,,0,0,0,,I don't want him coming out\Nwith just his dick.
+Dialogue: 0,1:20:20.02,1:20:25.57,Default,,0,0,0,,- The gun will be there.\N- You drive him and pick him up.
+Dialogue: 0,1:20:25.65,1:20:27.32,Default,,0,0,0,,Let's move.
+Dialogue: 0,1:20:32.82,1:20:35.99,Default,,0,0,0,,Did he tell you to drop the gun right away?
+Dialogue: 0,1:20:36.08,1:20:37.95,Default,,0,0,0,,Yeah, a million times.
+Dialogue: 0,1:20:42.71,1:20:46.92,Default,,0,0,0,,Don't forget. Two shots a piece in the head\Nas soon as you come out.
+Dialogue: 0,1:20:53.51,1:20:57.10,Default,,0,0,0,,How long do you think it will be\Nbefore I can come back?
+Dialogue: 0,1:20:57.93,1:21:00.02,Default,,0,0,0,,At least a year.
+Dialogue: 0,1:21:00.14,1:21:04.94,Default,,0,0,0,,I'll square it with Mom, that you're not\Nseeing her before you leave and...
+Dialogue: 0,1:21:06.48,1:21:10.32,Default,,0,0,0,,I'll get a message to that girlfriend\Nwhen the time is right.
+Dialogue: 0,1:21:16.16,1:21:17.66,Default,,0,0,0,,Take care.
+Dialogue: 0,1:21:20.45,1:21:22.21,Default,,0,0,0,,Take care, Mike.
+Dialogue: 0,1:21:55.03,1:21:58.83,Default,,0,0,0,,I'm glad you came.\NI hope we can straighten everything out.
+Dialogue: 0,1:22:00.04,1:22:05.12,Default,,0,0,0,,It's not the way I wanted things to go.\NIt should never have happened.
+Dialogue: 0,1:22:05.25,1:22:09.54,Default,,0,0,0,,I want to straighten everything out.\NI don't want my father bothered again.
+Dialogue: 0,1:22:09.63,1:22:12.88,Default,,0,0,0,,I swear on my children\Nthat he won't be, Mike.
+Dialogue: 0,1:22:13.88,1:22:17.18,Default,,0,0,0,,But you have to keep an open mind\Nwhen we talk.
+Dialogue: 0,1:22:17.26,1:22:21.68,Default,,0,0,0,,I hope you're not a hothead like Sonny.\NYou can't talk business with him.
+Dialogue: 0,1:22:23.56,1:22:25.23,Default,,0,0,0,,He's a good kid.
+Dialogue: 0,1:22:29.32,1:22:32.69,Default,,0,0,0,,I'm sorry about the other night, Mike.
+Dialogue: 0,1:22:32.78,1:22:36.86,Default,,0,0,0,,I've got to frisk you, so turn around.\NOn your knees, facing me.
+Dialogue: 0,1:22:41.99,1:22:46.66,Default,,0,0,0,,I guess I'm getting too old for my job.\NToo grouchy.
+Dialogue: 0,1:22:48.08,1:22:51.92,Default,,0,0,0,,Can't stand the aggravation.\NYou know how it is.
+Dialogue: 0,1:22:54.21,1:22:55.63,Default,,0,0,0,,He's clean.
+Dialogue: 0,1:23:22.24,1:23:24.54,Default,,0,0,0,,Going to Jersey?
+Dialogue: 0,1:23:27.04,1:23:28.58,Default,,0,0,0,,Maybe.
+Dialogue: 0,1:23:53.86,1:23:55.65,Default,,0,0,0,,Nice work, Lou.
+Dialogue: 0,1:24:32.81,1:24:38.36,Default,,0,0,0,,- How's the food in this restaurant?\N- Try the veal. It's the best in the city.
+Dialogue: 0,1:24:38.44,1:24:40.11,Default,,0,0,0,,I'll have it.
+Dialogue: 0,1:25:15.69,1:25:18.86,Default,,0,0,0,,- I'm going to speak Italian to Mikey.\N- Go ahead.
+Dialogue: 0,1:25:25.76,1:25:27.22,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}- I'm sorry.\N- Forget about it.
+Dialogue: 0,1:25:31.60,1:25:37.86,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}What happened to your father was business.
+Dialogue: 0,1:25:39.22,1:25:41.41,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I have much respect for your father...
+Dialogue: 0,1:25:42.45,1:25:44.95,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}but your father's thinking\Nis old fashioned.
+Dialogue: 0,1:25:47.77,1:25:51.00,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}You must understand why I did what I did.
+Dialogue: 0,1:25:52.67,1:25:55.07,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I understand these things.
+Dialogue: 0,1:25:56.01,1:25:56.84,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I do.
+Dialogue: 0,1:25:57.26,1:25:58.30,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}You do.
+Dialogue: 0,1:26:10.60,1:26:15.82,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Now we have to think about what happens\Nbetween you and the Tattaglias.
+Dialogue: 0,1:26:18.42,1:26:21.76,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}We have to work through where\Nwe go from here.
+Dialogue: 0,1:26:34.90,1:26:36.04,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}How do I say..?
+Dialogue: 0,1:26:38.48,1:26:40.15,Default,,0,0,0,,What I want...
+Dialogue: 0,1:26:41.11,1:26:43.28,Default,,0,0,0,,What's most important to me
+Dialogue: 0,1:26:46.03,1:26:50.24,Default,,0,0,0,,is that I have a guarantee.\NNo more attempts on my father's life.
+Dialogue: 0,1:26:50.33,1:26:55.08,Default,,0,0,0,,What guarantees can I give you?\NI'm the hunted one!
+Dialogue: 0,1:26:55.16,1:26:58.71,Default,,0,0,0,,I missed my chance.\NYou think too much of me, kid.
+Dialogue: 0,1:26:58.79,1:27:00.63,Default,,0,0,0,,I'm not that clever.
+Dialogue: 0,1:27:02.13,1:27:04.38,Default,,0,0,0,,All I want is a truce.
+Dialogue: 0,1:27:10.93,1:27:14.77,Default,,0,0,0,,I have to go to the bathroom.\NIs it all right?
+Dialogue: 0,1:27:16.14,1:27:18.64,Default,,0,0,0,,When you got to go, you got to go.
+Dialogue: 0,1:27:24.15,1:27:26.07,Default,,0,0,0,,He's clean.
+Dialogue: 0,1:27:26.15,1:27:28.24,Default,,0,0,0,,Don't take too long.
+Dialogue: 0,1:27:31.37,1:27:33.16,Default,,0,0,0,,I've frisked a thousand punks.
+Dialogue: 0,1:28:49.43,1:28:50.93,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Everything all right?
+Dialogue: 0,1:28:53.02,1:28:54.74,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I respect myself, understand?
+Dialogue: 0,1:28:55.46,1:28:57.58,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}And so I cannot allow your father\Nto hold me back.
+Dialogue: 0,1:28:59.23,1:29:00.79,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}What happened was unavoidable.
+Dialogue: 0,1:29:03.89,1:29:05.91,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I had the unspoken support\Nof the other Dons.
+Dialogue: 0,1:29:08.76,1:29:11.68,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}If your father were in better health...
+Dialogue: 0,1:29:11.81,1:29:13.90,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}without his eldest son running things...
+Dialogue: 0,1:29:13.93,1:29:15.73,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}No disrespect intended,\Nwe wouldn't have this nonsense.
+Dialogue: 0,1:29:15.76,1:29:17.32,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}We will stop fighting\Nuntil your father is well
+Dialogue: 0,1:29:17.34,1:29:18.34,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}and can resume bargaining.
+Dialogue: 0,1:29:18.39,1:29:19.89,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}No vengeance will be taken.\NWe will have peace.
+Dialogue: 0,1:29:19.90,1:29:21.30,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}But your Family should interfere no longer.
+Dialogue: 0,1:32:23.78,1:32:25.78,Default,,0,0,0,,Okay, you take over.
+Dialogue: 0,1:32:43.05,1:32:44.89,Default,,0,0,0,,I love you, Grandpa.
+Dialogue: 0,1:32:47.81,1:32:50.52,Default,,0,0,0,,I'm sorry, Pa. He doesn't know you yet.
+Dialogue: 0,1:32:51.85,1:32:54.94,Default,,0,0,0,,- Hey, big guy. Give it to Grandpa.\N- Okay.
+Dialogue: 0,1:32:55.07,1:33:01.32,Default,,0,0,0,,"I hope you get well, Grandpa, and wish\NI see you soon. Your grandson Frank."
+Dialogue: 0,1:33:04.32,1:33:06.62,Default,,0,0,0,,Go with your mother.
+Dialogue: 0,1:33:06.70,1:33:08.83,Default,,0,0,0,,Take them downstairs.
+Dialogue: 0,1:33:14.96,1:33:17.00,Default,,0,0,0,,Go on, Carlo, you too.
+Dialogue: 0,1:33:18.71,1:33:20.42,Default,,0,0,0,,Go on.
+Dialogue: 0,1:33:41.03,1:33:45.03,Default,,0,0,0,,- What's the matter with you, Carlo?\N- Shut up and set the table.
+Dialogue: 0,1:34:00.59,1:34:02.58,Default,,0,0,0,,Since McCluskey's killing,
+Dialogue: 0,1:34:02.61,1:34:06.67,Default,,0,0,0,,the police have cracked down\Non our operations.
+Dialogue: 0,1:34:08.39,1:34:13.27,Default,,0,0,0,,And also the other families.\NThere's been a lot of bad blood.
+Dialogue: 0,1:34:13.35,1:34:16.85,Default,,0,0,0,,They hit us, so we hit them back.
+Dialogue: 0,1:34:17.69,1:34:22.23,Default,,0,0,0,,Through our newspaper contacts\Nwe've been able to put out material
+Dialogue: 0,1:34:22.32,1:34:26.61,Default,,0,0,0,,about McCluskey's link with Sollozzo\Nin the drug rackets.
+Dialogue: 0,1:34:26.70,1:34:28.82,Default,,0,0,0,,So things are loosening up.
+Dialogue: 0,1:34:30.08,1:34:34.83,Default,,0,0,0,,And I'm sending Fredo to Las Vegas,
+Dialogue: 0,1:34:34.91,1:34:37.46,Default,,0,0,0,,under the protection\Nof Don Francesco of L.A.
+Dialogue: 0,1:34:37.58,1:34:42.09,Default,,0,0,0,,- I want him to rest.\N- I'm going to learn the casino business.
+Dialogue: 0,1:34:50.43,1:34:52.22,Default,,0,0,0,,Where's Michael?
+Dialogue: 0,1:35:04.53,1:35:07.65,Default,,0,0,0,,It was Michael who killed Sollozzo.
+Dialogue: 0,1:35:09.45,1:35:13.29,Default,,0,0,0,,But he's safe. We're starting to work\Nto bring him back.
+Dialogue: 0,1:35:34.68,1:35:37.07,Default,,0,0,0,,I want you to find out\Nwhere that old pimp Tattaglia is hiding.
+Dialogue: 0,1:35:37.14,1:35:39.10,Default,,0,0,0,,I want him now.
+Dialogue: 0,1:35:39.19,1:35:42.73,Default,,0,0,0,,Sonny, things are starting to loosen up.
+Dialogue: 0,1:35:42.82,1:35:46.12,Default,,0,0,0,,If you go after Tattaglia,\Nall hell will break loose.
+Dialogue: 0,1:35:46.16,1:35:47.56,Default,,0,0,0,,Pop can negotiate.
+Dialogue: 0,1:35:47.61,1:35:53.62,Default,,0,0,0,,- He must get better first. I'll decide...\N- War is costly. We can't do business.
+Dialogue: 0,1:35:53.70,1:35:57.54,Default,,0,0,0,,- Neither can they. Don't worry about it!\N- We can't afford a stalemate.
+Dialogue: 0,1:35:57.66,1:36:02.58,Default,,0,0,0,,- No more stalemate. I'll kill the bastard!\N- You're getting a great reputation!
+Dialogue: 0,1:36:02.71,1:36:08.76,Default,,0,0,0,,Do as I say! If I had a Sicilian wartime\N{\i1\c&H0080ff&\fnMicrosoft Sans Serif}consigliere{\c}{\fn\i0}, I wouldn't be in this shape!
+Dialogue: 0,1:36:08.84,1:36:11.14,Default,,0,0,0,,Pop had Genco. Look what I got.
+Dialogue: 0,1:36:14.72,1:36:17.02,Default,,0,0,0,,I'm sorry. I didn't mean that.
+Dialogue: 0,1:36:18.18,1:36:21.15,Default,,0,0,0,,Ma made a little dinner. It's Sunday.
+Dialogue: 0,1:36:22.06,1:36:26.44,Default,,0,0,0,,Niggers are having a good time\Nwith our policy banks in Harlem.
+Dialogue: 0,1:36:26.53,1:36:30.70,Default,,0,0,0,,Driving new Cadillacs,\Npaying 50% on a bet.
+Dialogue: 0,1:36:30.78,1:36:34.12,Default,,0,0,0,,That's because they've started\Nmaking big money.
+Dialogue: 0,1:36:34.20,1:36:37.49,Default,,0,0,0,,Papa never talked business at the table.
+Dialogue: 0,1:36:37.58,1:36:41.46,Default,,0,0,0,,- Shut up, Connie...\N- Don't you ever tell her to shut up.
+Dialogue: 0,1:36:42.21,1:36:43.29,Default,,0,0,0,,Don't interfere.
+Dialogue: 0,1:36:45.59,1:36:49.51,Default,,0,0,0,,I'd like to talk to you after dinner.\NI could do more for the family...
+Dialogue: 0,1:36:49.59,1:36:52.38,Default,,0,0,0,,We don't discuss business at the table.
+Dialogue: 0,1:37:39.60,1:37:42.23,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I kiss your hand, Don Tommasino.
+Dialogue: 0,1:37:47.77,1:37:49.78,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Why are you so far from the house?
+Dialogue: 0,1:37:50.44,1:37:53.11,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}You know I'm responsible to\Nyour father for your life.
+Dialogue: 0,1:37:53.20,1:37:54.49,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}The bodyguards are here.
+Dialogue: 0,1:37:55.41,1:37:56.74,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}It's still dangerous...
+Dialogue: 0,1:37:57.87,1:37:59.62,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}We've heard from Santino in New York...
+Dialogue: 0,1:38:01.04,1:38:03.29,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Your enemies know you're here.
+Dialogue: 0,1:38:05.29,1:38:07.04,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Did Santino say when I can go back?
+Dialogue: 0,1:38:07.71,1:38:09.00,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Not yet.
+Dialogue: 0,1:38:09.67,1:38:11.51,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}It's out of the question.
+Dialogue: 0,1:38:14.97,1:38:16.39,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Where are you going now?
+Dialogue: 0,1:38:18.05,1:38:19.10,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}To Corleone.
+Dialogue: 0,1:38:19.72,1:38:20.97,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Take my car.
+Dialogue: 0,1:38:24.31,1:38:25.35,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I want to walk.
+Dialogue: 0,1:38:27.98,1:38:29.15,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Be careful.
+Dialogue: 0,1:39:03.68,1:39:05.06,Default,,0,0,0,,Where have all the men gone?
+Dialogue: 0,1:39:06.10,1:39:09.51,Default,,0,0,0,,They're all dead from {\i1\c&H0080ff&\fnMicrosoft Sans Serif}vendettas{\c}{\fn\i0}.\N{\b1\c&Hc0c0c0&}[a blood feud in which the family\Nof a murdered person]{\c}{\b0}
+Dialogue: 0,1:39:09.94,1:39:13.46,Default,,0,0,0,,There are the names of the dead.\N{\b1\c&Hc0c0c0&}[seeks vengeance on the murderer\Nor the murderer's family]{\c}{\b0}
+Dialogue: 0,1:39:28.75,1:39:32.88,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Hey, hey, take me to the America, G.I.!
+Dialogue: 0,1:39:32.96,1:39:37.26,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Hey, hey, take me to the America, G.I.!\NClark Gable!
+Dialogue: 0,1:39:37.38,1:39:42.64,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}America! Take me to the America, G.I.!\NClark Gable, Rita Hayworth!
+Dialogue: 0,1:40:00.57,1:40:03.22,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Mamma Mia{\c}{\fn\i0} what a beauty!\N{\b1\c&Hc0c0c0&}[Italian expression denoting a surprise]{\c}{\b0}
+Dialogue: 0,1:40:10.79,1:40:13.88,Default,,0,0,0,,I think you got hit by the thunderbolt.
+Dialogue: 0,1:40:20.09,1:40:24.10,Default,,0,0,0,,In Sicily women are more dangerous\Nthan shotguns.
+Dialogue: 0,1:40:46.79,1:40:48.95,Default,,0,0,0,,Did you have a good hunt?
+Dialogue: 0,1:40:49.91,1:40:52.29,Default,,0,0,0,,You know all the girls around here?
+Dialogue: 0,1:40:52.79,1:40:54.29,Default,,0,0,0,,We saw some real beauties.
+Dialogue: 0,1:40:55.13,1:40:58.63,Default,,0,0,0,,One of them struck our friend\Nlike a thunderbolt.
+Dialogue: 0,1:41:01.84,1:41:04.59,Default,,0,0,0,,She would tempt the devil himself.
+Dialogue: 0,1:41:12.23,1:41:14.40,Default,,0,0,0,,Really put together.
+Dialogue: 0,1:41:14.48,1:41:15.52,Default,,0,0,0,,Right, Calo?
+Dialogue: 0,1:41:19.28,1:41:21.28,Default,,0,0,0,,Such hair, such mouth!
+Dialogue: 0,1:41:23.66,1:41:26.83,Default,,0,0,0,,The girls around here are beautiful...\Nbut virtuous.
+Dialogue: 0,1:41:27.37,1:41:29.75,Default,,0,0,0,,This one had a purple dress...
+Dialogue: 0,1:41:30.12,1:41:32.25,Default,,0,0,0,,And a purple ribbon in her hair.
+Dialogue: 0,1:41:33.12,1:41:36.29,Default,,0,0,0,,A type more Greek than Italian.
+Dialogue: 0,1:41:38.71,1:41:40.55,Default,,0,0,0,,Do you know her?
+Dialogue: 0,1:41:44.97,1:41:47.76,Default,,0,0,0,,There's no girl like that in this town.
+Dialogue: 0,1:41:50.48,1:41:51.68,Default,,0,0,0,,My God, I understand!
+Dialogue: 0,1:41:55.81,1:41:56.81,Default,,0,0,0,,What's wrong?
+Dialogue: 0,1:41:59.03,1:42:00.40,Default,,0,0,0,,Let's go.
+Dialogue: 0,1:42:02.36,1:42:03.61,Default,,0,0,0,,It's his daughter.
+Dialogue: 0,1:42:04.07,1:42:05.57,Default,,0,0,0,,Tell him to come here.
+Dialogue: 0,1:42:08.99,1:42:10.33,Default,,0,0,0,,Call him.
+Dialogue: 0,1:42:30.39,1:42:32.72,Default,,0,0,0,,Fabrizio, you translate.
+Dialogue: 0,1:42:36.85,1:42:38.73,Default,,0,0,0,,I apologize if I offended you.
+Dialogue: 0,1:42:39.73,1:42:43.15,Default,,0,0,0,,I'm a stranger in this country.
+Dialogue: 0,1:42:43.24,1:42:46.32,Default,,0,0,0,,I meant no disrespect to you\Nor your daughter.
+Dialogue: 0,1:42:51.79,1:42:54.66,Default,,0,0,0,,I'm an American, hiding in Sicily.
+Dialogue: 0,1:42:56.08,1:42:58.42,Default,,0,0,0,,My name is Michael Corleone.
+Dialogue: 0,1:43:00.46,1:43:04.59,Default,,0,0,0,,There are people who'd pay\Na lot of money for that information.
+Dialogue: 0,1:43:06.76,1:43:09.80,Default,,0,0,0,,But then your daughter would lose a father
+Dialogue: 0,1:43:11.39,1:43:13.77,Default,,0,0,0,,instead of gaining a husband.
+Dialogue: 0,1:43:21.94,1:43:24.15,Default,,0,0,0,,I want to meet your daughter.
+Dialogue: 0,1:43:24.82,1:43:29.41,Default,,0,0,0,,With your permission,\Nand under the supervision of your family.
+Dialogue: 0,1:43:30.07,1:43:31.74,Default,,0,0,0,,With all respect.
+Dialogue: 0,1:43:37.79,1:43:41.79,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Come to my house Sunday morning.\NMy name is Vitelli.
+Dialogue: 0,1:43:47.30,1:43:48.80,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}What's her name?
+Dialogue: 0,1:44:46.08,1:44:49.20,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}...this is my daughter, Apollonia...
+Dialogue: 0,1:44:50.25,1:44:53.37,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}and this is Michael Corleone.
+Dialogue: 0,1:45:10.00,1:45:10.92,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Thank you.
+Dialogue: 0,1:45:12.60,1:45:13.75,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}You're welcome.
+Dialogue: 0,1:45:24.75,1:45:26.73,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}What's the problem with your eye?
+Dialogue: 0,1:45:26.82,1:45:28.17,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}No, no. It's nothing. It's fine.
+Dialogue: 0,1:46:44.14,1:46:46.31,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I'll knock you dizzy.
+Dialogue: 0,1:46:52.07,1:46:54.15,Default,,0,0,0,,Save it for the library.
+Dialogue: 0,1:46:57.82,1:47:00.49,Default,,0,0,0,,We've got to pick up my sister.
+Dialogue: 0,1:47:18.55,1:47:24.52,Default,,0,0,0,,What's the matter?
+Dialogue: 0,1:47:26.31,1:47:28.23,Default,,0,0,0,,- It was my fault!\N- Where is he?
+Dialogue: 0,1:47:28.31,1:47:31.48,Default,,0,0,0,,It was my fault. I hit him.
+Dialogue: 0,1:47:31.57,1:47:35.36,Default,,0,0,0,,I started a fight with him.\NI hit him, so he hit me...
+Dialogue: 0,1:47:40.57,1:47:43.87,Default,,0,0,0,,I'm just going to get a doctor\Nto take a look at you.
+Dialogue: 0,1:47:43.95,1:47:46.45,Default,,0,0,0,,Sonny, please don't do anything.
+Dialogue: 0,1:47:48.42,1:47:50.50,Default,,0,0,0,,What's the matter with you?\NWhat am I going to do?
+Dialogue: 0,1:47:50.58,1:47:53.46,Default,,0,0,0,,Make that baby an orphan before he's born?
+Dialogue: 0,1:47:58.01,1:48:01.22,Default,,0,0,0,,You spic slobs still betting Yankees?
+Dialogue: 0,1:48:01.30,1:48:03.97,Default,,0,0,0,,Tell them to stop taking in action.
+Dialogue: 0,1:48:04.81,1:48:06.52,Default,,0,0,0,,We lost enough money last week.
+Dialogue: 0,1:48:13.65,1:48:15.69,Default,,0,0,0,,Come here, come here!
+Dialogue: 0,1:49:12.63,1:49:15.96,Default,,0,0,0,,If you touch my sister again,\NI'll kill you.
+Dialogue: 0,1:53:09.19,1:53:13.45,Default,,0,0,0,,Hey! We weren't expecting you, Kay.\NYou should call.
+Dialogue: 0,1:53:13.53,1:53:17.87,Default,,0,0,0,,Yes, I have.\NI've tried writing and calling.
+Dialogue: 0,1:53:17.95,1:53:21.79,Default,,0,0,0,,- I want to reach Michael.\N- Nobody knows where he is.
+Dialogue: 0,1:53:21.87,1:53:24.42,Default,,0,0,0,,All we know is that he's all right.
+Dialogue: 0,1:53:26.96,1:53:30.59,Default,,0,0,0,,- What was that?\N- An accident, but nobody was hurt.
+Dialogue: 0,1:53:31.72,1:53:35.85,Default,,0,0,0,,Tom, will you give this letter to Michael.\NPlease?
+Dialogue: 0,1:53:37.39,1:53:42.56,Default,,0,0,0,,If I accepted that, a court could prove\NI have knowledge of his whereabouts.
+Dialogue: 0,1:53:43.56,1:53:45.44,Default,,0,0,0,,He'll get in touch with you.
+Dialogue: 0,1:53:45.56,1:53:49.23,Default,,0,0,0,,I let my cab go,\Nso can I call another one, please?
+Dialogue: 0,1:53:49.32,1:53:51.19,Default,,0,0,0,,Come on. Sorry.
+Dialogue: 0,1:54:08.42,1:54:13.09,Default,,0,0,0,,- Hello?\N{\i1\c&H00ff00&}- Is Carlo there?{\c}{\i0}
+Dialogue: 0,1:54:13.88,1:54:16.34,Default,,0,0,0,,- Who is this?\N{\i1\c&H00ff00&}- A friend of Carlo.{\c}{\i0}
+Dialogue: 0,1:54:16.43,1:54:19.81,Default,,0,0,0,,{\i1\c&H00ff00&}Tell him that I can't make it tonight\Nuntil later.{\c}{\i0}
+Dialogue: 0,1:54:25.56,1:54:26.81,Default,,0,0,0,,Bitch!
+Dialogue: 0,1:54:28.82,1:54:31.61,Default,,0,0,0,,- Dinner's on the table.\N- I'm not hungry.
+Dialogue: 0,1:54:31.69,1:54:35.03,Default,,0,0,0,,- The food is getting cold.\N- I'll eat out later.
+Dialogue: 0,1:54:35.11,1:54:38.69,Default,,0,0,0,,- You just told me to make you dinner!\N{\i1\c&H0080ff&\fnMicrosoft Sans Serif}- Vafangool!{\c}{\fn\i0}\N{\b1\c&Hc0c0c0&}[Go fuck yourself] {\c}{\b0}
+Dialogue: 0,1:54:38.70,1:54:40.83,Default,,0,0,0,,I'll {\i1\c&H0080ff&\fnMicrosoft Sans Serif}vafangool{\c}{\fn\i0} you!
+Dialogue: 0,1:54:45.67,1:54:48.46,Default,,0,0,0,,She has a filthy mouth, this "Guinea" brat.
+Dialogue: 0,1:54:52.80,1:54:57.13,Default,,0,0,0,,That's it, break it all,\Nyou spoiled "Guinea" brat. Break it all!
+Dialogue: 0,1:55:06.35,1:55:09.48,Default,,0,0,0,,Why don't you bring\Nyour whore home for dinner?
+Dialogue: 0,1:55:10.48,1:55:12.15,Default,,0,0,0,,Maybe I will.
+Dialogue: 0,1:55:18.91,1:55:22.08,Default,,0,0,0,,- Clean it up!\N- Like hell I will!
+Dialogue: 0,1:55:22.16,1:55:26.08,Default,,0,0,0,,You skinny, spoiled brat.\NClean it up! Clean it up!
+Dialogue: 0,1:55:26.16,1:55:30.67,Default,,0,0,0,,Clean it up! I said, clean it up!\NClean it up!
+Dialogue: 0,1:55:30.75,1:55:35.59,Default,,0,0,0,,Clean it up. Clean that up, you...
+Dialogue: 0,1:55:38.84,1:55:40.55,Default,,0,0,0,,Clean it!
+Dialogue: 0,1:55:40.64,1:55:44.89,Default,,0,0,0,,Clean it up! Yeah, kill me.\NBe a murderer, like your father!
+Dialogue: 0,1:55:44.98,1:55:48.44,Default,,0,0,0,,- All you Corleones are murderers!\N- I hate you!
+Dialogue: 0,1:55:48.52,1:55:50.23,Default,,0,0,0,,Come on, kill me!
+Dialogue: 0,1:55:51.77,1:55:53.44,Default,,0,0,0,,Get out of here!
+Dialogue: 0,1:55:53.53,1:55:56.94,Default,,0,0,0,,- I hate you!\N- Now I'll kill you.
+Dialogue: 0,1:55:57.03,1:55:59.70,Default,,0,0,0,,You Guinea brat. Get out of here!
+Dialogue: 0,1:56:10.17,1:56:13.13,Default,,0,0,0,,Connie, what's the matter?\NI can't hear you.
+Dialogue: 0,1:56:14.25,1:56:17.30,Default,,0,0,0,,Connie, talk louder. The baby's crying.
+Dialogue: 0,1:56:17.38,1:56:20.30,Default,,0,0,0,,Santino, I can't understand. I don't know.
+Dialogue: 0,1:56:21.60,1:56:23.39,Default,,0,0,0,,Yeah, Connie.
+Dialogue: 0,1:56:28.06,1:56:30.02,Default,,0,0,0,,You wait there.
+Dialogue: 0,1:56:32.65,1:56:35.19,Default,,0,0,0,,No, you just wait there.
+Dialogue: 0,1:56:37.36,1:56:39.61,Default,,0,0,0,,Son of a bitch.
+Dialogue: 0,1:56:39.70,1:56:42.91,Default,,0,0,0,,- Son of a bitch!\N- What's the matter?
+Dialogue: 0,1:56:47.08,1:56:50.16,Default,,0,0,0,,Open the goddamn gate! Get off your ass.
+Dialogue: 0,1:56:58.17,1:56:59.42,Default,,0,0,0,,Sonny!
+Dialogue: 0,1:57:05.89,1:57:07.89,Default,,0,0,0,,- Sonny.\N- Get out of here!
+Dialogue: 0,1:57:08.98,1:57:10.85,Default,,0,0,0,,Go after him, go on!
+Dialogue: 0,1:57:40.59,1:57:42.63,Default,,0,0,0,,Son of a bitch. Come on!
+Dialogue: 0,1:59:31.33,1:59:33.16,Default,,0,0,0,,Give me a drop.
+Dialogue: 0,1:59:41.59,1:59:43.88,Default,,0,0,0,,My wife is crying upstairs.
+Dialogue: 0,1:59:46.26,1:59:48.76,Default,,0,0,0,,I hear cars coming to the house.
+Dialogue: 0,1:59:53.43,1:59:56.35,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Consigliere{\c}{\fn\i0} of mine,
+Dialogue: 0,1:59:56.43,1:59:59.94,Default,,0,0,0,,tell your Don what everyone seems to know.
+Dialogue: 0,2:00:00.02,2:00:02.40,Default,,0,0,0,,I didn't tell Mama anything.
+Dialogue: 0,2:00:03.36,2:00:06.61,Default,,0,0,0,,I was about to come up and wake you\Nand tell you.
+Dialogue: 0,2:00:10.12,2:00:12.32,Default,,0,0,0,,But you needed a drink first.
+Dialogue: 0,2:00:14.66,2:00:15.91,Default,,0,0,0,,Yeah.
+Dialogue: 0,2:00:19.21,2:00:21.71,Default,,0,0,0,,Well, now you've had your drink.
+Dialogue: 0,2:00:27.26,2:00:31.14,Default,,0,0,0,,They shot Sonny on the causeway.\NHe's dead.
+Dialogue: 0,2:00:48.19,2:00:50.74,Default,,0,0,0,,I want no inquiries made.
+Dialogue: 0,2:00:55.20,2:00:57.75,Default,,0,0,0,,I want no acts of vengeance.
+Dialogue: 0,2:00:59.46,2:01:02.29,Default,,0,0,0,,I want you to arrange a meeting
+Dialogue: 0,2:01:03.29,2:01:05.92,Default,,0,0,0,,with the heads of the five families.
+Dialogue: 0,2:01:07.84,2:01:09.92,Default,,0,0,0,,This war stops now.
+Dialogue: 0,2:01:31.86,2:01:34.41,Default,,0,0,0,,Call Bonasera.
+Dialogue: 0,2:01:34.49,2:01:36.66,Default,,0,0,0,,I need him now.
+Dialogue: 0,2:01:49.05,2:01:50.38,Default,,0,0,0,,{\i1\c&H00ff00&}This is Tom Hagen.{\c}{\i0}
+Dialogue: 0,2:01:50.41,2:01:54.25,Default,,0,0,0,,{\i1\c&H00ff00&}I'm calling for Vito Corleone,\Nat his request.{\c}{\i0}
+Dialogue: 0,2:01:54.30,2:01:56.68,Default,,0,0,0,,{\i1\c&H00ff00&}You owe your Don a service.{\c}{\i0}
+Dialogue: 0,2:01:56.76,2:02:00.31,Default,,0,0,0,,{\i1\c&H00ff00&}He has no doubt that you will repay it.{\c}{\i0}
+Dialogue: 0,2:02:00.39,2:02:03.15,Default,,0,0,0,,{\i1\c&H00ff00&}He will be at your funeral parlor\Nin one hour.{\c}{\i0}
+Dialogue: 0,2:02:03.18,2:02:04.76,Default,,0,0,0,,{\i1\c&H00ff00&}Be there to greet him.{\c}{\i0}
+Dialogue: 0,2:02:25.92,2:02:30.71,Default,,0,0,0,,Well, my friend,\Nare you ready to do me this service?
+Dialogue: 0,2:02:30.80,2:02:33.88,Default,,0,0,0,,Yes. What do you want me to do?
+Dialogue: 0,2:02:42.27,2:02:46.73,Default,,0,0,0,,I want you to use all your powers\Nand all your skills.
+Dialogue: 0,2:02:50.90,2:02:53.82,Default,,0,0,0,,I don't want his mother\Nto see him this way.
+Dialogue: 0,2:03:09.84,2:03:12.96,Default,,0,0,0,,Look how they massacred my boy.
+Dialogue: 0,2:03:41.99,2:03:45.25,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}It's safer to teach you English!
+Dialogue: 0,2:03:46.00,2:03:47.41,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I know English...
+Dialogue: 0,2:03:47.50,2:03:52.29,Default,,0,0,0,,Monday, Tuesday, Thursday, Wednesday,\NFriday, Sunday, Saturday.
+Dialogue: 0,2:03:59.51,2:04:01.30,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Greetings, Don Tommasino.
+Dialogue: 0,2:04:02.01,2:04:04.01,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}How are things in Palermo?
+Dialogue: 0,2:04:10.02,2:04:14.07,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Michael is teaching me to drive...\NWatch, I'll show you.
+Dialogue: 0,2:04:16.86,2:04:18.70,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}How are things in Palermo?
+Dialogue: 0,2:04:19.07,2:04:22.20,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Young people don't respect\Nanything anymore...
+Dialogue: 0,2:04:23.28,2:04:26.66,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Times are changing for the worse.
+Dialogue: 0,2:04:28.92,2:04:32.33,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}This place has become\Ntoo dangerous for you.
+Dialogue: 0,2:04:35.05,2:04:40.22,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}I want you to move\Nto a villa near Siracusa... Right now.
+Dialogue: 0,2:04:46.22,2:04:47.39,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}What's wrong?
+Dialogue: 0,2:04:48.52,2:04:50.73,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Bad news from America.
+Dialogue: 0,2:04:53.19,2:04:56.90,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Your brother, Santino, they killed him.
+Dialogue: 0,2:05:01.62,2:05:03.29,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Come on. Let's go.
+Dialogue: 0,2:05:03.49,2:05:05.33,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Let's go... you promised.
+Dialogue: 0,2:05:24.14,2:05:25.14,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Fabrizio!
+Dialogue: 0,2:05:25.22,2:05:26.64,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Get the car.
+Dialogue: 0,2:05:28.02,2:05:32.19,Default,,0,0,0,,Are you driving yourself, Boss?\NIs your wife coming with you?
+Dialogue: 0,2:05:32.27,2:05:35.86,Default,,0,0,0,,No, take her to her father's house\Nuntil things are safe.
+Dialogue: 0,2:05:35.94,2:05:37.86,Default,,0,0,0,,Okay, anything you say.
+Dialogue: 0,2:05:43.78,2:05:45.53,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Calo, where is Apollonia?
+Dialogue: 0,2:05:46.28,2:05:49.79,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}She's going to surprise you.\NShe wants to drive.
+Dialogue: 0,2:05:52.08,2:05:54.12,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}She'll make a good American wife.
+Dialogue: 0,2:05:55.59,2:05:58.13,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Wait, I'll get the baggage.
+Dialogue: 0,2:06:08.39,2:06:10.56,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Fabrizio!
+Dialogue: 0,2:06:10.64,2:06:12.31,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Where are you going?
+Dialogue: 0,2:06:14.02,2:06:16.44,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}Wait there! I'll drive to you.
+Dialogue: 0,2:06:22.57,2:06:23.99,Default,,0,0,0,,{\i1\c&H0080ff&\fnMicrosoft Sans Serif}No, Apollonia!
+Dialogue: 0,2:06:47.05,2:06:52.89,Default,,0,0,0,,Don Barzini, I want to thank you\Nfor helping me organize this meeting,
+Dialogue: 0,2:06:53.02,2:06:57.85,Default,,0,0,0,,and the other heads of the five families\Nfrom New York and New Jersey.
+Dialogue: 0,2:06:59.61,2:07:02.73,Default,,0,0,0,,Carmine Cuneo from the Bronx,
+Dialogue: 0,2:07:02.82,2:07:06.15,Default,,0,0,0,,and from Brooklyn
+Dialogue: 0,2:07:07.78,2:07:09.87,Default,,0,0,0,,Philip Tattaglia.
+Dialogue: 0,2:07:11.66,2:07:14.37,Default,,0,0,0,,And from Staten Island
+Dialogue: 0,2:07:14.46,2:07:17.96,Default,,0,0,0,,we have with us Victor Strachi.
+Dialogue: 0,2:07:18.04,2:07:23.67,Default,,0,0,0,,And the other associates that came\Nas far as from California and Kansas City
+Dialogue: 0,2:07:23.76,2:07:26.57,Default,,0,0,0,,and all the other\Nterritories of the country.
+Dialogue: 0,2:07:26.61,2:07:27.54,Default,,0,0,0,,Thank you.
+Dialogue: 0,2:07:34.35,2:07:37.81,Default,,0,0,0,,How did things ever get so far?
+Dialogue: 0,2:07:37.90,2:07:39.52,Default,,0,0,0,,I don't know.
+Dialogue: 0,2:07:41.57,2:07:45.07,Default,,0,0,0,,It was so unfortunate, so unnecessary.
+Dialogue: 0,2:07:48.20,2:07:51.62,Default,,0,0,0,,Tattaglia lost a son, and I lost a son.
+Dialogue: 0,2:07:54.08,2:07:57.50,Default,,0,0,0,,We're quits. And if Tattaglia agrees,
+Dialogue: 0,2:07:57.58,2:08:01.59,Default,,0,0,0,,then I'm willing to let things go on\Nas before.
+Dialogue: 0,2:08:03.05,2:08:06.67,Default,,0,0,0,,We're grateful to Don Corleone\Nfor calling this meeting.
+Dialogue: 0,2:08:06.76,2:08:12.14,Default,,0,0,0,,We all know him as a man of his word.\NA modest man who listens to reason.
+Dialogue: 0,2:08:12.22,2:08:16.31,Default,,0,0,0,,Yes, Don Barzini. He's too modest.
+Dialogue: 0,2:08:16.39,2:08:20.60,Default,,0,0,0,,He had all the judges and politicians\Nin his pocket.
+Dialogue: 0,2:08:20.69,2:08:23.57,Default,,0,0,0,,He refused to share them.
+Dialogue: 0,2:08:23.65,2:08:27.44,Default,,0,0,0,,When did I ever refuse an accommodation?
+Dialogue: 0,2:08:27.53,2:08:29.91,Default,,0,0,0,,All of you know me.
+Dialogue: 0,2:08:30.82,2:08:35.99,Default,,0,0,0,,When did I ever refuse,\Nexcept one time? And why?
+Dialogue: 0,2:08:37.66,2:08:43.50,Default,,0,0,0,,Because I believe this drug business\Nwill destroy us in the years to come.
+Dialogue: 0,2:08:43.59,2:08:47.84,Default,,0,0,0,,It's not like gambling or liquor\Nor even women,
+Dialogue: 0,2:08:47.92,2:08:53.89,Default,,0,0,0,,which is something that most people want,\Nbut is forbidden by the Church.
+Dialogue: 0,2:08:54.01,2:08:58.73,Default,,0,0,0,,Even the police that have helped us\Nin the past with gambling and other things
+Dialogue: 0,2:08:58.81,2:09:03.02,Default,,0,0,0,,are going to refuse to help us\Nwhen it comes to narcotics.
+Dialogue: 0,2:09:03.11,2:09:08.24,Default,,0,0,0,,I believed that then\Nand I believe that now.
+Dialogue: 0,2:09:08.32,2:09:10.53,Default,,0,0,0,,Times have changed.
+Dialogue: 0,2:09:10.66,2:09:15.37,Default,,0,0,0,,It's not like the old days,\Nwhen we could do anything we wanted.
+Dialogue: 0,2:09:15.45,2:09:18.33,Default,,0,0,0,,A refusal is not the act of a friend.
+Dialogue: 0,2:09:18.41,2:09:21.94,Default,,0,0,0,,If Don Corleone had all\Nthe judges and politicians,
+Dialogue: 0,2:09:21.97,2:09:23.87,Default,,0,0,0,,then he must share them
+Dialogue: 0,2:09:23.92,2:09:25.36,Default,,0,0,0,,or let others use them.
+Dialogue: 0,2:09:25.40,2:09:28.54,Default,,0,0,0,,He must let us draw the water\Nfrom the well.
+Dialogue: 0,2:09:29.59,2:09:33.18,Default,,0,0,0,,Certainly he can present a bill\Nfor such services.
+Dialogue: 0,2:09:33.26,2:09:35.85,Default,,0,0,0,,After all, we're not communists.
+Dialogue: 0,2:09:38.98,2:09:42.06,Default,,0,0,0,,I also don't believe in drugs.
+Dialogue: 0,2:09:42.19,2:09:47.02,Default,,0,0,0,,For years I paid my people extra,\Nso they wouldn't do that kind of business.
+Dialogue: 0,2:09:47.11,2:09:50.24,Default,,0,0,0,,Somebody says to them "I have powders."
+Dialogue: 0,2:09:50.32,2:09:53.57,Default,,0,0,0,,"If you put up 3-4,000 dollar investment,
+Dialogue: 0,2:09:53.87,2:09:56.66,Default,,0,0,0,,we can make 50,000 distributing."
+Dialogue: 0,2:09:57.87,2:09:59.35,Default,,0,0,0,,They can't resist.
+Dialogue: 0,2:09:59.38,2:10:03.82,Default,,0,0,0,,I want to control it as a business,\Nkeep it respectable.
+Dialogue: 0,2:10:03.88,2:10:08.67,Default,,0,0,0,,I don't want it near schools,\NI don't want it sold to children.
+Dialogue: 0,2:10:08.75,2:10:10.55,Default,,0,0,0,,That's an {\i1\c&H0080ff&\fnMicrosoft Sans Serif}infàmia{\c}{\fn\i0}.\N{\b1\c&Hc0c0c0&}[Infamy]{\c}{\b0}
+Dialogue: 0,2:10:11.88,2:10:15.80,Default,,0,0,0,,In my city we would keep the traffic\Nto the colored.
+Dialogue: 0,2:10:15.89,2:10:19.10,Default,,0,0,0,,They're animals,\Nso let them lose their souls.
+Dialogue: 0,2:10:25.73,2:10:29.32,Default,,0,0,0,,I hoped that we could come here\Nand reason together.
+Dialogue: 0,2:10:30.74,2:10:37.37,Default,,0,0,0,,And I'm willing to do whatever is necessary\Nto find a peaceful solution.
+Dialogue: 0,2:10:37.91,2:10:39.06,Default,,0,0,0,,We are agreed.
+Dialogue: 0,2:10:39.09,2:10:42.53,Default,,0,0,0,,The traffic in drugs will be permitted,\Nbut controlled.
+Dialogue: 0,2:10:42.58,2:10:45.30,Default,,0,0,0,,Don Corleone will give us\Nprotection in the east,
+Dialogue: 0,2:10:45.33,2:10:46.91,Default,,0,0,0,,and there will be peace.
+Dialogue: 0,2:10:46.96,2:10:50.71,Default,,0,0,0,,I must have strict assurance from Corleone.
+Dialogue: 0,2:10:50.80,2:10:54.09,Default,,0,0,0,,As time goes by\Nand his position becomes stronger,
+Dialogue: 0,2:10:54.18,2:10:56.84,Default,,0,0,0,,will he attempt any individual vendetta?
+Dialogue: 0,2:10:56.93,2:11:02.06,Default,,0,0,0,,We are all reasonable men.\NWe don't have to give assurances.
+Dialogue: 0,2:11:02.14,2:11:05.02,Default,,0,0,0,,You talk about vengeance.
+Dialogue: 0,2:11:05.10,2:11:08.36,Default,,0,0,0,,Will vengeance bring your son back to you?
+Dialogue: 0,2:11:08.44,2:11:10.98,Default,,0,0,0,,Or my boy to me?
+Dialogue: 0,2:11:11.07,2:11:13.86,Default,,0,0,0,,I forgo the vengeance of my son.
+Dialogue: 0,2:11:16.66,2:11:18.95,Default,,0,0,0,,But I have selfish reasons.
+Dialogue: 0,2:11:21.24,2:11:24.83,Default,,0,0,0,,My youngest son was forced\Nto leave this country
+Dialogue: 0,2:11:26.71,2:11:29.25,Default,,0,0,0,,because of this Sollozzo business.
+Dialogue: 0,2:11:30.80,2:11:34.71,Default,,0,0,0,,And I have to make arrangements\Nto bring him back here safely.
+Dialogue: 0,2:11:34.80,2:11:37.47,Default,,0,0,0,,Cleared of all these false charges.
+Dialogue: 0,2:11:38.89,2:11:42.01,Default,,0,0,0,,But I'm a superstitious man.
+Dialogue: 0,2:11:42.14,2:11:47.44,Default,,0,0,0,,If an unlucky accident should befall him,\Nif he should be shot by a police officer,
+Dialogue: 0,2:11:48.81,2:11:52.40,Default,,0,0,0,,or if he should hang himself\Nin his jail cell,
+Dialogue: 0,2:11:52.48,2:11:55.36,Default,,0,0,0,,or if he's struck by a bolt of lightning,
+Dialogue: 0,2:11:56.65,2:12:00.24,Default,,0,0,0,,then I'm going to blame\Nsome of the people in this room.
+Dialogue: 0,2:12:01.91,2:12:04.24,Default,,0,0,0,,And that I do not forgive.
+Dialogue: 0,2:12:06.71,2:12:09.08,Default,,0,0,0,,But, that aside
+Dialogue: 0,2:12:12.17,2:12:14.50,Default,,0,0,0,,let me say that I swear
+Dialogue: 0,2:12:16.13,2:12:19.26,Default,,0,0,0,,on the souls of my grandchildren,
+Dialogue: 0,2:12:19.34,2:12:23.72,Default,,0,0,0,,that I will not be the one to break\Nthe peace we've made here today.
+Dialogue: 0,2:12:49.21,2:12:53.01,Default,,0,0,0,,Should I insist that all of\NTattaglia's drug middlemen
+Dialogue: 0,2:12:53.04,2:12:54.70,Default,,0,0,0,,have clean records?
+Dialogue: 0,2:12:54.75,2:12:56.88,Default,,0,0,0,,Mention it. Don't insist.
+Dialogue: 0,2:12:58.88,2:13:03.80,Default,,0,0,0,,- Barzini will know without being told.\N- You mean Tattaglia.
+Dialogue: 0,2:13:05.43,2:13:07.39,Default,,0,0,0,,Tattaglia's a pimp.
+Dialogue: 0,2:13:08.48,2:13:11.60,Default,,0,0,0,,He could never have outfought Santino.
+Dialogue: 0,2:13:13.98,2:13:19.57,Default,,0,0,0,,But I didn't know until this day\Nthat it was Barzini all along.
+Dialogue: 0,2:13:35.04,2:13:37.13,Default,,0,0,0,,Come on, Nancy.
+Dialogue: 0,2:13:38.34,2:13:40.92,Default,,0,0,0,,Keep together, everyone. Brian.
+Dialogue: 0,2:13:42.26,2:13:43.93,Default,,0,0,0,,Okay, all right.
+Dialogue: 0,2:13:57.02,2:13:59.23,Default,,0,0,0,,How long have you been back?
+Dialogue: 0,2:14:00.03,2:14:01.86,Default,,0,0,0,,I've been back a year.
+Dialogue: 0,2:14:03.28,2:14:05.41,Default,,0,0,0,,Longer than that, I think.
+Dialogue: 0,2:14:08.24,2:14:10.41,Default,,0,0,0,,It's good to see you, Kay.
+Dialogue: 0,2:14:21.47,2:14:24.01,Default,,0,0,0,,I'm working for my father now, Kay.
+Dialogue: 0,2:14:26.51,2:14:29.51,Default,,0,0,0,,He's been sick. Very sick.
+Dialogue: 0,2:14:31.06,2:14:33.02,Default,,0,0,0,,But you're not like him.
+Dialogue: 0,2:14:33.10,2:14:36.90,Default,,0,0,0,,You told me you weren't going\Nto become like your father.
+Dialogue: 0,2:14:38.82,2:14:43.11,Default,,0,0,0,,My father is no different\Nthan any other powerful man.
+Dialogue: 0,2:14:43.20,2:14:46.66,Default,,0,0,0,,Any man who's responsible\Nfor other people.
+Dialogue: 0,2:14:47.87,2:14:50.29,Default,,0,0,0,,Like a senator or president.
+Dialogue: 0,2:14:50.37,2:14:52.83,Default,,0,0,0,,- How naive you sound.\N- Why?
+Dialogue: 0,2:14:52.91,2:14:55.75,Default,,0,0,0,,They don't have men killed.
+Dialogue: 0,2:14:59.17,2:15:01.17,Default,,0,0,0,,Who's being naive, Kay?
+Dialogue: 0,2:15:02.42,2:15:06.68,Default,,0,0,0,,My father's way of doing things is over.\NEven he knows that.
+Dialogue: 0,2:15:08.22,2:15:12.60,Default,,0,0,0,,In five years the Corleone family\Nis going to be completely legitimate.
+Dialogue: 0,2:15:14.44,2:15:17.31,Default,,0,0,0,,Trust me. That's all I can tell you\Nabout my business.
+Dialogue: 0,2:15:17.34,2:15:18.43,Default,,0,0,0,,Kay...
+Dialogue: 0,2:15:19.86,2:15:22.98,Default,,0,0,0,,Michael, why did you come here? Why?
+Dialogue: 0,2:15:24.28,2:15:27.03,Default,,0,0,0,,What do you want with me\Nafter all this time?
+Dialogue: 0,2:15:27.06,2:15:29.15,Default,,0,0,0,,I've been calling and writing.
+Dialogue: 0,2:15:29.20,2:15:32.70,Default,,0,0,0,,I came because I need you. I care for you.
+Dialogue: 0,2:15:32.79,2:15:36.62,Default,,0,0,0,,- Please stop it, Michael.\N- Because... I want you to marry me.
+Dialogue: 0,2:15:38.33,2:15:40.92,Default,,0,0,0,,- It's too late.\N- Please, Kay...
+Dialogue: 0,2:15:42.67,2:15:46.55,Default,,0,0,0,,I'll do anything you ask\Nto make up for what's happened to us.
+Dialogue: 0,2:15:48.22,2:15:52.47,Default,,0,0,0,,Because that's important, Kay.\NBecause what's important is that
+Dialogue: 0,2:15:54.02,2:15:57.27,Default,,0,0,0,,we have each other.\NThat we have a life together.
+Dialogue: 0,2:15:58.85,2:16:01.56,Default,,0,0,0,,That we have children. Our children.
+Dialogue: 0,2:16:03.07,2:16:05.24,Default,,0,0,0,,Kay, I need you.
+Dialogue: 0,2:16:07.20,2:16:08.78,Default,,0,0,0,,And I love you.
+Dialogue: 0,2:16:30.93,2:16:34.68,Default,,0,0,0,,Barzini's people chisel my territory\Nand we do nothing about it!
+Dialogue: 0,2:16:34.81,2:16:38.43,Default,,0,0,0,,- Soon I'll have no place to hang my hat!\N- Be patient.
+Dialogue: 0,2:16:38.52,2:16:41.65,Default,,0,0,0,,I'm not asking for help.\NJust take off the handcuffs.
+Dialogue: 0,2:16:41.73,2:16:44.86,Default,,0,0,0,,- Be patient.\N- We must protect ourselves.
+Dialogue: 0,2:16:44.94,2:16:48.40,Default,,0,0,0,,- Let me recruit some new men.\N- No.
+Dialogue: 0,2:16:48.49,2:16:52.37,Default,,0,0,0,,- Barzini would get an excuse to fight.\N- Mike, you're wrong.
+Dialogue: 0,2:16:53.87,2:16:56.04,Default,,0,0,0,,Don Corleone...
+Dialogue: 0,2:16:56.12,2:17:00.25,Default,,0,0,0,,You once said that one day Tessio\Nand me could form our own family.
+Dialogue: 0,2:17:00.33,2:17:04.38,Default,,0,0,0,,Till today I would never think of it.\NI must ask your permission.
+Dialogue: 0,2:17:05.38,2:17:08.05,Default,,0,0,0,,Michael is now head of the family.
+Dialogue: 0,2:17:08.13,2:17:12.43,Default,,0,0,0,,If he gives his permission,\Nthen you have my blessing.
+Dialogue: 0,2:17:12.51,2:17:14.89,Default,,0,0,0,,After we make the move to Nevada
+Dialogue: 0,2:17:14.97,2:17:19.39,Default,,0,0,0,,you can leave the Corleone family\Nand go on your own.
+Dialogue: 0,2:17:19.48,2:17:23.81,Default,,0,0,0,,- How long will that be?\N- Six months.
+Dialogue: 0,2:17:23.90,2:17:27.15,Default,,0,0,0,,Forgive me, but with you gone,
+Dialogue: 0,2:17:27.23,2:17:30.07,Default,,0,0,0,,me and Pete will come\Nunder Barzini's thumb.
+Dialogue: 0,2:17:30.15,2:17:31.57,Default,,0,0,0,,I hate that Barzini.
+Dialogue: 0,2:17:31.61,2:17:35.86,Default,,0,0,0,,In six months' time there will be\Nnothing left to build on.
+Dialogue: 0,2:17:35.91,2:17:38.83,Default,,0,0,0,,- Do you have faith in my judgment?\N- Yes.
+Dialogue: 0,2:17:38.91,2:17:41.83,Default,,0,0,0,,- Do I have your loyalty?\N- Always, Godfather.
+Dialogue: 0,2:17:41.92,2:17:45.17,Default,,0,0,0,,Then be a friend to Michael.\NDo as he says.
+Dialogue: 0,2:17:50.09,2:17:53.39,Default,,0,0,0,,Things are negotiated\Nthat'll solve your problems
+Dialogue: 0,2:17:53.42,2:17:55.46,Default,,0,0,0,,and answer your questions.
+Dialogue: 0,2:17:55.51,2:17:57.85,Default,,0,0,0,,That's all I can tell you now.
+Dialogue: 0,2:17:58.68,2:18:01.27,Default,,0,0,0,,Carlo, you grew up in Nevada.
+Dialogue: 0,2:18:01.35,2:18:04.73,Default,,0,0,0,,When we make our move there,\Nyou'll be my right-hand man.
+Dialogue: 0,2:18:04.81,2:18:09.61,Default,,0,0,0,,Tom Hagen is no longer {\i1\c&H0080ff&\fnMicrosoft Sans Serif}consigliere{\c}{\fn\i0}.\NHe'll be our lawyer in Vegas.
+Dialogue: 0,2:18:09.69,2:18:12.24,Default,,0,0,0,,That's no reflection on Tom,\Njust how I want it.
+Dialogue: 0,2:18:12.32,2:18:13.51,Default,,0,0,0,,If I ever need help,
+Dialogue: 0,2:18:13.55,2:18:17.07,Default,,0,0,0,,who's a better {\i1\c&H0080ff&\fnMicrosoft Sans Serif}consigliere{\c}{\fn\i0} than my father?\NThat's it.
+Dialogue: 0,2:18:37.05,2:18:40.89,Default,,0,0,0,,- Thank you, Papa.\N- I'm happy for you, Carlo.
+Dialogue: 0,2:18:40.98,2:18:43.89,Default,,0,0,0,,Mike... Why am I out?
+Dialogue: 0,2:18:45.40,2:18:48.11,Default,,0,0,0,,You're not a wartime {\i1\c&H0080ff&\fnMicrosoft Sans Serif}consigliere{\c}{\fn\i0}, Tom.
+Dialogue: 0,2:18:49.40,2:18:52.65,Default,,0,0,0,,Things may get rough with the move.
+Dialogue: 0,2:18:52.74,2:18:54.03,Default,,0,0,0,,Tom.
+Dialogue: 0,2:18:59.20,2:19:00.59,Default,,0,0,0,,I advised Michael.
+Dialogue: 0,2:19:00.62,2:19:04.41,Default,,0,0,0,,I never thought you were a bad {\i1\c&H0080ff&\fnMicrosoft Sans Serif}consigliere{\c}{\fn\i0}.
+Dialogue: 0,2:19:04.46,2:19:08.58,Default,,0,0,0,,I thought Santino was a bad Don,\Nrest in peace.
+Dialogue: 0,2:19:10.05,2:19:13.26,Default,,0,0,0,,Michael has all my confidence,\Njust as you do.
+Dialogue: 0,2:19:14.26,2:19:17.24,Default,,0,0,0,,But there are reasons\Nwhy you must have no part
+Dialogue: 0,2:19:17.27,2:19:19.25,Default,,0,0,0,,in what is going to happen.
+Dialogue: 0,2:19:20.26,2:19:23.31,Default,,0,0,0,,- Maybe I could help.\N- You're out, Tom.
+Dialogue: 0,2:20:12.48,2:20:16.78,Default,,0,0,0,,I can't get over the way your face looks.\NSo good!
+Dialogue: 0,2:20:16.90,2:20:20.26,Default,,0,0,0,,This doctor did some job.\NDid Kay talk you into it?
+Dialogue: 0,2:20:20.30,2:20:21.52,Default,,0,0,0,,Hey, hey, hey!
+Dialogue: 0,2:20:21.58,2:20:25.70,Default,,0,0,0,,Leave them out here.\NHe's tired and wants to clean up.
+Dialogue: 0,2:20:25.79,2:20:28.16,Default,,0,0,0,,Let me open the door, all right?
+Dialogue: 0,2:20:34.34,2:20:39.76,Default,,0,0,0,,- Hello, Mike! Welcome to Las Vegas!\N- All for you, kid! It's all his idea.
+Dialogue: 0,2:20:39.84,2:20:42.47,Default,,0,0,0,,- Your brother Freddy.\N- Girls?
+Dialogue: 0,2:20:46.39,2:20:49.48,Default,,0,0,0,,I'll be right back. Keep them occupied.
+Dialogue: 0,2:20:50.69,2:20:54.19,Default,,0,0,0,,- Anything you want, kid, anything.\N- Who are the girls?
+Dialogue: 0,2:20:55.61,2:20:59.03,Default,,0,0,0,,- That's for you to find out.\N- Get rid of them, Fredo.
+Dialogue: 0,2:21:00.57,2:21:05.24,Default,,0,0,0,,- Hey, Mike...\N- I'm here on business. Get rid of them.
+Dialogue: 0,2:21:05.33,2:21:08.00,Default,,0,0,0,,I'm tired. Get rid of the band too.
+Dialogue: 0,2:21:13.88,2:21:17.17,Default,,0,0,0,,Hey, take off. Take off. Let's go.
+Dialogue: 0,2:21:17.26,2:21:19.38,Default,,0,0,0,,Hey, that's it. Hey, Angelo.
+Dialogue: 0,2:21:21.09,2:21:23.22,Default,,0,0,0,,Hey, come on! Scram!
+Dialogue: 0,2:21:24.89,2:21:25.77,Default,,0,0,0,,Come on, honey.
+Dialogue: 0,2:21:25.81,2:21:28.47,Default,,0,0,0,,I don't know what's the matter with him,\NJohnny.
+Dialogue: 0,2:21:28.52,2:21:29.81,Default,,0,0,0,,Sorry.
+Dialogue: 0,2:21:31.77,2:21:34.31,Default,,0,0,0,,I don't know. He's tired.
+Dialogue: 0,2:21:41.32,2:21:44.41,Default,,0,0,0,,What happened to Moe Greene?
+Dialogue: 0,2:21:44.49,2:21:45.67,Default,,0,0,0,,He had some business.
+Dialogue: 0,2:21:45.71,2:21:48.86,Default,,0,0,0,,He said to give him a call\Nwhen the party started.
+Dialogue: 0,2:21:48.91,2:21:50.87,Default,,0,0,0,,Well, give him a call.
+Dialogue: 0,2:21:52.25,2:21:55.38,Default,,0,0,0,,- Johnny, how are you?\N- Nice to see you, Mike.
+Dialogue: 0,2:21:55.46,2:21:57.67,Default,,0,0,0,,- We're proud of you.\N- Thanks.
+Dialogue: 0,2:21:57.75,2:22:01.34,Default,,0,0,0,,Sit down, I want to talk to you.\NThe Don is proud too.
+Dialogue: 0,2:22:01.43,2:22:03.68,Default,,0,0,0,,Well, I owe it all to him.
+Dialogue: 0,2:22:04.89,2:22:06.47,Default,,0,0,0,,He knows how grateful you are.
+Dialogue: 0,2:22:06.56,2:22:09.81,Default,,0,0,0,,That's why he'd like to ask a favor of you.
+Dialogue: 0,2:22:09.89,2:22:11.81,Default,,0,0,0,,Mike, what can I do?
+Dialogue: 0,2:22:12.98,2:22:15.44,Default,,0,0,0,,We're thinking of giving up our interests
+Dialogue: 0,2:22:15.52,2:22:18.44,Default,,0,0,0,,in the olive oil business\Nand settling here.
+Dialogue: 0,2:22:19.28,2:22:24.61,Default,,0,0,0,,Moe will sell us his share of the casino\Nand the hotel, so we'll own all of it.
+Dialogue: 0,2:22:24.70,2:22:27.45,Default,,0,0,0,,- Tom!\N- Are you sure?
+Dialogue: 0,2:22:27.53,2:22:30.54,Default,,0,0,0,,Moe loves the business.\NHe never said nothing about selling.
+Dialogue: 0,2:22:30.62,2:22:33.33,Default,,0,0,0,,I'll make him an offer he can't refuse.
+Dialogue: 0,2:22:34.63,2:22:37.04,Default,,0,0,0,,See, Johnny...
+Dialogue: 0,2:22:37.13,2:22:41.34,Default,,0,0,0,,We figure that entertainment\Nwould draw gamblers to the casino.
+Dialogue: 0,2:22:41.42,2:22:45.18,Default,,0,0,0,,We hope you'll sign a contract\Nto appear five times a year.
+Dialogue: 0,2:22:48.10,2:22:52.73,Default,,0,0,0,,Perhaps convince some of your friends\Nin the movies to do the same.
+Dialogue: 0,2:22:53.98,2:22:56.10,Default,,0,0,0,,We're counting on you.
+Dialogue: 0,2:22:58.11,2:23:01.78,Default,,0,0,0,,Sure, Mike.\NI'll do anything for my godfather.
+Dialogue: 0,2:23:01.86,2:23:03.15,Default,,0,0,0,,Good.
+Dialogue: 0,2:23:04.78,2:23:09.41,Default,,0,0,0,,Hey, Mike! Hello, fellows.\NEverybody's here. Freddy, Tom.
+Dialogue: 0,2:23:09.49,2:23:12.04,Default,,0,0,0,,- Good to see you.\N- How are you, Moe?
+Dialogue: 0,2:23:12.16,2:23:13.43,Default,,0,0,0,,Have everything?
+Dialogue: 0,2:23:13.47,2:23:17.28,Default,,0,0,0,,Specially prepared food, the best dancers,\Nand good credit.
+Dialogue: 0,2:23:17.33,2:23:20.92,Default,,0,0,0,,Draw chips for everybody,\Nso they can play on the house.
+Dialogue: 0,2:23:23.59,2:23:26.34,Default,,0,0,0,,Is my credit good enough to buy you out?
+Dialogue: 0,2:23:28.10,2:23:29.93,Default,,0,0,0,,Buy me out?
+Dialogue: 0,2:23:30.01,2:23:32.60,Default,,0,0,0,,The casino, the hotel.
+Dialogue: 0,2:23:32.68,2:23:35.60,Default,,0,0,0,,The Corleone family wants to buy you out.
+Dialogue: 0,2:23:35.69,2:23:41.11,Default,,0,0,0,,The Corleone family wants to buy me out?\NNo, I buy you out.
+Dialogue: 0,2:23:41.19,2:23:44.61,Default,,0,0,0,,Your casino loses money. We can do better.
+Dialogue: 0,2:23:44.70,2:23:48.57,Default,,0,0,0,,- You think I'm skimming off the top?\N- You're unlucky.
+Dialogue: 0,2:23:53.37,2:23:55.79,Default,,0,0,0,,You Guineas make me laugh.
+Dialogue: 0,2:23:55.91,2:24:00.50,Default,,0,0,0,,I took Freddy in when you had a bad time,\Nand now you try to push me out!
+Dialogue: 0,2:24:01.88,2:24:05.30,Default,,0,0,0,,You did that because we bankrolled\Nyour casino
+Dialogue: 0,2:24:05.38,2:24:08.81,Default,,0,0,0,,and the Molinari family\Nguaranteed his safety.
+Dialogue: 0,2:24:08.85,2:24:10.67,Default,,0,0,0,,Let's talk business.
+Dialogue: 0,2:24:10.72,2:24:13.47,Default,,0,0,0,,Yes. First of all, you're all done.
+Dialogue: 0,2:24:13.56,2:24:16.02,Default,,0,0,0,,You don't have that kind of muscle anymore.
+Dialogue: 0,2:24:16.14,2:24:17.35,Default,,0,0,0,,The Godfather is sick.
+Dialogue: 0,2:24:17.38,2:24:20.55,Default,,0,0,0,,You're getting chased out\Nof New York by the others.
+Dialogue: 0,2:24:20.61,2:24:24.53,Default,,0,0,0,,Do you think you can come to my hotel\Nand take over?
+Dialogue: 0,2:24:24.61,2:24:29.66,Default,,0,0,0,,I talked to Barzini. I can make a deal\Nwith him and still keep my hotel!
+Dialogue: 0,2:24:29.74,2:24:33.24,Default,,0,0,0,,Is that why you slapped my brother\Naround in public?
+Dialogue: 0,2:24:33.33,2:24:38.16,Default,,0,0,0,,That was nothing, Mike.\NMoe didn't mean nothing by that.
+Dialogue: 0,2:24:38.25,2:24:42.46,Default,,0,0,0,,He flies off the handle sometimes,\Nbut we're good friends.
+Dialogue: 0,2:24:42.54,2:24:47.30,Default,,0,0,0,,I have a business to run.\NI've got to kick asses sometimes.
+Dialogue: 0,2:24:47.38,2:24:51.26,Default,,0,0,0,,We had an argument,\Nso I had to straighten him out.
+Dialogue: 0,2:24:51.35,2:24:54.18,Default,,0,0,0,,You straightened my brother out?
+Dialogue: 0,2:24:54.26,2:24:58.73,Default,,0,0,0,,He was banging cocktail waitresses!\NPlayers couldn't get a drink.
+Dialogue: 0,2:24:58.81,2:25:00.77,Default,,0,0,0,,What's wrong with you?
+Dialogue: 0,2:25:05.65,2:25:08.78,Default,,0,0,0,,I leave for New York tomorrow.\NThink about a price.
+Dialogue: 0,2:25:09.70,2:25:11.32,Default,,0,0,0,,Son of a bitch!
+Dialogue: 0,2:25:11.41,2:25:12.70,Default,,0,0,0,,I'm Moe Greene!
+Dialogue: 0,2:25:12.73,2:25:16.61,Default,,0,0,0,,I made my bones\Nwhen you were out with cheerleaders.
+Dialogue: 0,2:25:16.66,2:25:19.16,Default,,0,0,0,,Wait a minute, Moe. I have an idea.
+Dialogue: 0,2:25:20.29,2:25:23.83,Default,,0,0,0,,Tom, you're the {\i1\c&H0080ff&\fnMicrosoft Sans Serif}consigliere{\c}{\fn\i0}.\NTalk to the Don...
+Dialogue: 0,2:25:23.96,2:25:25.31,Default,,0,0,0,,Just a minute.
+Dialogue: 0,2:25:25.34,2:25:29.37,Default,,0,0,0,,Don is semi-retired and Mike is in charge\Nof the family business.
+Dialogue: 0,2:25:29.42,2:25:32.76,Default,,0,0,0,,If you have anything to say,\Nsay it to Michael.
+Dialogue: 0,2:25:37.64,2:25:42.48,Default,,0,0,0,,Mike, you don't come to Las Vegas and\Ntalk to a man like Moe Greene like that!
+Dialogue: 0,2:25:43.23,2:25:44.44,Default,,0,0,0,,Fredo...
+Dialogue: 0,2:25:45.65,2:25:48.40,Default,,0,0,0,,You're my older brother, and I love you.
+Dialogue: 0,2:25:49.86,2:25:53.86,Default,,0,0,0,,But don't ever take sides with anyone\Nagainst the family again.
+Dialogue: 0,2:25:55.37,2:25:56.37,Default,,0,0,0,,Ever.
+Dialogue: 0,2:26:04.50,2:26:08.67,Default,,0,0,0,,I have to see my father and his people,\Nso have dinner without me.
+Dialogue: 0,2:26:10.42,2:26:11.99,Default,,0,0,0,,This weekend we'll go out.
+Dialogue: 0,2:26:12.02,2:26:15.34,Default,,0,0,0,,We'll go to the city,\Nsee a show and have dinner.
+Dialogue: 0,2:26:22.69,2:26:25.73,Default,,0,0,0,,Your sister wants to ask you something.
+Dialogue: 0,2:26:25.81,2:26:27.94,Default,,0,0,0,,- Let her ask.\N- She's afraid to.
+Dialogue: 0,2:26:28.02,2:26:30.99,Default,,0,0,0,,They want you to be godfather to their boy.
+Dialogue: 0,2:26:31.07,2:26:32.90,Default,,0,0,0,,- We'll see.\N- Will you?
+Dialogue: 0,2:26:32.99,2:26:35.32,Default,,0,0,0,,Let me think about it. Come on.
+Dialogue: 0,2:26:44.21,2:26:47.08,Default,,0,0,0,,Barzini will move against you first.
+Dialogue: 0,2:26:47.17,2:26:51.59,Default,,0,0,0,,He'll set up a meeting with someone\Nyou absolutely trust.
+Dialogue: 0,2:26:51.67,2:26:53.72,Default,,0,0,0,,Guaranteeing your safety.
+Dialogue: 0,2:26:54.97,2:26:58.05,Default,,0,0,0,,And at that meeting you'll be assassinated.
+Dialogue: 0,2:27:02.77,2:27:05.77,Default,,0,0,0,,I like to drink wine more than I used to.
+Dialogue: 0,2:27:07.19,2:27:10.69,Default,,0,0,0,,- Anyway, I'm drinking more.\N- It's good for you, Pop.
+Dialogue: 0,2:27:15.74,2:27:17.24,Default,,0,0,0,,I don't know.
+Dialogue: 0,2:27:19.28,2:27:22.20,Default,,0,0,0,,Are you happy with your wife and children?
+Dialogue: 0,2:27:23.16,2:27:26.00,Default,,0,0,0,,- Very happy.\N- That's good.
+Dialogue: 0,2:27:27.88,2:27:32.76,Default,,0,0,0,,I hope you don't mind the way\NI keep going over this Barzini business.
+Dialogue: 0,2:27:32.84,2:27:35.80,Default,,0,0,0,,- No, not at all.\N- It's an old habit.
+Dialogue: 0,2:27:37.26,2:27:40.26,Default,,0,0,0,,I spend my life trying not to be careless.
+Dialogue: 0,2:27:41.81,2:27:45.27,Default,,0,0,0,,Women and children can be careless,\Nbut not men.
+Dialogue: 0,2:27:48.61,2:27:50.94,Default,,0,0,0,,- How's your boy?\N- He's good.
+Dialogue: 0,2:27:51.07,2:27:53.78,Default,,0,0,0,,He looks more like you every day.
+Dialogue: 0,2:27:56.49,2:28:00.95,Default,,0,0,0,,He's smarter than I am. He's three\Nand can read the funny papers.
+Dialogue: 0,2:28:03.08,2:28:05.12,Default,,0,0,0,,Read the funny papers.
+Dialogue: 0,2:28:12.34,2:28:17.97,Default,,0,0,0,,I want you to arrange for a telephone man\Nto check all in-and out-going calls.
+Dialogue: 0,2:28:18.09,2:28:21.33,Default,,0,0,0,,I did it already. I took care of that, Pop.
+Dialogue: 0,2:28:21.36,2:28:23.42,Default,,0,0,0,,That's right. I forgot.
+Dialogue: 0,2:28:27.44,2:28:29.14,Default,,0,0,0,,What's the matter?
+Dialogue: 0,2:28:29.98,2:28:32.02,Default,,0,0,0,,What's bothering you?
+Dialogue: 0,2:28:35.61,2:28:40.24,Default,,0,0,0,,I'll handle it. I told you I can handle it,\Nso I'll handle it.
+Dialogue: 0,2:28:53.50,2:28:58.01,Default,,0,0,0,,I knew that Santino\Nwould have to go through all this.
+Dialogue: 0,2:28:58.09,2:28:59.72,Default,,0,0,0,,And Fredo...
+Dialogue: 0,2:29:02.43,2:29:04.47,Default,,0,0,0,,Fredo was, well...
+Dialogue: 0,2:29:06.35,2:29:09.18,Default,,0,0,0,,But I never wanted this for you.
+Dialogue: 0,2:29:11.52,2:29:13.05,Default,,0,0,0,,I worked my whole life.
+Dialogue: 0,2:29:13.08,2:29:16.60,Default,,0,0,0,,I don't apologize for\Ntaking care of my family.
+Dialogue: 0,2:29:16.65,2:29:20.57,Default,,0,0,0,,And I refused to be a fool,
+Dialogue: 0,2:29:20.66,2:29:24.78,Default,,0,0,0,,dancing on a string\Nheld by all those big shots.
+Dialogue: 0,2:29:26.75,2:29:30.21,Default,,0,0,0,,I don't apologize.\NThat's my life, but I thought that,
+Dialogue: 0,2:29:31.88,2:29:37.05,Default,,0,0,0,,that when it was your time, you would be\Nthe one to hold the strings.
+Dialogue: 0,2:29:38.84,2:29:44.51,Default,,0,0,0,,Senator Corleone. Governor Corleone.\NSomething.
+Dialogue: 0,2:29:44.60,2:29:47.60,Default,,0,0,0,,Another {\i1\c&H0080ff&\fnMicrosoft Sans Serif}pezzonovante{\c}{\fn\i0}.\N{\b1\c&Hc0c0c0&}[Big Shot]{\c}{\b0}
+Dialogue: 0,2:29:47.68,2:29:49.35,Default,,0,0,0,,Well...
+Dialogue: 0,2:29:52.56,2:29:56.48,Default,,0,0,0,,Just wasn't enough time, Michael.\NWasn't enough time.
+Dialogue: 0,2:29:56.57,2:30:00.07,Default,,0,0,0,,We'll get there, Pop. We'll get there.
+Dialogue: 0,2:30:04.91,2:30:09.37,Default,,0,0,0,,Now listen, whoever comes to you\Nwith this Barzini meeting,
+Dialogue: 0,2:30:09.45,2:30:12.41,Default,,0,0,0,,he's the traitor. Don't forget that.
+Dialogue: 0,2:30:29.39,2:30:31.52,Default,,0,0,0,,Can I hold it, please?
+Dialogue: 0,2:30:46.62,2:30:50.49,Default,,0,0,0,,- Can I water these?\N- Yes, go ahead.
+Dialogue: 0,2:30:50.58,2:30:53.37,Default,,0,0,0,,Over here, over here.
+Dialogue: 0,2:30:55.25,2:30:57.75,Default,,0,0,0,,Be careful. You're spilling it.
+Dialogue: 0,2:31:04.13,2:31:05.88,Default,,0,0,0,,Anthony!
+Dialogue: 0,2:31:05.97,2:31:07.64,Default,,0,0,0,,Come here, come here.
+Dialogue: 0,2:31:12.81,2:31:15.48,Default,,0,0,0,,That's it. We'll put it right there.
+Dialogue: 0,2:31:20.69,2:31:23.28,Default,,0,0,0,,I'll show you something. Come here.
+Dialogue: 0,2:31:25.32,2:31:27.20,Default,,0,0,0,,Stand there.
+Dialogue: 0,2:31:30.95,2:31:32.70,Default,,0,0,0,,Give me an orange!
+Dialogue: 0,2:31:51.06,2:31:52.85,Default,,0,0,0,,That's a new trick.
+Dialogue: 0,2:31:53.85,2:31:56.19,Default,,0,0,0,,You run in there. Run in there.
+Dialogue: 0,2:32:09.74,2:32:11.70,Default,,0,0,0,,Where are you?
+Dialogue: 0,2:35:09.38,2:35:11.76,Default,,0,0,0,,Mike, can I have a minute?
+Dialogue: 0,2:35:21.85,2:35:24.31,Default,,0,0,0,,Barzini wants to arrange a meeting.
+Dialogue: 0,2:35:24.39,2:35:27.69,Default,,0,0,0,,He says we can straighten out\Nany of our problems.
+Dialogue: 0,2:35:28.36,2:35:30.57,Default,,0,0,0,,- You talked to him?\N- Yeah.
+Dialogue: 0,2:35:31.90,2:35:35.70,Default,,0,0,0,,I can arrange security. On my territory.
+Dialogue: 0,2:35:38.74,2:35:41.28,Default,,0,0,0,,- All right?\N- All right.
+Dialogue: 0,2:35:58.80,2:36:01.76,Default,,0,0,0,,Do you know\Nhow they're going to come at you?
+Dialogue: 0,2:36:04.27,2:36:07.94,Default,,0,0,0,,They're arranging a meeting in Brooklyn.\NTessio's ground.
+Dialogue: 0,2:36:10.11,2:36:11.90,Default,,0,0,0,,Where I'll be safe.
+Dialogue: 0,2:36:24.16,2:36:27.75,Default,,0,0,0,,I always thought it would be Clemenza,\Nnot Tessio.
+Dialogue: 0,2:36:27.83,2:36:31.63,Default,,0,0,0,,It's the smart move.\NTessio was always smarter.
+Dialogue: 0,2:36:33.88,2:36:35.17,Default,,0,0,0,,But I'm going to wait.
+Dialogue: 0,2:36:35.84,2:36:36.84,Default,,0,0,0,,After the baptism.
+Dialogue: 0,2:36:40.72,2:36:44.31,Default,,0,0,0,,I've decided to be godfather\Nto Connie's baby.
+Dialogue: 0,2:36:44.39,2:36:48.56,Default,,0,0,0,,And then I'll meet with Don Barzini\Nand Tattaglia.
+Dialogue: 0,2:36:50.15,2:36:53.11,Default,,0,0,0,,All the heads of the five families.
+Dialogue: 0,2:39:14.08,2:39:19.04,Default,,0,0,0,,{\i1\c&H00ffff&}Michael, do you believe in God, the Father,\NCreator of Heaven and Earth?{\c}{\i0}
+Dialogue: 0,2:39:19.13,2:39:20.30,Default,,0,0,0,,I do.
+Dialogue: 0,2:39:20.38,2:39:23.88,Default,,0,0,0,,{\i1\c&H00ffff&}Do you believe in Jesus Christ,\NHis only Son, our Lord?{\c}{\i0}
+Dialogue: 0,2:39:23.97,2:39:24.97,Default,,0,0,0,,{\i1\c&H00ffff&}I do.{\c}{\i0}
+Dialogue: 0,2:39:25.05,2:39:29.10,Default,,0,0,0,,{\i1\c&H00ffff&}Do you believe in the Holy Ghost,\Nthe Holy Catholic Church?{\c}{\i0}
+Dialogue: 0,2:39:29.18,2:39:30.47,Default,,0,0,0,,{\i1\c&H00ffff&}I do.{\c}{\i0}
+Dialogue: 0,2:40:36.04,2:40:40.38,Default,,0,0,0,,{\i1\c&H00ffff&}Michael Francis Rizzi,\Ndo you renounce Satan?{\c}{\i0}
+Dialogue: 0,2:40:46.63,2:40:47.88,Default,,0,0,0,,I do renounce him.
+Dialogue: 0,2:40:57.56,2:40:58.98,Default,,0,0,0,,{\i1\c&H00ffff&}And all his works?{\c}{\i0}
+Dialogue: 0,2:41:12.87,2:41:13.91,Default,,0,0,0,,I do renounce them.
+Dialogue: 0,2:41:15.66,2:41:16.91,Default,,0,0,0,,Oh, God!
+Dialogue: 0,2:41:19.83,2:41:23.50,Default,,0,0,0,,{\i1\c&H00ffff&}- And all his pomps?{\c}{\i0}\N- I do renounce them.
+Dialogue: 0,2:41:39.27,2:41:43.48,Default,,0,0,0,,{\i1\c&H00ffff&}Michael Rizzi, will you be baptized?{\c}{\i0}
+Dialogue: 0,2:41:43.56,2:41:44.77,Default,,0,0,0,,I will.
+Dialogue: 0,2:41:51.91,2:41:57.41,Default,,0,0,0,,{\i1\c&H00ffff&}Michael Rizzi, go in peace,\Nand may the Lord be with you. Amen.{\c}{\i0}
+Dialogue: 0,2:42:11.63,2:42:13.55,Default,,0,0,0,,Kay!
+Dialogue: 0,2:42:13.64,2:42:15.60,Default,,0,0,0,,Kiss your godfather.
+Dialogue: 0,2:42:40.00,2:42:44.08,Default,,0,0,0,,Can't go to Vegas. Something's come up.
+Dialogue: 0,2:42:44.17,2:42:45.83,Default,,0,0,0,,Everybody has to leave without us.
+Dialogue: 0,2:42:45.92,2:42:48.88,Default,,0,0,0,,{\i1\c&H00ffff&}- Mike, it's our first vacation!{\c}{\i0}\N- Connie, please.
+Dialogue: 0,2:42:49.00,2:42:52.51,Default,,0,0,0,,Go back to the house, wait for my call.\NIt's important.
+Dialogue: 0,2:42:53.63,2:42:56.01,Default,,0,0,0,,I'll only be a couple of days.
+Dialogue: 0,2:43:12.28,2:43:14.49,Default,,0,0,0,,We're on our way to Brooklyn.
+Dialogue: 0,2:43:16.66,2:43:20.41,Default,,0,0,0,,- I hope Mike can get us a good deal.\N- I'm sure he will.
+Dialogue: 0,2:43:28.21,2:43:31.78,Default,,0,0,0,,Sal, Tom, the boss says he'll come\Nin a separate car,
+Dialogue: 0,2:43:31.81,2:43:33.66,Default,,0,0,0,,so you two go on ahead.
+Dialogue: 0,2:43:33.72,2:43:37.26,Default,,0,0,0,,- That screws up my arrangements.\N- That's what he said.
+Dialogue: 0,2:43:37.34,2:43:39.51,Default,,0,0,0,,I can't go either, Sal.
+Dialogue: 0,2:43:51.48,2:43:55.40,Default,,0,0,0,,Tell Mike it was only business.\NI always liked him.
+Dialogue: 0,2:43:57.07,2:43:59.91,Default,,0,0,0,,- He understands that.\N- Excuse me, Sal.
+Dialogue: 0,2:44:05.92,2:44:08.37,Default,,0,0,0,,Tom, can you get me off the hook?
+Dialogue: 0,2:44:09.54,2:44:12.71,Default,,0,0,0,,- For old times' sake?\N- Can't do it, Sally.
+Dialogue: 0,2:44:58.13,2:45:00.97,Default,,0,0,0,,You have to answer for Santino, Carlo.
+Dialogue: 0,2:45:05.85,2:45:09.77,Default,,0,0,0,,- Mike, you got it all wrong.\N- You fingered Sonny for Barzini.
+Dialogue: 0,2:45:10.81,2:45:14.73,Default,,0,0,0,,That little farce you played with\Nmy sister.
+Dialogue: 0,2:45:14.82,2:45:19.90,Default,,0,0,0,,- You think that could fool a Corleone?\N- I'm innocent. I swear on the kids.
+Dialogue: 0,2:45:19.99,2:45:22.70,Default,,0,0,0,,- Please, don't do this.\N- Sit down.
+Dialogue: 0,2:45:25.37,2:45:27.66,Default,,0,0,0,,Don't do this to me, please.
+Dialogue: 0,2:45:36.92,2:45:38.67,Default,,0,0,0,,Barzini is dead.
+Dialogue: 0,2:45:40.80,2:45:43.14,Default,,0,0,0,,So is Philip Tattaglia.
+Dialogue: 0,2:45:44.35,2:45:45.85,Default,,0,0,0,,Moe Greene.
+Dialogue: 0,2:45:46.81,2:45:50.60,Default,,0,0,0,,Strachi. Cuneo.
+Dialogue: 0,2:45:52.56,2:45:57.82,Default,,0,0,0,,Today I settle all family business,\Nso don't tell me you're innocent, Carlo.
+Dialogue: 0,2:45:57.90,2:45:59.69,Default,,0,0,0,,Admit what you did.
+Dialogue: 0,2:46:03.62,2:46:05.28,Default,,0,0,0,,Get him a drink.
+Dialogue: 0,2:46:11.58,2:46:12.87,Default,,0,0,0,,Come on.
+Dialogue: 0,2:46:14.21,2:46:16.63,Default,,0,0,0,,Don't be afraid, Carlo.
+Dialogue: 0,2:46:16.71,2:46:19.59,Default,,0,0,0,,Do you think I'd make my sister a widow?
+Dialogue: 0,2:46:20.72,2:46:23.43,Default,,0,0,0,,I'm godfather to your son, Carlo.
+Dialogue: 0,2:46:30.35,2:46:32.39,Default,,0,0,0,,Go ahead, drink, drink.
+Dialogue: 0,2:46:37.19,2:46:41.03,Default,,0,0,0,,No, you're out of the family business.\NThat's your punishment.
+Dialogue: 0,2:46:42.11,2:46:46.07,Default,,0,0,0,,You're finished.\NI'm putting you on a plane to Vegas.
+Dialogue: 0,2:46:46.16,2:46:47.78,Default,,0,0,0,,Tom.
+Dialogue: 0,2:46:51.91,2:46:55.50,Default,,0,0,0,,I want you to stay there. Understand?
+Dialogue: 0,2:46:55.58,2:46:58.17,Default,,0,0,0,,Only don't tell me you're innocent.
+Dialogue: 0,2:46:59.42,2:47:03.68,Default,,0,0,0,,Because it insults my intelligence.\NMakes me very angry.
+Dialogue: 0,2:47:07.93,2:47:09.97,Default,,0,0,0,,Who approached you?
+Dialogue: 0,2:47:11.27,2:47:13.48,Default,,0,0,0,,Tattaglia or Barzini?
+Dialogue: 0,2:47:21.36,2:47:23.07,Default,,0,0,0,,It was Barzini.
+Dialogue: 0,2:47:27.20,2:47:28.78,Default,,0,0,0,,Good.
+Dialogue: 0,2:47:35.00,2:47:39.04,Default,,0,0,0,,There's a car waiting outside\Nto take you to the airport.
+Dialogue: 0,2:47:39.13,2:47:42.67,Default,,0,0,0,,I'll call your wife and tell her\Nwhat flight you're on.
+Dialogue: 0,2:47:46.97,2:47:49.51,Default,,0,0,0,,- Mike...\N- Get out of my sight.
+Dialogue: 0,2:48:15.66,2:48:17.29,Default,,0,0,0,,Hello, Carlo.
+Dialogue: 0,2:49:17.14,2:49:20.27,Default,,0,0,0,,- I'm trying to tell you...\N- Mama, please!
+Dialogue: 0,2:49:28.65,2:49:30.74,Default,,0,0,0,,Michael!
+Dialogue: 0,2:49:30.82,2:49:32.82,Default,,0,0,0,,- What is it?\N- Where is he?
+Dialogue: 0,2:49:35.24,2:49:40.37,Default,,0,0,0,,Michael, you lousy bastard!\NYou killed my husband.
+Dialogue: 0,2:49:40.46,2:49:44.54,Default,,0,0,0,,You waited until Papa died,\Nso nobody could stop you.
+Dialogue: 0,2:49:44.63,2:49:47.71,Default,,0,0,0,,You blamed him for Sonny. Everybody did.
+Dialogue: 0,2:49:47.80,2:49:53.59,Default,,0,0,0,,But you never thought about me!\NNow what are we going to do?
+Dialogue: 0,2:49:53.68,2:49:55.30,Default,,0,0,0,,Connie.
+Dialogue: 0,2:49:57.56,2:50:00.27,Default,,0,0,0,,Why do you think he kept Carlo\Nat the Mall?
+Dialogue: 0,2:50:00.35,2:50:03.19,Default,,0,0,0,,He knew he was going to kill him.
+Dialogue: 0,2:50:03.27,2:50:08.61,Default,,0,0,0,,And you stood godfather to our baby.\NYou lousy cold-hearted bastard!
+Dialogue: 0,2:50:08.69,2:50:11.61,Default,,0,0,0,,Want to know how many men\Nhe had killed with Carlo?
+Dialogue: 0,2:50:11.64,2:50:12.81,Default,,0,0,0,,Read the papers!
+Dialogue: 0,2:50:12.87,2:50:15.62,Default,,0,0,0,,That's your husband, that's your husband!
+Dialogue: 0,2:50:25.29,2:50:29.51,Default,,0,0,0,,No! No, no...
+Dialogue: 0,2:50:29.59,2:50:32.97,Default,,0,0,0,,Take her upstairs. Get her a doctor.
+Dialogue: 0,2:50:54.11,2:50:55.82,Default,,0,0,0,,She's hysterical.
+Dialogue: 0,2:51:00.37,2:51:02.12,Default,,0,0,0,,Hysterical.
+Dialogue: 0,2:51:04.12,2:51:05.83,Default,,0,0,0,,Michael, is it true?
+Dialogue: 0,2:51:07.84,2:51:11.51,Default,,0,0,0,,- Don't ask me about my business, Kay.\N- Is it true?
+Dialogue: 0,2:51:11.59,2:51:14.34,Default,,0,0,0,,Don't ask me about my business. Enough!
+Dialogue: 0,2:51:34.40,2:51:35.91,Default,,0,0,0,,All right.
+Dialogue: 0,2:51:38.74,2:51:40.49,Default,,0,0,0,,This one time.
+Dialogue: 0,2:51:44.46,2:51:47.79,Default,,0,0,0,,This one time I'll let you ask me\Nabout my affairs.
+Dialogue: 0,2:51:53.88,2:51:55.30,Default,,0,0,0,,Is it true?
+Dialogue: 0,2:51:59.39,2:52:00.89,Default,,0,0,0,,Is it?
+Dialogue: 0,2:52:02.64,2:52:04.02,Default,,0,0,0,,No.
+Dialogue: 0,2:52:17.95,2:52:20.91,Default,,0,0,0,,I guess we both need a drink. Come on.
+Dialogue: 0,2:52:52.19,2:52:53.90,Default,,0,0,0,,Don Corleone.
